@@ -1,16 +1,14 @@
 # OpenTrafficSurvey
 **Methodology for automating a citizen traffic survey**
 
-  OpenLocalForums
-  OpenConditonMonitoring
+ OpenConditonMonitoring
     Traffic flow estimator
 
 FYI -  https://github.com/MrChrisJ/World-Citizenship
 
-The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  It arises from long term notes on using AI to do environmental surveys, such as traffic levels and the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing.
+The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  It arises from long term notes on how AI techniques could assist in continuous environmental surveys such as traffic levels and the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing.
 
 The Open Traffic Survey does this by outline a procedure which retains un-tamperable video evidence, and shows how to easily input that information into an open source spreadsheet. There are a number of calculations and charts can be produced automatically.
-
 
 **Hardware Set-up**
 
