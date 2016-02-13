@@ -76,9 +76,36 @@ The next two columns, frames and Time, are calculated from the input data, the n
 0
 
 
-The left right column holds the information on which direction the traffic is travelling. 
+The "left right" column holds the information on which direction the traffic is travelling. 
 
-The spreadsheet currently averages data from left and right for some "insight" into instantaneous. In order to do that each event is also noted a 0 left to right and 1 right to left. This leaves the possibility that the data can be split and analysed in one direction later, but doesn't add the confusion of using separate sheets, for left and right traffic.
+The spreadsheet currently averages data from left and right for some "insight" into instantaneous. 
 
-The current sheet is an example sheet set up for 25yards and 5 frames per second video. However, as the sheet is being generalised from a real sheet it is recommended you study how the calculations were done and wither they fit your case. An alternative sheet  to reduce the work, but quickly show flow levels is "in development" ie it is a cut down version of the current sheet.
+0 = Entered from Left
+1 = Entered from Right
 
+In order to do that each event is also noted a 0 left to right and 1 right to left. This leaves the possibility that the data can be split and analysed in one direction later, but doesn't add the confusion of using separate sheets, for left and right traffic.
+
+The current sheet is an example sheet set up for 25yards and 5 frames per second video. However, as the sheet is being generalised from a real sheet it is recommended you study how the calculations were done and wither they fit your case. An alternative sheet  to reduce the work, but quickly show flow levels is "in development" i.e it is just a cut down version of the current spreadsheet.
+
+
+Err – 1 Frame	Vehicle Speed MPH over 25yds	Err + 1 Frame
+42.61           36.53                   	31.96
+13.46           12.78                   	12.18
+
+The vehicle speed is calculated from the exact time, calculated from the number of frames the vehicle took to traverse the 25 yards of the measurement distance. The error is calculated for 1 frame when a video frame rate of 5 frames per second is used. The system was tested and has to be converted from 24 frames per second, where even using a 5 frame error the video method was accurate.  
+
+
+In the case above :  
+
+speeds
+36.53 - 31.96 = 4.57   gives an error of (4.57 / 36.53) * 100 = 12 %  maximum error
+42.6 - 36.53 = 6.07    gives an error of (6.07 / 36.53) * 100 = 17 %  maximum error
+
+In the case of a slow vehicle 
+
+12.78 - 12.18 = 0.6  which gives a lower maximum error of  (0.6 / 12.78) * 100 = 4.7 %  maximum error
+13.46 - 12.78 = 0.68 which gives a  maximum error of       (0.68 / 12.78) * 100 = 5.32%  maximum error
+
+
+
+In which case the error was calculated for 5 frames was in fact the same as one frame at 5 frames /s 
