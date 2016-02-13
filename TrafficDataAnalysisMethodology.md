@@ -29,6 +29,21 @@ Cell E7 - Date
 
 Date the analysis was initiated.
 
-*Collated average and total information for the full period of analysis*
+**Example collated average and totals / information for the full period of the Traffic Analysis**
+
+Vehicles Per Hour	306.00
+Average Speed MPH	29.17
+MaxSpeed MPH	51.14
+MinSpeed MPH	12.78
+Traffic Flow VPH Max	592.11
+Traffic Flow VPH  Min	71.54
+MaxDistanceBetweenVehicles	0.00
+MinDistanceBetweenVehicles	0.00
+Traffic Flow VPH Avg	733.24
+AvgStoppingDistance	24.61
+MaxStoppingDistance	60.63
+MinStoppingDistance	5.44
+AvgDistanceBetweenVehicles Yds	88.83
+
 
 
