@@ -13,7 +13,7 @@ Computer to analyse data
 
 Avidemux video editor
 
-LibreOffice Spreadsheet software
+Libre Office Spreadsheet software
 
 
 **Open Traffic Survey - Methodology**  
@@ -44,9 +44,9 @@ As each vehicle enters the frame, the spreadsheet is updated with the frame numb
 
 Various lengths and frame rates were tested, it was possible to get accurate results, with a reasonable "calculated" error level with 25 yards measurement and a 5 frames per second video.  
 
-**Ensuring correct framerate index**
+**Ensuring correct frame rate index**
 
-Sometimes using cheep cameras or open software to record long periods of video the AVI files can loose their index. However, it is possible to reindex the files using ffmpeg.
+Sometimes using cheep cameras or open software to record long periods of video the AVI files can loose their index. However, it is possible to re-index the files using ffmpeg.
 
 Commands for using ffmpeg (Linux terminal)  to repair AVI video files index.
 
