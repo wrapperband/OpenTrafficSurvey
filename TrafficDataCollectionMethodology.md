@@ -7,7 +7,7 @@ USB digital camera or other video camera
 
 Computer to analyse data
 
-1 yard stick
+1 yard stick, chalk or charcoal temporary marker.
 
 **Software Requirement**
 
@@ -21,9 +21,12 @@ LibreOffice Spreadsheet software
 Position the camera at a suitable place to video record the traffic, preferably side on.  
   
 Should the positioning be restrictive a wide angle lens can be used to increase the analysis distance travelled by the vehicles.  
+
 Record video of the traffic.  
 
-For a high rate of traffic, i.e. greater than 300 vehicles an hour, this would be about 10 minutes, for manual analysis.  
+I used a Logitech camera, and powered USB extension to allow the camera to be place high in a ground floor window, or in an upper room window looking down at the road.
+
+For a high rate of traffic, i.e. greater than 300 vehicles an hour, this would be about 10 minutes, for manual analysis.  However, I would advise recording for a full hour if possible, for each 5 or 10 minute close analysis period. This gives the possibility of post or historical analysis should extra evidence be required, for instance to prove the inaccuracy of Vehicle Speed surveys being used to estimate vehicle flow rates.
 
 It is not necessary to take high resolution video, 640 x 480 is fine to identify when a car is entering or leaving the analysis "box".  
 
@@ -48,5 +51,7 @@ Sometimes using cheep cameras or open software to record long periods of video t
 Commands for using ffmpeg (Linux terminal)  to repair AVI video files index.
 
 ffmpeg -i 2016-09-24-4.avi -c copy 2016-09-24-4-reindexed.avi   
+
+Note : The re-indexed video file will not retain the original file date and time, so it is important to retain the original video.
 
 
