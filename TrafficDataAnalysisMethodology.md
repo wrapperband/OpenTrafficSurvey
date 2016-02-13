@@ -3,9 +3,9 @@
 
 **Fields of the spreadsheet**
 
-Information and overall averages
+*Information fields for the Spreadsheet.*
 
-Lines 4, 5 and 6 of the spreadsheet store the identiification data for the survey and total and average information collated from the subsequent analysis columns
+Lines 4, 5 and 6 of the spreadsheet store the identification data for the survey and total and average information collated from the subsequent analysis columns
 
 **On the Template sheet**
 
@@ -28,5 +28,7 @@ Time the analysis was initiated.
 Cell E7 - Date 
 
 Date the analysis was initiated.
+
+*Collated average and total information for the full period of analysis*
 
 
