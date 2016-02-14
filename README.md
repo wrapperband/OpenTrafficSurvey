@@ -36,15 +36,34 @@ Examination of the video evidence, compared to the triggered photo method showed
 
 The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tools, which is also conceived as open source tools to enable to enable the public to run easily audit-able "Open Governance Systems" or "Government monitoring systems".
 
-1 Open Governance  
- 1.1  https://github.com/MrChrisJ/World-Citizenship  
- 1.2  https://github.com/wrapperband/Open-Condition-Monitoring  
-   1.2.1   Traffic flow estimator   
+  Open Governance  
+    https://github.com/MrChrisJ/World-Citizenship  
+    https://github.com/wrapperband/Open-Condition-Monitoring  
+        Traffic flow estimator   
 
 
-**Example Traffic flow chart from the spreadsheet**
+**Example Traffic flow charts from the spreadsheet**
+
+**Traffic Flow Rates 2016**  
 
 ![alt tag](02-flowrates.9.1.2016-15.00-1.jpg)  
+
+**Traffic Survey of vehicles types 2010**
+
+![alt tag](03-Traffic Survey-4-6-2010-01.jpg)
+
+**Traffic Survey of vehicles types 2010**
+
+![alt tag](04-Traffic Survey-4-6-2010-02.jpg)
+
+**Distance Between Vehicles - 2016**
+
+![alt tag](05-Distance BetweenVehicles-Traffic Survey-9-1-2016-03.jpg)
+
+**Speed of Vehicles - 2016**
+
+![alt tag](06-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
+
 
 
 {OpenTrafficSurvey}
