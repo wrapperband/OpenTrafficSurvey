@@ -23,9 +23,10 @@ Various techniques and common equipment were tested for potential use as sensors
 
 In the 2015 survey, a triggering mechanism was used to save a single or small number of stills as each vehicle passing, which could be simply counted as the number of files in a folder for that time period. 
 
-This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. The drawback was it had to be a significant calibration as it under estimated the traffic by 1/3 for the flow and possible set up of the trigger. At the traffic flow of one car every 12 seconds (8 till 8), the calibration will be lower for lower flows.
+This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. The drawback with the video image triggering method it had to be a significant calibration.
+Although it was consistent it under estimated the traffic by 1/3. (With a traffic flow of one car every 12 seconds) The calibration may be lower for lower flows. 
 
-However, the trigger method was surprisingly accurate  for such a large calibration, when sample tested with a video count..
+However, the video trigger method was surprisingly accurate  for such a large calibration, when sample tested with a manual count of traffic from a video ..
 
 Examination of the video evidence, compared to the triggered photo method showed the reasons why it underestimates the flow ... 
 
