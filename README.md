@@ -1,7 +1,7 @@
 #Open Traffic Survey
 **Introduction to a citizen Traffic Survey Methodology**
 
-The Open Traffic Survey main aim is to outline a procedure which retains un-tamperable (video) evidence of Traffic and provide an open source spreadsheet which data can be input and visualised with charts.  
+The aim of Open Traffic Survey is to outline a procedure which retains un-tamperable (video) evidence of Traffic characteristics and provide an open source spreadsheet which data can be input and visualised with charts.  
 
 **Open Traffic Survey : History of development**
 
