@@ -11,7 +11,7 @@ It was also envisaged that the system could be used to confirm or refute the err
 
 This chart is from the first spreadsheet with data taken from Video evidence, then manually counting the number of vehicles into  each hour "pot". A time consuming, but satisfying task as it dispelled pre-conceived ideas of what the traffic flows were. Evidence of high traffic levels on weekends and holidays dispelled the myth that heavier traffic in the week could be allowed as there is respite at the weekend, for instance ..... 
 
-![alt tag](1-flowrates.29.10.2013-1.jpg)  
+![alt tag](01-flowrates.29.10.2013-1.jpg)  
 
 
 Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming process. 
@@ -34,10 +34,10 @@ It then provides an open source spreadsheet which data can be input. In the spre
 
 The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tools, which is also conceived as open source tools to enable to enable the public to run easily audit-able "Open Governance Systems" or "Government monitoring systems".
 
- Open Governance  
-   https://github.com/MrChrisJ/World-Citizenship  
-   https://github.com/wrapperband/Open-Condition-Monitoring  
-      Traffic flow estimator   
+1 Open Governance  
+ 1.1  https://github.com/MrChrisJ/World-Citizenship  
+ 1.2  https://github.com/wrapperband/Open-Condition-Monitoring  
+   1.2.1   Traffic flow estimator   
 
 
 **Example Traffic flow chart from the spreadsheet**
