@@ -7,7 +7,7 @@ The aim of Open Traffic Survey is to outline a procedure which retains un-tamper
 
 The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
 
-The methodology arises from long term notes on how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. 
+The methodology arises from long term notes on how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.
 
 The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show/ visualise the true effect of "average vehicle flows" being experienced. 
 
