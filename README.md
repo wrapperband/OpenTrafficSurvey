@@ -1,7 +1,15 @@
 #Open Traffic Survey
 **Introduction to a citizen Traffic Survey Methodology**
 
-The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  It arises from long term notes on how AI techniques could assist in continuous environmental surveys such as traffic levels and the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing.
+The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  It arises from long term notes on how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. It also arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing.
+
+Various techniques and common equipment were tested for potential use as sensors and analysis. Initially a triggering mechanism was used to save a single or small number of stills as each vehicle passed. This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic. The drawback was it had to be a significant calibration as it under estimated the traffic by 1/3. However, it was surprisingly accurate  for such a large calibration.
+Examination of the video evidence, compared to the triggered photo method showed the reasons why. 
+
+1. At the traffic levels on the road, traffic was often bunched <  less than the re-triger time for the system.
+2. Vehicles often passed in opposite directions at that point in the road ( between parked cars) only triggering one event.
+
+
 
 The Open Traffic Survey does this by outlining a procedure which retains un-tamperable video evidence. It then shows how to easily input that information into an open source spreadsheet. In the spreadsheet there are a number of calculations and charts that can be produced automatically. The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tools, which is also conceived as open source tools to enable to enable the public to run easily audit-able "Open Governance Systems" or "Government monitoring systems".
 
