@@ -15,11 +15,13 @@ It was also envisaged that the system could be used to confirm or refute the err
 
 This chart is from the first spreadsheet with data taken from Video evidence, then manually counting the number of vehicles into  each hour "pot". A time consuming, but satisfying task as it dispelled pre-conceived ideas of what the traffic flows were. Evidence of high traffic levels on weekends and holidays dispelled the myth that heavier traffic in the week could be allowed as there is respite at the weekend, for instance ..... 
 
+**Traffic flow rates for 29th to 30th 10.2010**
+
 ![alt tag](01-flowrates.29.10.2013-1.jpg)  
 
 **Open Traffic Survey : Observations and Results from Test Surveys**
 
-Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process. 
+Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. 
 
 In the 2015 survey, a triggering mechanism was used to save a single or small number of stills as each vehicle passing, which could be simply counted as the number of files in a folder for that time period. 
 
