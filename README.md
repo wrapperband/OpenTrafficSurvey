@@ -1,9 +1,15 @@
 #Open Traffic Survey
 **Introduction to a citizen Traffic Survey Methodology**
 
-The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  It arises from long term notes on how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. It also arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. It also arose from an investigation of various charts and calculations to show the true effect of "average vehicle flows"; it was also envisaged to be used to confirm or refute the error levels of "official data" collected at the time. In the test case where Traffic readings were taken at a non standard road position which would emphasis the low speed under counting, inherent in low cost "Traffic Speed Surveys" systems when calculating "Traffic Flow Rates".
+The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
 
-This chart is from the first spreadsheet with data taken from Video evidence, then manually counting the number of vehicles into  each hour "pot". A time consuming, but satisfying task as pre-conceived ideas of what the traffic were dispelled ... 
+The methodology arises from long term notes on how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. 
+
+The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show/ visualise the true effect of "average vehicle flows" being experienced. 
+
+It was also envisaged that the system could be used to confirm or refute the error levels of "official data" collected at the time. In the test case where Traffic readings were taken at a non standard road position which would emphasis the low speed under counting, inherent in low cost "Traffic Speed Surveys" systems when calculating "Traffic Flow Rates".
+
+This chart is from the first spreadsheet with data taken from Video evidence, then manually counting the number of vehicles into  each hour "pot". A time consuming, but satisfying task as it dispelled pre-conceived ideas of what the traffic flows were. Evidence of high traffic levels on weekends and holidays dispelled the myth that heavier traffic in the week could be allowed as there is respite at the weekend, for instance ..... 
 
 ![alt tag](1-flowrates.29.10.2013-1.jpg)  
 
