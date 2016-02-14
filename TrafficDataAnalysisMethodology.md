@@ -47,6 +47,8 @@ AvgDistanceBetweenVehicles Yds	88.83
 
 **Columns of the spreadsheet**
 
+*Input the video frame number for each vehicle entering and leaving the measurement "box"*
+
 Start Frame	End frame
 0          	
 14         	21
@@ -58,6 +60,7 @@ At Cell C8 is where you input data into the spreadsheet. The template is set up 
 
 Care needs to be taken when vehicles are arriving in the box, to input them in order into the spreadsheet. On the video, one vehicle arrives from left, you must input the arrival frame and exit frame of that vehicle, whilst noting to go back, because another vehicle was behind it or arriving from the other direction....
 
+*Calculating the time to Travese the measurement box*
 
 Frames	Accurate Time (secs)
 7	1.40
@@ -67,6 +70,7 @@ Frames	Accurate Time (secs)
 
 The next two columns, frames and Time, are calculated from the input data, the number of frames it took the vehicle's bonnet to enter the 25 yards, to when it's bonnet exits the 25 yards measurement box. Care must be taken, however it can soon be seen that an error of 1 frame at 5 frames per second, does not actually effect the required accuracy of results.
 
+*Vehicle direction*
 
 0 = Left to Right
 0
@@ -87,6 +91,7 @@ In order to do that each event is also noted a 0 left to right and 1 right to le
 
 The current sheet is an example sheet set up for 25yards and 5 frames per second video. However, as the sheet is being generalised from a real sheet it is recommended you study how the calculations were done and wither they fit your case. An alternative sheet  to reduce the work, but quickly show flow levels is "in development" i.e it is just a cut down version of the current spreadsheet.
 
+*Vehicle speed and error calculations*
 
 Err – 1 Frame	Vehicle Speed MPH over 25yds	Err + 1 Frame
 42.61           36.53                   	31.96
@@ -106,6 +111,66 @@ In the case of a slow vehicle
 12.78 - 12.18 = 0.6  which gives a lower maximum error of  (0.6 / 12.78) * 100 = 4.7 %  maximum error
 13.46 - 12.78 = 0.68 which gives a  maximum error of       (0.68 / 12.78) * 100 = 5.32%  maximum error
 
+In which case the error was calculated for 5 frames was in fact the same as one frame at 5 frames /sec. if the additional accuracy and storage space no object the error can by reduced by a fifth by using 25 frames a second or greater video frame rates.
 
 
-In which case the error was calculated for 5 frames was in fact the same as one frame at 5 frames /s 
+*Vehicles flow rate per hour and per last 5 vehicles*  
+
+Vehicles Per Hour (Each  last 5 cars)	Vehicles Per Hour (10 minutes Sample)
+                                        306.00
+                                        306.00
+                                        306.00
+                                        306.00
+                                        306.00
+165.14	                                306.00
+166.36	                                306.00
+260.12	                                306.00
+
+
+Vehicles per hour is calculated by totalling the vehicles for the sample period in this case 10 mins. This is then multiplied by how many times the sampling period fits into one hour. In the example case there are 6 10minutes in One Hour.
+
+Vehicles per hour last 5 cars, calculates the time for 5 cars to pass, then the time for one car to pass is 1/5th of that. Dividing the time for one car into one hour gives the number of cars per hour, for the last 5 cars.
+
+The vehicles per hour calculation could be extended to 10 vehicles, that would damp further the indication of peak traffic levels as traffic bunches which the smaller sample gives. Ideally it should be for each 2 vehicles, to measure absolute "bunching" factor.
+
+Note : the calculation cannot start till five vehicles have passed, which is why the first 5 fields of Vehicles per hour (last 5 vehicles) are empty.
+
+It is noted that it would be possible to calibrate pollution levels to the instantaneous or "5 car average" flow rates, these being much higher when vehicles are "bunched".
+
+*Calculating the distance between vehicles*
+
+Distance between Vehicles Error – 1 frames	Distance between vehicles (yds) avg last 5 Vehicles	Distance between Vehicles Error + 1 frames
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+ 	 	 
+60.12                                   	57.62                                              	55.31  
+
+
+Distance between the vehicles is estimated from speed of the vehicles, and how far that would have travelled in the time for the 5 vehicles to pass. There is an add complication of averaging left and right hand traffic in the example sheet. However, the average is re-calculated for every vehicle which shows the assumptions are reasonable in the test case where traffic was evenly balanced left to right.
+
+It is noted that a method of splitting the left and right sheets for some results would be advantageous, or a more advanced sheet to get over that problem / extra work, some other way.
+
+*Safe stopping distance calculations*
+
+Safe Stop Distance For Speed -Yds	Safe Stop Distance For Speed – F  	Distance between vehicles (yds) min last 5 Vehicles
+34.41                           	103.23	 
+6.99	                        	20.96	
+27.68	                        	83.03	
+22.92	                        	68.76	
+27.68	                        	83.03	 
+5.44	                        	16.33	                        	11.52
+
+
+Safe stop distance uses the speed reading and the standard speed v. stopping distance equation to generate the safe stop distance for that vehicle (dry conditions). 
+
+After 5 vehicles pass it is then possible calculate or extract the min, max or average distance between cars. As there are various causes of bunching and sometimes vehicles stop to allow passing the spreadsheet includes the Average distance.
+
+*Example of a simple simulation 2 x traffic level*
+
+Vehicles per Hour – with Twice / X times  the Trafiic 	Vehicles Per Hour (Each last 5 cars) – With Simulated Traffic
+612.00	
+612.00	
+612.00	
+

@@ -19,14 +19,13 @@ This chart is from the first spreadsheet with data taken from Video evidence, th
 
 **Open Traffic Survey : Observations and Results from Test Surveys**
 
-Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming process. 
+Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process. 
 
 In the 2015 survey, a triggering mechanism was used to save a single or small number of stills as each vehicle passing, which could be simply counted as the number of files in a folder for that time period. 
 
-This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. The drawback with the video image triggering method it had to be a significant calibration.
-Although it was consistent it under estimated the traffic by 1/3. (With a traffic flow of one car every 12 seconds) The calibration may be lower for lower flows. 
+This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. The drawback with the video image triggering method it had to be subject a significant calibration. Although it was consistent it under estimated the traffic by 1/3. (With a traffic flow of one car every 12 seconds) The calibration may be lower for lower flows, but meant the values need to be multiplied by 3 to get the actual figure. 
 
-However, the video trigger method was surprisingly accurate  for such a large calibration, when sample tested with a manual count of traffic from a video ..
+However, the video trigger method was surprisingly accurate,  for a method which required such a large calibration factor, when sample tested with a manual count of traffic from a video ..
 
 Examination of the video evidence, compared to the triggered photo method showed the reasons why it underestimates the flow ... 
 
