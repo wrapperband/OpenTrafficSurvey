@@ -66,14 +66,17 @@ The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tool
 
 ![alt tag](06-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
 
+  
 **Possible future development**
 
 https://github.com/delsmith/Traffic-Survey-Development
 
-This Github contains a reversed engineered version of "Traffic Speed Survey" equipment used many countries. It would be possible to convert data from the counter to be input into the spreadsheet and vice versa.
+This Github contains a reversed engineered version of "Traffic Speed Survey" software used by standard equipment in countries. It would be possible to convert data from the counter to be input into the spreadsheet and vice versa.
 
-The possibility of using information from other sensors such as Wi-Fi interference, noise monitoring Kinect and having a system to store  and analyse that data.
+The possibility of using information from other sensors such as Wi-Fi interference, noise monitoring, Kinect etc and having a system to store / analyse that data.
+  
 
+  
 **Licensing**  
   
 {**OpenTrafficSurvey**}
