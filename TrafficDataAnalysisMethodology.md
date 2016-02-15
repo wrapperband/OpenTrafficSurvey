@@ -122,15 +122,16 @@ In which case the error was calculated for 5 frames was in fact the same as one 
 
 **Vehicles flow rate per hour and per last 5 vehicles**  
   
-Vehicles Per Hour (Each  last 5 cars)	Vehicles Per Hour (10 minutes Sample)  
-                                        306.00  
-                                        306.00  
-                                        306.00  
-                                        306.00  
-                                        306.00  
-165.14	                                306.00  
-166.36	                                306.00  
-260.12	                                306.00  
+Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample) 
+-------------------------------------   |   -------------------------------------
+        |                                306.00  
+        |                                306.00  
+        |                                306.00  
+        |                                306.00  
+        |                                306.00  
+165.14	|                                306.00  
+166.36	|                                306.00  
+260.12	|                                306.00  
   
 
 Vehicles per hour is calculated by totalling the vehicles for the sample period in this case 10 mins. This is then multiplied by how many times the sampling period fits into one hour. In the example case there are 6 10minutes in One Hour.  
@@ -145,13 +146,14 @@ It is noted that it would be possible to calibrate pollution levels to the insta
 
 **Calculating the distance between vehicles**
 
-Distance between Vehicles Error – 1 frames	Distance between vehicles (yds) avg last 5 Vehicles	Distance between Vehicles Error + 1 frames  
- 	 	     
- 	 	     
- 	 	     
- 	 	     
- 	 	     
-60.12                                   	57.62                                              	55.31  
+Distance between Vehicles Error – 1 frames  |	Distance between vehicles (yds) avg last 5 Vehicles   |	Distance between Vehicles Error + 1 frames
+------------------------------------------  |   --------------------------------------------------- |   ------------------------------------------
+ 	| |
+ 	| |
+ 	| |
+ 	| |
+ 	| |
+60.12   |   57.62   |   55.31
 
 
 Distance between the vehicles is estimated from speed of the vehicles, and how far that would have travelled in the time for the 5 vehicles to pass. There is an add complication of averaging left and right hand traffic in the example sheet. However, the average is re-calculated for every vehicle which shows the assumptions are reasonable in the test case where traffic was evenly balanced left to right.  
@@ -160,13 +162,14 @@ It is noted that a method of splitting the left and right sheets for some result
 
 **Safe stopping distance calculations**
 
-Safe Stop Distance For Speed -Yds	Safe Stop Distance For Speed – F  	Distance between vehicles (yds) min last 5 Vehicles  
-34.41                           	103.23	   
-6.99	                        	20.96	  
-27.68	                        	83.03	  
-22.92	                        	68.76	  
-27.68	                        	83.03	   
-5.44	                        	16.33	                        	11.52  
+Safe Stop Distance For Speed -Yds   |   Safe Stop Distance For Speed – F  |   Distance between vehicles (yds) min last 5 Vehicles  
+---------------------------------   |   ------------------------------- |   ---------------------------------------------------
+34.41   |   103.23  |   
+6.99    |   20.96   |   
+27.68   |  83.03   |  
+22.92   |  68.76   |  
+27.68   |  83.03   |  
+5.44   |  16.33   |  11.52  
 
 
 Safe stop distance uses the speed reading and the standard speed v. stopping distance equation to generate the safe stop distance for that vehicle (dry conditions).   
@@ -175,8 +178,11 @@ After 5 vehicles pass it is then possible calculate or extract the min, max or a
 
 **Example of a simple simulation 2 x traffic level**
 
-Vehicles per Hour – with Twice / X times  the Trafiic 	Vehicles Per Hour (Each last 5 cars) – With Simulated Traffic  
-612.00	  
-612.00	  
-612.00	  
+Vehicles per Hour – with Twice / X times  the Trafiic   |   Vehicles Per Hour (Each last 5 cars) – With Simulated Traffic  
+-----------------------------------------------------   |   -------------------------------------------------------------
+612.00  |	 
+612.00  |	 
+612.00  |	
+
+
 
