@@ -74,8 +74,9 @@ This Github contains a reversed engineered version of "Traffic Speed Survey" equ
 
 The possibility of using information from other sensors such as Wi-Fi interference, noise monitoring Kinect and having a system to store  and analyse that data.
 
-
-{OpenTrafficSurvey}
+**Licensing**  
+  
+{**OpenTrafficSurvey**}
     Copyright (C) {2015 / 2016}  {Wrapperband}
 
     This program is free software; you can redistribute it and/or modify
