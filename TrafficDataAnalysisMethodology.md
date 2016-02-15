@@ -51,10 +51,11 @@ AvgDistanceBetweenVehicles Yds   |	88.83
 
 **Input the video frame number for each vehicle entering and leaving the measurement "box"**
 
-Start Frame   |	End frame  
-0          	  
-14         	21  
-239	        259  
+Start Frame |   End frame
+----------- |   ---------
+0          |      
+14         |    21  
+239	   |    259  
 
 At Cell C8 is where you input data into the spreadsheet. The template is set up to input data for 25yards survey at 5 frames per minute. Even so the figures rapidly increase in value, so cutting the frame number (Cntr-C) from the frame number box in Avidemux and pasting it into the spreadsheet, saves time and prevents errors.
 
@@ -64,22 +65,24 @@ Care needs to be taken when vehicles are arriving in the box, to input them in o
 
 **Calculating the time to Traverse the measurement "Box"**
 
-Frames	Accurate Time (secs)  
-7	1.40  
-20	4.00  
-8	1.60  
-9	1.80  
+Frames	|    Accurate Time (secs)
+------- |   ---------------------
+7	| 1.40  
+20	| 4.00  
+8	| 1.60  
+9	| 1.80  
   
 The next two columns, frames and Time, are calculated from the input data, the number of frames it took the vehicle's bonnet to enter the 25 yards, to when it's bonnet exits the 25 yards measurement box. Care must be taken, however it can soon be seen that an error of 1 frame at 5 frames per second, does not actually effect the required accuracy of results.  
 
 **Vehicle direction**  
 
-0 = Left to Right  
-0  
-1  
-0  
-0  
-0  
+  | 0 = Left to Right  
+--| -----------------
+  | 0  
+  | 1  
+  | 0  
+  | 0  
+  | 0  
   
 
 The "left right" column holds the information on which direction the traffic is travelling.   
@@ -95,9 +98,10 @@ The current sheet is an example sheet set up for 25yards and 5 frames per second
 
 **Vehicle speed and error calculations**  
   
-Err – 1 Frame	Vehicle Speed MPH over 25yds	Err + 1 Frame  
-42.61           36.53                   	31.96  
-13.46           12.78                   	12.18  
+Err – 1 Frame	| Vehicle Speed MPH over 25yds	|  Err + 1 Frame  
+-------------   | ----------------------------  |  -------------
+42.61   |   36.53   |   31.96  
+13.46   |   12.78   |   12.18  
 
 The vehicle speed is calculated from the exact time, calculated from the number of frames the vehicle took to traverse the 25 yards of the measurement distance. The error is calculated for 1 frame when a video frame rate of 5 frames per second is used. The system was tested and has to be converted from 24 frames per second, where even using a 5 frame error the video method was accurate.  
 
