@@ -9,7 +9,7 @@ Lines 4, 5 and 6 of the spreadsheet store the identification data for the survey
 
 **On the Template sheet**
 
-Cell 4E  - Address of Traffic Survey Rd
+Cell 4E  - Address of Traffic Survey location 
 
 Input the Address and postcode of the position the video of traffic was taken
 
@@ -148,10 +148,6 @@ It is noted that it would be possible to calibrate pollution levels to the insta
 
 Distance between Vehicles Error – 1 frames  |	Distance between vehicles (yds) avg last 5 Vehicles   |	Distance between Vehicles Error + 1 frames
 ------------------------------------------  |   --------------------------------------------------- |   ------------------------------------------
- 	| |
- 	| |
- 	| |
- 	| |
  	| |
 60.12   |   57.62   |   55.31
 
