@@ -76,13 +76,13 @@ The next two columns, frames and Time, are calculated from the input data, the n
 
 **Vehicle direction**  
 
-  | 0 = Left to Right  
---| -----------------
-  | 0  
-  | 1  
-  | 0  
-  | 0  
-  | 0  
+0 = Left to Right   |  
+-----------------  |  
+0   | 
+1   |  
+0   |  
+0   |  
+0   |  
   
 
 The "left right" column holds the information on which direction the traffic is travelling.   
