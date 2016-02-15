@@ -31,6 +31,7 @@ Date the analysis was initiated.
 
 **Example collated average and totals / information for the full period of the Traffic Analysis**
 
+Description of Calculation | Example Value
 Vehicles Per Hour	306.00  
 Average Speed MPH	29.17  
 MaxSpeed MPH	51.14  
