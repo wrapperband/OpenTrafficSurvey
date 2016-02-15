@@ -106,7 +106,7 @@ Err – 1 Frame	| Vehicle Speed MPH over 25yds	|  Err + 1 Frame
 The vehicle speed is calculated from the exact time, calculated from the number of frames the vehicle took to traverse the 25 yards of the measurement distance. The error is calculated for 1 frame when a video frame rate of 5 frames per second is used. The system was tested and has to be converted from 24 frames per second, where even using a 5 frame error the video method was accurate.  
 
 
-**Calculating the percentage errors the sample survey case above : **  
+**Calculating the percentage errors the sample survey case above :**  
 
 *The error at normal vehicle speeds*  
 
