@@ -7,9 +7,9 @@ The aim of Open Traffic Survey is to outline a procedure which retains un-tamper
 
 The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
 
-The methodology arises from long term notes on how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.
+The methodology arises from long term notes / study of how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.
 
-The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show/ visualise the true effect of "average vehicle flows" being experienced. 
+The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show/ visualise the true effect of "average vehicle flows" being experienced by the community. 
 
 It was also envisaged that the system could be used to confirm or refute the error levels of "official data" collected at the time. In the test case where Traffic readings were taken at a non standard road position which would emphasis the low speed under counting, a known source of inherent error when using the low cost "Traffic Speed Surveys" systems for calculating "Traffic Flow Rates".
 
@@ -72,7 +72,7 @@ https://github.com/delsmith/Traffic-Survey-Development
 
 This Github contains a reversed engineered version of "Traffic Speed Survey" equipment used many countries. It would be possible to convert data from the counter to be input into the spreadsheet and vice versa.
 
-The possibility of using information from other sensors such as wi-fi interferance and having a system to store that.
+The possibility of using information from other sensors such as Wi-Fi interference, noise monitoring Kinect and having a system to store  and analyse that data.
 
 
 {OpenTrafficSurvey}
