@@ -94,6 +94,21 @@ The spreadsheet currently averages data from left and right for some "insight" i
 
 In order to do that each event is also noted a 0 left to right and 1 right to left. This leaves the possibility that the data can be split and analysed in one direction later, but doesn't add the confusion of using separate sheets, for left and right traffic.  
 
+**Method for dividing the traffic into left and right**
+
+In the test case the traffic was  evenly divided in each direction. It was possible to total the in each direction, for each data set. The method is show in cell G62, was to sum the 1s in the left / right direction column G, then take this value from the total number of vehicles. 
+
+Into Town R to L =SUM(G10:G60)
+Out of Town L to R ==((COUNT(G10:G60)-G62))
+
+*Note : Using the Template sheet, setting the ranges of your data.*
+
+Some of the calculations require the setting of ranges, or start and end of cell positions, to count the vehicles, or find the maximum. It is usual to check each calculated column, updating the start and end position accordingly. Then copy the corrected cell down all the cells of the column. 
+
+You can use the shift key highlight a block of cells then past the new equation into the whole column.
+
+*Note : Using the template sheet for your case*
+
 The current sheet is an example sheet set up for 25yards and 5 frames per second video. However, as the sheet is being generalised from a real sheet it is recommended you study how the calculations were done and wither they fit your case. An alternative sheet  to reduce the work, but quickly show flow levels is "in development" i.e it is just a cut down version of the current spreadsheet.  
 
 **Vehicle speed and error calculations**  
@@ -147,7 +162,7 @@ It is noted that it would be possible to calibrate pollution levels to the insta
 
 **Calculating the distance between vehicles**
 
-Distance between Vehicles Error – 1 frames  |	Distance between vehicles (yds) avg last 5 Vehicles   |	Distance between Vehicles Error + 1 frames
+Distance between Vehicles Error – 1 frames  |   Distance between vehicles (yds) avg last 5 Vehicles |   Distance between Vehicles Error + 1 frames
 ------------------------------------------  |   --------------------------------------------------- |   ------------------------------------------
  	| |
 60.12   |   57.62   |   55.31
@@ -159,8 +174,8 @@ It is noted that a method of splitting the left and right sheets for some result
 
 **Safe stopping distance calculations**
 
-Safe Stop Distance For Speed -Yds   |   Safe Stop Distance For Speed – F  |   Distance between vehicles (yds) min last 5 Vehicles  
----------------------------------   |   ------------------------------- |   ---------------------------------------------------
+Safe Stop Distance For Speed -Yds   |   Safe Stop Distance For Speed – F    |   Distance between vehicles (yds) min last 5 Vehicles  
+---------------------------------   |   --------------------------------    |   ---------------------------------------------------
 34.41   |   103.23  |   
 6.99    |   20.96   |   
 27.68   |  83.03   |  
@@ -180,6 +195,30 @@ Vehicles per Hour – with Twice / X times  the Trafiic   |   Vehicles Per Hour 
 612.00  |	 
 612.00  |	 
 612.00  |	
+
+
+**Example of more complex Traffic Simulations methods**
+
+For the test case it was calculated that extra traffic between 8:15 and 9:00 would more than triple the level of traffic at that time. In this case a copy of the data sheet was made and 2 extra vehicles were added "automatically" using a simulation equations in Columns A and B to find the time of the two vehicles between each set of vehicles.
+The simulation isnt included as it will be site specific.
+
+
+Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Vehicles	|    Start Frame |   End frame
+-----------------------------------------   |   -----------------------------------  |  -----------    |   ---------
+	|  |	| 0.00	
+0.0467	|    	14.00	21.00
+0.2967	|    75.00	89.00	96.00
+0.5467	|    75.00	| 164.00	|    171.00
+0.7967	|    |	239.00    |	259.00
+0.8089	|    3.67    |	242.67    |	262.67
+0.8211	|    3.67    |	246.33    |	266.33
+
+
+The new arrival times are calculated with =(C13-C10)/3  in B11   and =(C13-C10)/3 in B12. The new start frame and end frame is the previous vehicle + the new time between vehicles, = C10+B11, the end frame =D10+B11.   Cell A shows the time in minutes between vehicles =C10/(60*5) , shows the time each vehicle arrives and confirms the length of the simulation. 
+
+**Charts of calculated Data**
+
+Sheet 1 is called Data input and Calculations. Sheet 2 contains the speed charts with errors. Sheet 3 covers vehicle overall and short term flow rates. Sheet 4 shows separation of vehicles compared to safe stopping distance for the vehicle speeds.
 
 
 
