@@ -222,9 +222,13 @@ Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Veh
 0.8211	|    3.67    |	246.33    |	266.33
 
 
-The new arrival times are calculated with =(C13-C10)/3  in B11   and =(C13-C10)/3 in B12. The new start frame and end frame is the previous vehicle + the new time between vehicles, = C10+B11, the end frame =D10+B11.   Cell A shows the time in minutes between vehicles =C10/(60*5) , shows the time each vehicle arrives and confirms the length of the simulation. 
+The new arrival times are calculated with =(C13-C10)/3 in Cell B11  and =(C13-C10)/3 in B12.  
 
-**Charts of calculated Data**
+The new start frame and end frame is the previous vehicle + the new time between vehicles, = C10+B11, the end frame =D10+B11.   
+
+Cell A shows the time in minutes between vehicles =C10/(60*5) , shows the time each vehicle arrives and confirms the length of the simulation.  
+
+**Charts from the input and calculated traffic Data available in the template spreadsheet**
 
 Sheet 1 is called Data input and Calculations.  
 Sheet 2 contains the speed charts with errors.  
