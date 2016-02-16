@@ -46,25 +46,29 @@ The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tool
 
 **Example Traffic flow charts from the spreadsheet**
 
-**Traffic Flow Rates 2016**  
+**Traffic Flow Rates May 2015**  
 
-![alt tag](02-flowrates.9.1.2016-15.00-1.jpg)  
+![alt tag](02-flowrates.19.5.2015-12:30.jpg)  
+
+**Traffic Flow Rates January 2016**  
+
+![alt tag](03-flowrates.9.1.2016-15.00.jpg)  
 
 **Traffic Survey of vehicles types 2010**
 
-![alt tag](03-Traffic Survey-4-6-2010-01.jpg)
+![alt tag](04-Traffic Survey-4-6-2010-01.jpg)
 
 **Traffic Survey of vehicles types 2010**
 
-![alt tag](04-Traffic Survey-4-6-2010-02.jpg)
+![alt tag](05-Traffic Survey-4-6-2010-02.jpg)
 
 **Distance Between Vehicles - 2016**
 
-![alt tag](05-Distance BetweenVehicles-Traffic Survey-9-1-2016-03.jpg)
+![alt tag](06-Distance BetweenVehicles-Traffic Survey-9-1-2016-03.jpg)
 
 **Speed of Vehicles - 2016**
 
-![alt tag](06-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
+![alt tag](07-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
 
   
 **Possible future development**
