@@ -48,7 +48,8 @@ The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tool
 
 **Traffic Flow Rates May 2015**  
 
-![alt tag](02-flowrates.19.5.2015-12:30.jpg)
+![alt tag](03-flowrates.9.1.2016-15.00.jpg)  
+
 
 **Traffic Flow Rates January 2016**  
 
