@@ -101,6 +101,14 @@ In the test case the traffic was  evenly divided in each direction. It was possi
 Into Town R to L =SUM(G10:G60)
 Out of Town L to R ==((COUNT(G10:G60)-G62))
 
+In order to produce separate charts for each direction, 
+
+First make a copy of the data sheet.
+
+Use the sort facilty (menu / data sort), to sort all the columns in order of Column G primary and  with C as secondary. 
+
+The charts can be copied and the new ranges set for each direction. It will be necessary to delete a couple of the last 5 vehicles calculations, to compensate for less vehicles in each side, after the split.  
+
 *Note : Using the Template sheet, setting the ranges of your data.*
 
 Some of the calculations require the setting of ranges, or start and end of cell positions, to count the vehicles, or find the maximum. It is usual to check each calculated column, updating the start and end position accordingly. Then copy the corrected cell down all the cells of the column. 
