@@ -15,7 +15,7 @@ It was also envisaged that the system could be used to confirm or refute the err
 
 This chart is from the first spreadsheet with data taken from Video evidence, then manually counting the number of vehicles into  each hour "pot". A time consuming, but satisfying task as it dispelled pre-conceived ideas of what the traffic flows were. Evidence of high traffic levels on weekends and holidays dispelled the myth that heavier traffic in the week could be allowed as there is respite at the weekend, for instance ..... 
 
-**Traffic flow rates for 29th to 30th 10.2013**
+**Traffic Flow rates for 29th to 30th 10.2013**
 
 ![alt tag](01-flowrates.29.10.2013-1.jpg)  
 
