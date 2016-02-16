@@ -70,7 +70,7 @@ The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tool
 
 ![alt tag](07-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
 
-**Chart of 2016 sample data including Simulated extra traffic from development 8:15am till 9:00am**
+**Chart of 2016 sample data plus Simulated extra traffic levels predicted from development plans 8:15am till 9:00am**
 
 ![alt tag](08-SimulatedAdditionalFlow-ActualPassTimes-9-1-2016.jpg)
 
