@@ -214,7 +214,7 @@ The simulation isnt included as it will be site specific.
 Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Vehicles	|    Start Frame |   End frame
 -----------------------------------------   |   -----------------------------------  |  -----------    |   ---------
 	|  |	| 0.00	
-0.0467	|    	14.00	|    21.00
+0.0467	|    |   14.00	|    21.00
 0.2967	|    75.00	| 89.00   |   96.00
 0.5467	|    75.00	| 164.00	|    171.00
 0.7967	|    |	239.00    |	259.00
