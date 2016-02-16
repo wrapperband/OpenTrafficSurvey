@@ -5,11 +5,11 @@
 
 **Information fields for the Spreadsheet.**
 
-Lines 4, 5 and 6 of the spreadsheet store the identification data for the survey and total and average information collated from the subsequent analysis columns
+Rows 4, 5 and 6 of the spreadsheet store the identification data for the survey and total and average information collated from the subsequent analysis columns.  
 
 **On the Template sheet**
 
-Cell 4E  - Address of Traffic Survey location 
+Cell 4E  - Address of Traffic Survey location  
 
 Input the Address and postcode of the position the video of traffic was taken
 
@@ -105,15 +105,15 @@ In order to produce separate charts for each direction,
 
 First make a copy of the data sheet.
 
-Use the sort facilty (menu / data sort), to sort all the columns in order of Column G primary and  with C as secondary. 
+Use the sort facility (menu / data sort), to sort all the columns in order of column G primary and  with column C as secondary sort. 
 
 The charts can be copied and the new ranges set for each direction. It will be necessary to delete a couple of the last 5 vehicles calculations, to compensate for less vehicles in each side, after the split.  
 
 *Note : Using the Template sheet, setting the ranges of your data.*
 
-Some of the calculations require the setting of ranges, or start and end of cell positions, to count the vehicles, or find the maximum. It is usual to check each calculated column, updating the start and end position accordingly. Then copy the corrected cell down all the cells of the column. 
+Some of the calculations require the setting of ranges, or start and end of cell positions, to count the vehicles, or find the maximum. It is usual to check each calculated column, updating the start and end position accordingly. Then copy the corrected cell down all the cells of the column.  
 
-You can use the shift key highlight a block of cells then past the new equation into the whole column.
+You can use the shift key highlight a block of cells then past the new equation into the whole column.  
 
 *Note : Using the template sheet for your case*
 
