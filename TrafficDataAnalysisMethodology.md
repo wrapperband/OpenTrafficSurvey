@@ -7,27 +7,27 @@
 
 Rows 4, 5 and 6 of the spreadsheet store the identification data for the survey and total and average information collated from the subsequent analysis columns.  
 
-**On the Template sheet**
+**Cells on the Template sheet**
 
-Cell 4E  - Address of Traffic Survey location  
+Cell E4  - **Address of Traffic Survey location**  
 
 Input the Address and postcode of the position the video of traffic was taken
 
-Cell 5E & 5F - Distance  25 Yards
+Cell E5 & F5 - **Distance  25 Yards**
 
 Measured distance travelled by the vehicles entering and leaving the analysis box.
 
 The spreadsheet has been updated to be interactive, the Vehicle speed and error is calculated using the Distance in Yards in Cell $F$5, which has been marked sky blue in the template.
 
-Cell 6E 6F - Video - 2016-01-09-1-15.00-1.avi
+Cell 6E 6F - **Video - 2016-01-09-1-15.00-1.avi**
 
 Name of the Traffic Flow Evidence video that is being analysed
 
-Cell E7 - Time
+Cell E7 - **Time**
 
 Time the analysis was initiated.
 
-Cell E7 - Date 
+Cell F7 - **Date** 
 
 Date the analysis was initiated.
 
@@ -68,7 +68,7 @@ Care needs to be taken when vehicles are arriving in the box, to input them in o
 **Calculating the time to Traverse the measurement "Box"**
 
 Frames	|    Accurate Time (secs)
-------- |   ---------------------
+------  |   ---------------------
 7	| 1.40  
 20	| 4.00  
 8	| 1.60  
