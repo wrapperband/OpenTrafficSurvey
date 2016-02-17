@@ -13,9 +13,11 @@ Cell 4E  - Address of Traffic Survey location
 
 Input the Address and postcode of the position the video of traffic was taken
 
-Cell 5E & 5F - Distance  25yards
+Cell 5E & 5F - Distance  25 Yards
 
 Measured distance travelled by the vehicles entering and leaving the analysis box.
+
+The spreadsheet has been updated to be interactive, the Vehicle speed and error is calculated using the Distance in Yards in Cell $F$5, which has been marked sky blue in the template.
 
 Cell 6E 6F - Video - 2016-01-09-1-15.00-1.avi
 
@@ -39,8 +41,8 @@ MaxSpeed MPH   |	51.14
 MinSpeed MPH   |	12.78  
 Traffic Flow VPH Max   |	592.11  
 Traffic Flow VPH Min   |	71.54  
-MaxDistanceBetweenVehicles   |	0.00  
-MinDistanceBetweenVehicles   |	0.00  
+MaxDistanceBetweenVehicles   |	196.88  
+MinDistanceBetweenVehicles   |	143.08  
 Traffic Flow VPH Avg   |	733.24  
 AvgStoppingDistance   |	24.61  
 MaxStoppingDistance   |	60.63  
