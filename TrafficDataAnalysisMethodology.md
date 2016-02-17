@@ -42,7 +42,7 @@ MinSpeed MPH   |	12.78
 Traffic Flow VPH Max   |	592.11  
 Traffic Flow VPH Min   |	71.54  
 MaxDistanceBetweenVehicles   |	196.88  
-MinDistanceBetweenVehicles   |	143.08  
+MinDistanceBetweenVehicles   |	17.19  
 Traffic Flow VPH Avg   |	733.24  
 AvgStoppingDistance   |	24.61  
 MaxStoppingDistance   |	60.63  
