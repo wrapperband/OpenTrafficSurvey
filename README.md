@@ -62,6 +62,15 @@ It can also be seen as technology to remove as many areas from "human trust" to 
 
 It well known that humans do not have full conscious control of all of their actions, it is unfair to tempt the unconscious, which is working at lower animal level and doesn't understand the ethics when tempted.  The human sub conscious can see a minor error could end in their favour might make it without the conscious even knowing. This is why entrapment of any type should be illegal in any civilised society, anyone can be entrapped.
 
+
+http://phys.org/news/2016-02-women-susceptible-contagious-men.html
+
+Study shows winning causes people to be more likely to cheat the next time
+http://phys.org/news/2016-02-people.html
+
+Feeling sleepy? You might be at risk of falsely confessing to a crime you did not commit
+http://phys.org/news/2016-02-sleepy-falsely-crime-commit.html
+
 **Monitoring "Trusted Systems"**
 
 "Trustless systems" can therefore be used to test "Trusted systems". 
