@@ -56,17 +56,17 @@ The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tool
     2. https://github.com/wrapperband/Open-Condition-Monitoring  
       1.  Traffic flow estimator   
 
-Open Governance is used to describe tools that might be used to provide facilities normally provided by Governments to those in the World without that infrastructure.  
+Open Governance is used to describe tools that might be used to provide facilities, normally provided by Governments, to those in the World without that infrastructure.  
 
-It can also be seen as technology to remove as many areas from "human trust" to "trust systems" that are outside the bounds of normal human manipulation. For instance, Bitcoin Blockchain attempts to take the release of new capital / money at a standard level and can not be simply "printed" for short term political purpose.
+It can also be seen as technology to remove as many areas from "human trust" to "trust systems" that are outside the bounds of normal human manipulation. For instance, Bitcoin Blockchain attempts to take the release of new capital / money out of "human hands" and release it at a standard level without "inflation". In the Bitcoin trustless system money can not be simply "printed" for short term political purpose.
 
 It well known that humans do not have full conscious control of all of their actions, it is unfair to tempt the unconscious, which is working at lower animal level and doesn't understand the ethics when tempted.  The human sub conscious can see a minor error could end in their favour might make it without the conscious even knowing. This is why entrapment of any type should be illegal in any civilised society, anyone can be entrapped.
 
 **Monitoring "Trusted Systems"**
 
-Trustless systems can therefore be used to test trusted systems. 
+"Trustless systems" can therefore be used to test "Trusted systems". 
 
-In order to achieve that trust with "trusted systems"  it is important that the general citizen can reproduce the work of the "Public Servant", in order that that work can be monitored. Currently the political systems in most countries have evolved to better serve those at the top, mainly by obscuring any cause and effect or over complicating regulation as there is no feedback or normal quality control or improvement.
+In order to achieve that trust with "trusted systems"  it will be important that the general citizen can reproduce the work of the "Public Servant", in order that the effect  of work can be monitored. Currently the political systems in most countries have evolved to better serve those at the top, mainly by obscuring any cause and effect or over complicating regulation as there is no feedback or normal quality control or improvement.
 
       
 **Example Traffic flow charts from the spreadsheet**
