@@ -98,10 +98,10 @@ In order to do that each event is also noted a 0 left to right and 1 right to le
 
 **Method for dividing the traffic into left and right**
 
-In the test case the traffic was  evenly divided in each direction. It was possible to total the in each direction, for each data set. The method is show in cell G62, was to sum the 1s in the left / right direction column G, then take this value from the total number of vehicles. 
+In the test case the traffic was  evenly divided in each direction. It was possible to total the in each direction, for each data set. The method is show in cell G62, was to sum the 1s in the left / right direction column G, then take this value from the total number of vehicles to obtain the number travelling from left to right, and marked with "0". 
 
-Into Town R to L =SUM(G10:G60)
-Out of Town L to R ==((COUNT(G10:G60)-G62))
+ **Into Town R to L** =SUM(G10:G60)
+ **Out of Town L to R** ==((COUNT(G10:G60)-G62))
 
 In order to produce separate charts for each direction, 
 
