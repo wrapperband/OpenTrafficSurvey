@@ -121,7 +121,16 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-FlowRates-00.11.2013.jpg)
 
-**Possible future development**
+**Traffic flow for "Bank Holiday" October 2013 at sample site, showing Triggered and Calibrated flow levels **
+
+![alt tag](charts/TrafficSurvey-Triggered-FlowRatesBankHoliday28.10.2013.jpg)
+
+**Long term Traffic flows for "Holiday week" October 2013 at sample site, acheived using Triggered Image system**
+
+![alt tag](charts/TrafficSurvey-Triggered-FlowRatesHolidayWeek-28.10.2013.jpg)
+
+
+**Possible future developments for Open Traffic survey**
 
 https://github.com/delsmith/Traffic-Survey-Development
 
