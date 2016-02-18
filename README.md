@@ -17,7 +17,7 @@ This chart is from the first spreadsheet with data taken from Video evidence, th
 
 **Traffic Flow rates for 29th to 30th 10.2013**
 
-![alt tag](01-flowrates.29.10.2013-1.jpg)  
+![alt tag](charts/TrafficSurvey-Flowrates.29.10.2013.jpg)  
 
 **Open Traffic Survey : Observations and Results from Test Surveys**
 
@@ -91,31 +91,31 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 **Traffic Flow Rates May 2015**  
 
-![alt tag](02-flowrates.19.5.2015-12.0.jpg)  
+![alt tag](charts/02-flowrates.19.5.2015-12.0.jpg)  
 
 **Traffic Flow Rates January 2016**  
 
-![alt tag](03-flowrates.9.1.2016-15.00.jpg)  
+![alt tag](charts/03-flowrates.9.1.2016-15.00.jpg)  
 
 **Traffic Survey of vehicles types 2010**
 
-![alt tag](04-Traffic Survey-4-6-2010-01.jpg)
+![alt tag](charts/04-Traffic Survey-4-6-2010-01.jpg)
 
 **Traffic Survey of vehicles types 2010**
 
-![alt tag](05-Traffic Survey-4-6-2010-02.jpg)
+![alt tag](charts/05-Traffic Survey-4-6-2010-02.jpg)
 
 **Distance Between Vehicles - 2016**
 
-![alt tag](06-Distance BetweenVehicles-Traffic Survey-9-1-2016-03.jpg)
+![alt tag](charts/06-Distance BetweenVehicles-Traffic Survey-9-1-2016-03.jpg)
 
 **Speed of Vehicles - 2016**
 
-![alt tag](07-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
+![alt tag](charts/07-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
 
 **Chart of 2016 sample data plus Simulated extra traffic levels predicted from development plans 8:15am till 9:00am**
 
-![alt tag](08-SimulatedAdditionalFlow-ActualPassTimes-9-1-2016.jpg)
+![alt tag](charts/08-SimulatedAdditionalFlow-ActualPassTimes-9-1-2016.jpg)
 
 
 **Possible future development**
