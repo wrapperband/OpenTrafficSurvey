@@ -145,7 +145,8 @@ The possibility of using information from other sensors such as Wi-Fi interferen
 
 Developing and training an A.I. to automatically analyse incoming traffic data and simulate the various calculations in real time.
   
-Add additional calculations, for instance the vehicle flows could be calibrated to show pollution levels.  
+Add additional calculations, for instance the vehicle flows could be calibrated to show pollution levels.  The accuracy of data from a triggered system might be improved by having speed related calibration.
+
   
 **Licensing**  
   
