@@ -19,7 +19,7 @@ Measured distance travelled by the vehicles entering and leaving the analysis bo
 
 The spreadsheet has been updated to be interactive, the Vehicle speed and error is calculated using the Distance in Yards in Cell $F$5, which has been marked sky blue in the template.
 
-Cell 6E 6F - **Video - 2016-01-09-1-15.00-1.avi**
+Cell 6E & 6F - **Video - 2016-01-09-1-15.00-1.avi**
 
 Name of the Traffic Flow Evidence video that is being analysed
 

@@ -38,13 +38,19 @@ Examination of the video evidence, compared to the triggered photo method showed
 
 http://www.howpollutedismyroad.org.uk/ ; shows some interesting statistics for pollution in London : 
 
-    "Are there more than 10,000 vehicles a day?"
+    "Are there more than 10,000 vehicles a day?"  
 
-    *"Scientific research suggests that living near roads travelled by more than 10,000 vehicles per day could be responsible for some 15-30% of all new cases of asthma in children, and a similar proportion of COPD (chronic obstructive pulmonary disease) and CHD (coronary heart disease) cases in adults 65 years of age and older."*
+    "Scientific research suggests that living near roads travelled by more than 10,000 vehicles per day  
+     could be responsible for some 15-30% of all new cases of asthma in children, and a similar proportion    
+     of COPD (chronic obstructive pulmonary disease) and CHD (coronary heart disease)  
+     cases in adults 65 years of age and older."  
+  
+    If you click on a section of road you'll see lots of detailed information on the pollutants,  
+    plus the number of vehicle movements per day."   
 
-    *If you click on a section of road you'll see lots of detailed information on the pollutants, plus the number of vehicle movements per day."*
-
-For the test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further development / Traffic ...
+For the Traffic survey test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further increases in development / Traffic . The proposed development threatening to increase the daily levels above 5200. 
+However, the current research shows average readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 per hour, for one event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long ....
+...
 
  
 **Open Source Systems : Philosophy**
@@ -73,7 +79,7 @@ http://phys.org/news/2016-02-sleepy-falsely-crime-commit.html
 
 **Monitoring "Trusted Systems"**
 
-"Trustless systems" can therefore be used to test "Trusted systems". 
+"Trustless systems" can therefore be used to audit "Trusted systems". 
 
 In order to achieve that trust with "trusted systems"  it will be important that the general citizen can reproduce the work of the "Public Servant", in order that the effect  of work can be monitored. Currently the political systems in most countries have evolved to better serve those at the top, mainly by obscuring any cause and effect or over complicating regulation as there is no feedback or normal quality control or improvement.
 
