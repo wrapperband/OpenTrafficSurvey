@@ -32,7 +32,8 @@ However, the video trigger method was surprisingly accurate,  for a method which
 Examination of the video evidence, compared to the triggered photo method showed the reasons why it underestimates the flow ... 
 
 1. At the traffic levels on the road, traffic was often bunched <  less than the re-trigger time for the system.
-2. Vehicles often passed in opposite directions at that point in the road ( between parked cars) only triggering one event.
+2. Vehicles often passed in opposite directions at that point in the road (between parked cars on one side) only triggering one event.
+3. Dull weather may have reduced the count on some days
 
 **Estimating the level of pollution from the Traffic Flows recorded**
 
