@@ -237,6 +237,39 @@ Sheet 2 contains the speed charts with errors.
 Sheet 3 covers vehicle overall and short term flow rates.  
 Sheet 4 shows separation of vehicles compared to safe stopping distance for the vehicle speeds.  
 
+**Spreadsheet Manual Count & Calibration Tab**
+
+In order to fully calibrate the trigger method of estimating traffic levels and have an extended manual readings, in November 2013, a comparison was made of 2 hours traffic. Each 5 minute section of traffic was manually counted from a video against triggering an Image by movement. The resulting charts are shown, Traffic survey - Manual Calibration.  
+
+The calibration data also contains information about the variability of samples lengths. For a 5 minute sample a variability for Manual reading, gives the actual variability of the traffic at 23%. The variability increases to 28% for the trigger method, 5% additional variability.
+
+This information can then be used to assess the accuracy of other samples. The test sample was 10 minutes long, by adding each of the 5 minute samples together, it was then possible to estimate the variability of the 10 Minute sample.  
+
+**Manual traffic count against triggered count - for 10 minute samples of Calibration data**
+
+![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-10minSample-00.11.2013.jpg)  
 
 
+	|	| Sample Variation %
+--------------------------------------  |   ------ |    ------    
+	|	|    Average Calibration	4.31	29.06
+Maximum Calibration	|   6.67	|
+Minimum Calibration	|   1.92	|
+Average Vehicles Per Hour (Manual)	|    403.83	|    22.68
+Average Vehicles Per Hour (Triggered)	| 99.13	| 27.85
+
+
+Manual Count 5mins	|    Measured with Trigger	| Manually Counted Per Hour	| Measured with automatic count Per Hour	|    Calibration Multiplier
+------------------  |   ---------------------   |   -------------------------   |   --------------------------------------   |    ----------------------
+29	|    13  |	348.0 |	156.0	|   2.23
+23	|    8   |	276.0 |	96.0	|    2.88
+40	|    10  |	480.0	|   120.0	| 4.00
+23	|    12	| 276.0	|   144.0	| 1.92
+
+
+By using a 10 minute sample the variability / Standard deviation was reduced from 23% to 15%.  
+
+This shows that the sample readings taken over 10 minutes is a 1/3 more accurate at predicting the real traffic over the day. Also it shows that a reading of 310 vehicles per hour in one 5 minute period is within the standard deviation of  310 + (15 * 100)/310 = 315. For a 5 Minute sample  310 + (23 * 100)/310 = 317
+
+This shows that even 5 minute samples give reasonable indications of traffic per hour, for the flow of the test site. 
 

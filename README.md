@@ -33,7 +33,7 @@ Examination of the video evidence, compared to the triggered photo method showed
 
 1. At the traffic levels on the road, traffic was often bunched <  less than the re-trigger time for the system.
 2. Vehicles often passed in opposite directions at that point in the road (between parked cars on one side) only triggering one event.
-3. Dull weather may have reduced the count on some days
+3. Dull weather may have reduced the triggered count on some days
 
 **Estimating the level of pollution from the Traffic Flows recorded**
 
@@ -52,8 +52,8 @@ http://www.howpollutedismyroad.org.uk/ : shows some research information to help
     If you click on a section of road you'll see lots of detailed information on the pollutants,  
     plus the number of vehicle movements per day."   
 
-For the Traffic survey test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further increases in development / Traffic . The proposed development threatening to increase the daily levels above 5200. 
-However, the current research shows average readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 per hour, for one event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long ....
+For the Traffic survey test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further increases in development / Traffic . The proposed development threatening to increase the daily levels above 5200.   
+However, the current research shows average traffic flow readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 per hour, for one event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long ....
 ...
 
  
