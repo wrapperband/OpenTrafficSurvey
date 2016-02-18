@@ -241,7 +241,7 @@ Sheet 4 shows separation of vehicles compared to safe stopping distance for the 
 
 In order to fully calibrate the trigger method of estimating traffic levels and have an extended set of accurate manual readings  2 hours traffic in November 2013. Each 5 minute section of traffic was manually counted from a video against triggering an Image by movement.  
 
-THe results were input into Spreadsheet Manual Count & Calibration Tab. The resulting charts are available, ReadMe.md shows for the 5 minute sample chart and the 10 min sample chart is shown below. Manual Calibration.v.Triggered-10minSample.  
+The results were input into Spreadsheet Manual Count & Calibration Tab. The resulting charts are available, ReadMe.md (charts/TrafficSurvey-CalibrationManual.v.Triggered-FlowRates-00.11.2013.jpg) shows for the 5 minute sample chart and the 10 min sample chart is shown below. Manual Calibration.v.Triggered-10minSample.  
 
 The calibration data also contains information about the variability of samples lengths. For a 5 minute sample a variability for Manual reading, gives the actual variability of the traffic at 23%. The variability increases to 28% for the trigger method, 5% additional variability.
 
