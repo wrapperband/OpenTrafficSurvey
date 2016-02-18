@@ -129,6 +129,10 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesHolidayWeek-28.10.2013.jpg)
 
+**Long term Traffic flows Per Day for "Holiday week" + "Normal week" October 2013 at sample site, Triggered Image system**
+
+![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDay.28.10.2013.jpg)
+
 
 **Possible future developments for Open Traffic survey**
 
