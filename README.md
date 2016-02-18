@@ -36,9 +36,10 @@ Examination of the video evidence, compared to the triggered photo method showed
 
 **Estimating the level of pollution from the Traffic Flows recorded**
 
-How Polluted is my road shows official statistics and analysis of pollution in London obtained by Clean Air in London from Transport for London.
+"How Polluted is my road?" is a web site that shows official statistics and analysis of pollution in London obtained by "Clean Air in London" from Transport for London.
 
-http://www.howpollutedismyroad.org.uk/ : shows some interesting information to help calibrate pollution levels, from flow rate data : 
+http://www.howpollutedismyroad.org.uk/ : shows some research information to help calibrate pollution levels from Traffic flow rate data :  
+
 
     "Are there more than 10,000 vehicles a day?"  
 
