@@ -117,7 +117,7 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 ![alt tag](charts/08-SimulatedAdditionalFlow-ActualPassTimes-9-1-2016.jpg)
 
-**Manual Calibration chart Nov 2013 for the sample data - shows "underestimation with trigger systems**
+**Manual Calibration chart Nov 2013 for the sample data - shows "under-estimation" of flow using the trigger systems**
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-FlowRates-00.11.2013.jpg)
 
