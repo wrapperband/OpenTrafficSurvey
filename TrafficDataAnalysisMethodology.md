@@ -239,7 +239,7 @@ Sheet 4 shows separation of vehicles compared to safe stopping distance for the 
 
 **Spreadsheet Manual Count & Calibration Tab**
 
-In order to fully calibrate the trigger method of estimating traffic levels and have an extended manual readings, in November 2013, a comparison was made of 2 hours traffic. Each 5 minute section of traffic was manually counted from a video against triggering an Image by movement. The resulting charts are shown, Traffic survey - Manual Calibration.  
+In order to fully calibrate the trigger method of estimating traffic levels and have an extended manual readings, in November 2013, a comparison was made of 2 hours traffic. Each 5 minute section of traffic was manually counted from a video against triggering an Image by movement. The resulting charts are shown,  for the 5 minute sample and below for the Traffic survey - Manual Calibration 10 minute.  
 
 The calibration data also contains information about the variability of samples lengths. For a 5 minute sample a variability for Manual reading, gives the actual variability of the traffic at 23%. The variability increases to 28% for the trigger method, 5% additional variability.
 
@@ -249,12 +249,14 @@ This information can then be used to assess the accuracy of other samples. The t
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-10minSample-00.11.2013.jpg)  
 
+**Spreadsheet calibration results for 5 minute samples**
 
 	|	| Sample Variation %
 --------------------------------------  |   ------ |    ------    
-	|	|    Average Calibration	4.31	29.06
-Maximum Calibration	|   6.67	|
-Minimum Calibration	|   1.92	|
+	|	|    	
+Average Calibration	|   4.31	|  29.06 |
+Maximum Calibration	|   6.67	|  |
+Minimum Calibration	|   1.92	|  |
 Average Vehicles Per Hour (Manual)	|    403.83	|    22.68
 Average Vehicles Per Hour (Triggered)	| 99.13	| 27.85
 
@@ -273,3 +275,15 @@ This shows that the sample readings taken over 10 minutes is a 1/3 more accurate
 
 This shows that even 5 minute samples give reasonable indications of traffic per hour, for the flow of the test site. 
 
+**Spreadsheet calibration results for 5 minute samples**
+
+	|	| Sample Variation %
+--------------------------------------  |   ------ |    ------    
+	|	|    	
+Average Calibration	|   4.21	|  27.37 |
+Maximum Calibration	|   6.00	|  |
+Minimum Calibration	|   2.482	|  |
+Average Vehicles Per Hour (Manual)	|    399.00	|    15.99
+Average Vehicles Per Hour (Triggered)	| 99.50	| 22.19
+
+*Note that the last cell had to be doubled because there was an odd number of 5 minute sample, which was a low number.*
