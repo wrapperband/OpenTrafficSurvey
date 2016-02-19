@@ -32,7 +32,7 @@ I used a Logitech camera, and powered USB extension to allow the camera to be pl
 
 It was possible to collect data using a Low powered 7 portable Netbook  by installing Ubuntu and open source software. The videos were transferred via wireless to a WD network storage device. This also allowed sample videos from positions with no power by using battery.   
 
-*How long do the videos need to be?  
+*How long do the videos need to be?*  
 
 For a high rate of traffic, i.e. greater than 300 vehicles an hour, this would be about 10 minutes. This will need manual analysis, which takes effort.  Analysis of the test case shows a number of 30 minute videos, of which, One or more is analysed. This would give a good indication of the scale & type of traffic "problem". It would also stores the video evidence.
 
