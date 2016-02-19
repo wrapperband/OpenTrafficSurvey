@@ -45,7 +45,7 @@ Examination of the video evidence, compared to the triggered photo method showed
 2. Vehicles often passed in opposite directions at that point in the road (between parked cars on one side) only triggering one event.
 3. Dull weather may have reduced the triggered count on some days
 
-The other problem with devising a triggered count, is further research is required to find open source "image trigger systems" and how they might be up to do triggered traffic flow levels.
+The other problem with devising a triggered count, is further research is required to find open source "image trigger systems" and produce a guide to how they can be used do automated triggered traffic flow levels.  
 
 **Estimating the level of pollution from the Traffic Flows recorded**
 
