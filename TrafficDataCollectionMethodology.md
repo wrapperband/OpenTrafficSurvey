@@ -25,19 +25,25 @@ Should the positioning be restrictive a wide angle lens can be used to increase 
 **Record video of the traffic.**  
 
 I used a Logitech camera, and powered USB extension to allow the camera to be place high in a ground floor window, or in an upper room window looking down at the road.
-By installing Ubuntu it was possible to collect data using an old, low powered Netbook. Then those videos were transfered via wireless to a WD network storage device. This also allowed short videos where there is no power, on battery. 
+By installing Ubuntu it was possible to collect data using an old, low powered Netbook. Then those videos were transferred via wireless to a WD network storage device. This also allowed short videos where there is no power, on battery. 
 
 For a high rate of traffic, i.e. greater than 300 vehicles an hour, this would be about 10 minutes, for manual analysis.  However, I would advise recording for a full hour if possible, for each 5 or 10 minute close analysis period. This gives the possibility of post or historical analysis should extra evidence be required, for instance to prove the inaccuracy of Vehicle Speed surveys being used to estimate vehicle flow rates.
 
-To identify when a vehicles is entering or leaving the "Analysis Box" it is not necessary to take high resolution video, 640 x 480 is fine.  
+To identify when a vehicles is entering or leaving the "Analysis Box" it is not necessary to take high resolution video.
 
-It is advisable to keep additional video evidence for later analysis, if necessary.  
+A resolution of 640 x 480 is fine. The low resolution files are smaller, enabling easy storage of longer sample times.  
+
+It is advisable to keep additional video evidence for later analysis, if necessary.  Generally, store an hour, then analyse the first 5 minutes. This allows evidence of the accuracy of the method, should it be required to be confirmed at a later date.
+
+It is important to copy files to an analysis area. The original copy of the file will retain the most accurate time data. It becomes difficult to accurately judge the time the videos were taken from the name. In the test case, the video name referred to time since directory was full, on the small data collection computer.    
 
 **Measuring the distance travelled**
 
-Using the yardstick (I manufactured one from a extendible plastic mop/broom handle), measure the distance on the pavement of the street being monitored. I was able to measure 25yards from one side of the video image to the other.  
+Using the yardstick (I manufactured one from a extendible plastic mop/broom handle), measure the distance on the pavement of the street being monitored. I was able to measure 25 Yards from one side of the video image to the other and leave a 5 Yards+ room for error on each side.  
 
-Use one point, say bonnet, on the car to decide when it crosses 2 imaginary lines across the road. It is important to take the angle of viewing into account. For instance, in the test case, different 25 yards were used for left right traffic. the left to right being on the far lane appears before the right left leaves, due to the angle of the camera. Sometimes the first 25 yards is obscured, so that vehicle was measure from when the boot crossed instead ...  
+To decide when a vehicle crosses  : Use one point, say bonnet on a car to decide when it crosses 2 imaginary lines across the road. One each end of a measurement Box.  
+
+It is important to take the angle of viewing into account. For instance, in the test case, different 25 yards were used for left right traffic. The left to right traffic being on the far lane from the camera appears before the right left leaves, due to the angle of the camera. Sometimes the first 25 yards is obscured, so that vehicle was measure from when the boot crossed instead ...  
 
 **Measuring the time for a vehicle to travel a set distance**
 
