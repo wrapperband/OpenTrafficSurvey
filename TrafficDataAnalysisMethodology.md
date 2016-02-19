@@ -275,11 +275,17 @@ By using a 10 minute sample the variability / Standard deviation was reduced fro
 
 This shows that the sample readings taken over 10 minutes is a 1/3 more accurate at predicting the "actual" traffic levels over the day.  
 
-Also, it shows that a reading of 310 vehicles per hour in one 10 minute period is within the standard deviation of  310 + (15 * 100)/310 = 315.  
+Also, it shows that a reading of 310 vehicles per hour in one 10 minute period is within the standard deviation of  310 + (15 * 310)/ 100 = 357.  
+ 
+This means the actual reading is likely to be in the range  310 +/- 45  for the test case.
 
-For a 5 Minute sample  310 + (23 * 100)/310 = 317  
+*How much does reducing the sample decrease accuracy?*
+ 
+For a 5 Minute sample  310 + (23 * 310) / 100 = 381  
 
-This shows that a 5 minute traffic flow sample gives reasonable indications of traffic per hour, for the flow experienced at the test site. Thus a very accurate measure of the traffic could be made by taking a 5 minute sample every hour to obtain long term levels. However, it was noted that even 5 minutes of data contained a significant amount of traffic and work to analyse for the test site.  
+This means the hourly estimate from the 5 minute sample  is likely to be within  310 +/- 71
+
+This shows that a 5 minute traffic flow sample gives reasonable indications of traffic per hour, for the flow experienced at the test site. Thus a very accurate measure of the traffic could be made by taking a 5 minute sample every hour to obtain long term levels. However, it was noted that even 5 minutes of data contained a significant amount of traffic and therefore work to analyse.  
 
 **Spreadsheet calibration results for 5 minute samples**
 

@@ -25,9 +25,10 @@ Should the positioning be restrictive a wide angle lens can be used to increase 
 **Record video of the traffic.**  
 
 *Where to place the camera*  
+
 I used a Logitech camera, and powered USB extension to allow the camera to be place high in a ground floor window, or in an upper room window looking down at the road.
 
-*Storing images from remote locations  
+*How to storing images from remote locations.*   
 
 It was possible to collect data using a Low powered 7 portable Netbook  by installing Ubuntu and open source software. The videos were transferred via wireless to a WD network storage device. This also allowed sample videos from positions with no power by using battery.   
 
