@@ -24,20 +24,20 @@ Should the positioning be restrictive a wide angle lens can be used to increase 
 
 **Record video of the traffic.**  
 
-*Where to place the camera*
+*Where to place the camera*  
 I used a Logitech camera, and powered USB extension to allow the camera to be place high in a ground floor window, or in an upper room window looking down at the road.
 
-*Storing images from remote locations*
-It was possible to collect data usin a Low powered 7 portable Netbook  by installing Ubuntu and open source software. The videos were transferred via wireless to a WD network storage device. This also allowed sample videos from positions with no power by using battery.   
+*Storing images from remote locations  
 
-*How long do the videos need to be?*
-For a high rate of traffic, i.e. greater than 300 vehicles an hour, this would be about 10 minutes. This will need manual analysis, which takes effort.  Analysis of the test case shows a number of 30 min videos of which One or more is analysed,  would give a good indication of the scale & type of traffic "problem". It would also stores the video evidence.
+It was possible to collect data using a Low powered 7 portable Netbook  by installing Ubuntu and open source software. The videos were transferred via wireless to a WD network storage device. This also allowed sample videos from positions with no power by using battery.   
 
-Note : Record for a full hour if possible, for each 5 or 10 minute sample to be analysed. This gives the possibility of post or historical analysis should extra evidence be required, for instance to prove the inaccuracy of Vehicle Speed surveys being used to estimate vehicle flow rates.
+*How long do the videos need to be?  
+
+For a high rate of traffic, i.e. greater than 300 vehicles an hour, this would be about 10 minutes. This will need manual analysis, which takes effort.  Analysis of the test case shows a number of 30 minute videos, of which, One or more is analysed. This would give a good indication of the scale & type of traffic "problem". It would also stores the video evidence.
 
 To identify when a vehicles is entering or leaving the "Analysis Box" it is not necessary to take high resolution video.
 
-*Note : A Video resolution of 640 x 480 is fine.  The low resolution files are smaller, enabling easy storage of longer sample times.*  
+*Note : A Video resolution of 640 x 480 is fine.  The low resolution files are smaller, enabling easy storage of longer sample times.*   
 
 It is advisable to keep additional video evidence for later analysis, if necessary.  Generally, store an hour, then analyse the first 5 minutes. This allows evidence of the accuracy of the method, should it be required to be confirmed at a later date.
 
