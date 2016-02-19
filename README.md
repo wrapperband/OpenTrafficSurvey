@@ -3,13 +3,19 @@
 
 The aim of Open Traffic Survey is to outline a procedure which retains un-tamperable (video) evidence of Traffic characteristics and provide an open source spreadsheet into which data can be input and visualised with charts.  
 
+The Template spreadsheet contains data from a real world test case and the documentation compares various data collection measurements, calculates errors and variability and  observations from the test data collected.  
+
 **Open Traffic Survey : History of development**
 
 The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
 
 The methodology arises from long term notes / study of how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.
 
-The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show/ visualise the true effect of "average vehicle flows" being experienced by the community. 
+*Gathering Objective data*
+
+The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show / visualise the true effect of "average vehicle flows" being experienced by the community. 
+
+*Analysing and Visualising what that data means*
 
 It was also envisaged that the system could be used to confirm or refute the error levels of "official data" collected at the time. In the test case where Traffic readings were taken at a non standard road position which would emphasis the low speed under counting, a known source of inherent error when using the low cost "Traffic Speed Surveys" systems for calculating "Traffic Flow Rates".
 
@@ -21,7 +27,11 @@ This chart is from the first spreadsheet with data taken from Video evidence, th
 
 **Open Traffic Survey : Observations and Results from Test Surveys**
 
-Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. 
+*Is there any ways of easing the manual work in analysing the traffic?*
+
+Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. It is possible to set some software to trigger an image when there is movement in part of the frame. By adjsuting the sensitivity it is possible to trigger an event when a car or bigger passes, but not a person.
+
+*Testing and calibrating the image trigger system*
 
 In the 2015 survey, a triggering mechanism was used to save a single or small number of stills as each vehicle passing, which could be simply counted as the number of files in a folder for that time period. 
 
@@ -34,6 +44,8 @@ Examination of the video evidence, compared to the triggered photo method showed
 1. At the traffic levels on the road, traffic was often bunched <  less than the re-trigger time for the system.
 2. Vehicles often passed in opposite directions at that point in the road (between parked cars on one side) only triggering one event.
 3. Dull weather may have reduced the triggered count on some days
+
+The other problem with devising a triggered count, is further research is required to find open source "image trigger systems" and how they might be up to do triggered traffic flow levels.
 
 **Estimating the level of pollution from the Traffic Flows recorded**
 
