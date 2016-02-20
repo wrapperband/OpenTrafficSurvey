@@ -68,7 +68,7 @@ In a more recent 5 minute survey of the test site showed flow levels of 444 Vehi
 
 The current research shows average traffic flow readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 Vehicles per hour for one congestion event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long.
 
-That's a flow of greater than 3000 Vehicles per hour (not day) for (15 + 30 + 30 + 30) seconds, or 17.5% of the Traffic survey period.  
+That's a flow of greater than 3000 Vehicles per hour (not day) for (15 + 30 + 30 + 30) seconds, or 17.5% of the Traffic survey period on the test site.  
   
  
 **Open Source Systems : Philosophy**
