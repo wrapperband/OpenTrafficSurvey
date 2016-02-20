@@ -38,7 +38,7 @@ Description of Calculation | Example Value
 Vehicles Per Hour   |	306.00  
 Average Speed MPH   |	29.17  
 MaxSpeed MPH   |	51.14  
-MinSpeed MPH   |	12.78  
+MinSpeed MPH   |	10.65  
 Traffic Flow VPH Max   |	592.11  
 Traffic Flow VPH Min   |	71.54  
 MaxDistanceBetweenVehicles   |	196.88  
@@ -48,6 +48,10 @@ AvgStoppingDistance   |	24.61
 MaxStoppingDistance   |	60.63  
 MinStoppingDistance   |	5.44  
 AvgDistanceBetweenVehicles Yds   |	88.83  
+
+The Vehicles per hour is calculated from the sample length in minutes Cell F8   :  =(COUNT($I$10:$I$60)*(60/F8))  
+
+It is important to check the calculation ranges and the ranges of the charts after imputing new data. In particular the Vehicles per hour which relies on knowing the sample length as well as which columns the data is in.
 
 **Columns of the spreadsheet**
 
