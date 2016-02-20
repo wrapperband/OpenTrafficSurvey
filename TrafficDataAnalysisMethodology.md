@@ -283,7 +283,7 @@ Also, it shows that a reading of 310 vehicles per hour in one 10 minute period i
  
 This means the actual reading is likely to be in the range  310 +/- 45  for the test case.
 
-*How much does reducing the sample decrease accuracy?*
+*How much does reducing the sample length decrease accuracy?*
  
 For a 5 Minute sample  310 + (23 * 310) / 100 = 381  
 
