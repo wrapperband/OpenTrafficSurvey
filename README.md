@@ -61,12 +61,13 @@ http://www.howpollutedismyroad.org.uk/ : shows some research information to help
      of COPD (chronic obstructive pulmonary disease) and CHD (coronary heart disease)  
      cases in adults 65 years of age and older."  
   
-    If you click on a section of road you'll see lots of detailed information on the pollutants,  
-    plus the number of vehicle movements per day."   
 
-For the Traffic survey test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further increases in development / Traffic . The proposed development threatening to increase the daily levels above 5200.   
-However, the current research shows average traffic flow readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 per hour, for one event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long ....
-...
+For the Traffic survey test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further increases in development / Traffic . The proposed development threatening to increase the levels above 5200 per day.  
+
+In a more recent 5 minute survey of the test site showed flow levels of 444 Vehicles per hour, or 5300 Vehicles per day, which could mean traffic levels of 6800 Vehicles a day, with extra traffic from the development.
+
+The current research shows average traffic flow readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 per hour, for one event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long.
+  
 
  
 **Open Source Systems : Philosophy**
