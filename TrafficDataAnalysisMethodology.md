@@ -5,7 +5,9 @@ The data analysis methodology describes the fields in the template spreadsheet u
 
 The analysis and observations reported at the time have been included, along with some updates to the spreadsheet, to provide more documented charts and guides to show how it can be used and errors and limitations. 
 
-The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible.
+The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible. Where it is not there are tips and explanations of such as what problems occured and how situations might differ and how that could be dealt with.
+
+A number of other side studies are also noted, such as direction of vehicle or various methods of simulating the effect of proposed changes.
 
 **Fields of the spreadsheet**
 
