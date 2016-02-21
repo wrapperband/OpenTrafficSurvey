@@ -150,6 +150,10 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 ![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDay.28.10.2013.jpg)
 
+**Manual Calibration Data 2013 - shown as Vehicles Per Hour, for each 5 minute sample**
+
+![alt tag](charts/TrafficSurvey-CalibrationManual.FlowRatesPerHour-00.11.2013.jpg)  
+
 
 **Possible future developments for Open Traffic survey**
 
