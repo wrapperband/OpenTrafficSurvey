@@ -37,6 +37,8 @@ In the 2015 survey, a triggering mechanism was used to save a single or small nu
 
 This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. The drawback with the video image triggering method it had to be subject a significant calibration. Although it was consistent it under estimated the traffic by 1/3. (With a traffic flow of one car every 12 seconds) The calibration may be lower for lower flows, but meant the values need to be multiplied by 3 to get the actual figure. 
 
+When the original results of the 2013 "Trigger Data" Traffic survey at the test site the flow calibrated with a lower multiplying factor of 2.  
+
 However, the video trigger method was surprisingly accurate,  for a method which required such a large calibration factor, when sample tested with a manual count of traffic from a video ..
 
 Examination of the video evidence, compared to the triggered photo method showed the reasons why it underestimates the flow ... 
@@ -106,31 +108,31 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 **Traffic Flow Rates May 2015**  
 
-![alt tag](charts/02-flowrates.19.5.2015-12.0.jpg)  
+![alt tag](charts/TrafficSurvey-Flowrates.19.5.2015-12.0.jpg)  
 
 **Traffic Flow Rates January 2016**  
 
-![alt tag](charts/03-flowrates.9.1.2016-15.00.jpg)  
+![alt tag](charts/TrafficSurvey-Flowrates.9.1.2016-15.00.jpg)  
 
 **Traffic Survey of vehicles types 2010**
 
-![alt tag](charts/04-Traffic Survey-4-6-2010-01.jpg)
+![alt tag](charts/TrafficSurvey-Flowrates-4-6-2010-01.jpg)
 
 **Traffic Survey of vehicles types 2010**
 
-![alt tag](charts/05-Traffic Survey-4-6-2010-02.jpg)
+![alt tag](charts/TrafficSurvey-Flowrates-4-6-2010-02.jpg)
 
 **Distance Between Vehicles - 2016**
 
-![alt tag](charts/06-Distance BetweenVehicles-Traffic Survey-9-1-2016-03.jpg)
+![alt tag](charts/TrafficSurvey-Seperation-DistanceBetweenVehicles-9-1-2016.jpg)
 
 **Speed of Vehicles - 2016**
 
-![alt tag](charts/07-SpeedOfVehicles-Traffic Survey-9-1-2016-04.jpg)
+![alt tag](charts/TrafficSurvey-SpeedOfVehicles-9-1-2016.jpg)
 
 **Chart of 2016 sample data plus Simulated extra traffic levels predicted from development plans 8:15am till 9:00am**
 
-![alt tag](charts/08-SimulatedAdditionalFlow-ActualPassTimes-9-1-2016.jpg)
+![alt tag](charts/TrafficSurvey-SimulatedAdditionalFlow-ActualPassTimes-9-1-2016.jpg)
 
 **Manual Calibration chart Nov 2013 for the 5 minute sample data - shows "under-estimation" of flow using the trigger systems**
 
