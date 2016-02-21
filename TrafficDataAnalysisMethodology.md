@@ -1,6 +1,12 @@
 #Open Traffic Survey
 **Methodology for analysing the Traffic data with the citizen traffic survey spreadsheet**
 
+The data analysis methodology describes the fields in the template spreadsheet using real data from a number of Traffic audits to explain what they mean and how they are calculated.
+
+The analysis and observations reported at the time have been included, along with some updates to the spreadsheet, to provide more documented charts and guides to show how it can be used and errors and limitations. 
+
+The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible.
+
 **Fields of the spreadsheet**
 
 **Information fields for the Spreadsheet.**
