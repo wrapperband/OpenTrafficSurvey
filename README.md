@@ -142,7 +142,9 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesBankHoliday28.10.2013.jpg)
 
-**Long term Traffic flows for "Holiday week" October 2013 at sample site, acheived using Triggered Image system**
+**Long term Traffic flows for "Holiday week" October 2013 at sample site, achieved using Triggered Image system**
+
+This chart show the conservative calibration factor of 2 used in the original report. 
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesHolidayWeek-28.10.2013.jpg)
 

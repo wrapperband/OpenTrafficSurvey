@@ -321,6 +321,10 @@ Average Vehicles Per Hour (Triggered)	| 99.50	| 22.19
 
 **What is the effect of Holidays?**
 
+The 2013 survey at the test site contained two main parts, manual data collection. Testing a video trigger system, and recording long term traffic. 
+
+By setting the trigger to record 1 or more images for each trigger it is then much easier to count the number of events. It was also possible to record direction or other details with more work.
+
 During the test period collected by trigger method it was possible to look into more detail what constituted holiday traffic by showing the difference between the same days. Here is the chart for bank holiday 28-10-2013 at the test site at full calibration.  
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesHolidayWeekFullCalib3-28.10.2013.jpg)  
@@ -329,7 +333,19 @@ Here is the chart showing the following Monday's flow minus the bank holiday flo
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowDifferenceBetweenMondays-28.10.2013.jpg)  
 
-This chart shows the daily traffic and the difference / increase there is on the bank holiday Monday and Tuesday.  
+This chart shows the "normal" daily traffic and the difference / increase there is on the bank holiday Monday and Tuesday.  
 
 ![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDayFullCalib3.28.10.2013.jpg)  
+
+**What is the difference between Morning and Evening Traffic?**
+
+Using Data from the 2013 survey, it was possible to add the hourly traffic together to get a picture of the Traffic over the long term survey. It was obvious that factors such as holidays were effecting the results, so it would be expected to be slightly different for non bank holiday times or other "events".
+
+Here is the "Long Term survey" 10.2013 - Morning Traffic
+
+![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDayMorning.28.10.2013.jpg)  
+
+Here is the "Long Term survey" 10.2913 - Afternoon / Evening Traffic
+
+![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDayAfternoon.28.10.2013.jpg)  
 
