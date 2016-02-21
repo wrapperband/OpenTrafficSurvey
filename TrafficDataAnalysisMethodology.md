@@ -214,7 +214,7 @@ Vehicles per Hour – with Twice / X times  the Trafiic   |   Vehicles Per Hour 
 **Example of more complex Traffic Simulations methods**
 
 For the test case it was calculated that extra traffic between 8:15 and 9:00 would more than triple the level of traffic at that time. In this case a copy of the data sheet was made and 2 extra vehicles were added "automatically" using a simulation equations in Columns A and B to find the time of the two vehicles between each set of vehicles.
-The simulation isnt included as it will be site specific.
+The simulation isn't included as it will be site specific.
 
 
 Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Vehicles	|    Start Frame |   End frame
@@ -235,6 +235,8 @@ The new start frame and end frame is the previous vehicle + the new time between
 Cell A shows the time in minutes between vehicles =C10/(60*5) , shows the time each vehicle arrives and confirms the length of the simulation.  
 
 **Charts from the input and calculated traffic Data available in the template spreadsheet**
+
+The  charts are separated as Tabs.  
 
 Sheet 1 is called Data input and Calculations.  
 Sheet 2 contains the speed charts with errors.  
@@ -303,3 +305,16 @@ Average Vehicles Per Hour (Manual)	|    399.00	|    15.99
 Average Vehicles Per Hour (Triggered)	| 99.50	| 22.19
 
 *Note that the last cell had to be doubled because there was an odd number of 5 minute sample. The doubled sample which was a less than average value.*
+
+**What is the effect of Holidays?**
+
+During the test period collected by trigger method it was possible to look into more detail what constituted holiday traffic by showing the difference between the same days. Here is the chart for bank holiday 28-10-2013 at the test site at full calibration.  
+
+![alt tag](charts/TrafficSurvey-Triggered-FlowRatesHolidayWeekFullCalib3-28.10.2013.jpg)  
+
+Here is the chart showing the following Monday's flow minus the bank holiday flow.  The difference chart is entirely consistent with what would be expected. The next week the morning and evening traffic is increased and the traffic during the day is vastly reduced.  
+
+![alt tag](charts/TrafficSurvey-Triggered-FlowDifferenceBetweenMondays-28.10.2013.jpg)  
+
+This chart shows the daily traffic and the difference / increase there is on the bank holiday Monday and Tuesday.  
+
