@@ -27,7 +27,7 @@ This chart is from the first spreadsheet with data taken from Video evidence, th
 
 **Open Traffic Survey : Observations and Results from Test Surveys**
 
-**Is there any ways of easing the manual work in analysing the traffic?**
+**Is there any ways of easing the manual work in analysing and collecting the traffic data?**
 
 Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. It is possible to set some software to trigger an image when there is movement in part of the frame. By adjusting the sensitivity it is possible to trigger an event when a car or bigger passes, but not a person.
 
@@ -41,7 +41,9 @@ When the original results of the 2013 "Trigger Data" Traffic survey at the test 
 
 However, the video trigger method was surprisingly accurate,  for a method which required such a large calibration factor, when sample tested with a manual count of traffic from a video ..
 
-Examination of the video evidence, compared to the triggered photo method showed the reasons why it underestimates the flow ... 
+Examination of the video evidence, compared to the triggered photo method showed the reasons :  
+
+**Why the trigger system underestimates the flow ...** 
 
 1. At the traffic levels on the road, traffic was often bunched <  less than the re-trigger time for the system.
 2. Vehicles often passed in opposite directions at that point in the road (between parked cars on one side) only triggering one event.
@@ -68,9 +70,11 @@ For the Traffic survey test site there were 310 vehicles per hour for 12 hours, 
 
 In a more recent 5 minute survey of the test site showed flow levels of 444 Vehicles per hour, or 5300 Vehicles per day, which could mean traffic levels of 6800 Vehicles a day, with extra traffic from the development.
 
+**Pollution from peak traffic levels**
+
 The current research shows average traffic flow readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 Vehicles per hour for one congestion event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long.
 
-That's a flow of greater than 3000 Vehicles per hour (not day) for (15 + 30 + 30 + 30) seconds, or 17.5% of the Traffic survey period on the test site.  
+That analysis showed a flow of greater than "3000 Vehicles per hour" (not day) for (15 + 30 + 30 + 30) seconds, or 17.5% of the 10 minute Traffic Survey collection period at the test site.  
   
  
 **Open Source Systems : Philosophy**
