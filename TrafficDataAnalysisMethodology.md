@@ -384,3 +384,37 @@ Simulating future effects also shows that the parties were made aware of the ext
 
 ![alt tag](charts/ForthRoadBridgev.NationalTraffic-1966-2015.gif)  
 
+**Predicting addition normal traffic at the test site**
+
+The following charts show the predicted hourly and daily traffic levels as they increase over the next years with no developments, just the increase in national average vehicle use...
+
+Over 10 years the traffic would increase from 444 to 585, an cumulative increase of 132%.
+
+**Chart of predicted increase in Normal test site Traffic per Hour**
+
+![alt tag](charts/TrafficSurvey-NormalPredictedIncrease.v.Year.PerHour.20.2.2016.jpg)  
+
+**Chart of predicted increase in Normal test site Traffic per Day**
+
+![alt tag](charts/TrafficSurvey-NormalPredictedIncrease.v.Year.PerDay.20.2.2016.jpg)  
+
+*How accurate are the figures being used by Planning?**
+
+In 2011 a report on how Transport for London manipulated the figures they used, with no come back ...
+
+    It is clear that most modern plans are developed by specialist in hiding any inconvenient information, **That is their Job.**
+
+    In September, Transport for London released a copy of a presentation they had submitted to the London Assembly about Blackfriars Bridge.
+
+    This contained some rather extraordinary claims, for example this projection (p3):
+
+    AM peak 2012 – pedestrians 58%, cyclists 6%, car occupants 14%
+
+    Given that there are currently more cyclists than car occupants, and cycling is increasing while driving is decreasing, the above is quite clearly wrong.
+
+    Thanks to the tenacity of London Assembly Member John Biggs (and his researchers), TfL has been forced to release an explanatory note, 
+    which shows the dubious assumptions that they have made in order to arrive at these figures.
+
+    From : https://cycleoffutility.wordpress.com/category/blackfriars-bridge/
+
+
