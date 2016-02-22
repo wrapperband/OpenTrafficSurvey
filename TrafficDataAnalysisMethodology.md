@@ -325,15 +325,21 @@ The 2013 survey at the test site contained two main parts, manual data collectio
 
 By setting the trigger to record 1 or more images for each trigger it is then much easier to count the number of events. It was also possible to record direction or other details with more work.
 
-During the test period collected by trigger method it was possible to look into more detail what constituted holiday traffic by showing the difference between the same days. Here is the chart for bank holiday 28-10-2013 at the test site at full calibration.  
+During the test period collected by trigger method it was possible to look into more detail what constituted holiday traffic by showing the difference between the same days. 
+
+**Chart for Bank Holiday 28-10-2013 at the test site at low end calculated calibration  3x .**  
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesHolidayWeekFullCalib3-28.10.2013.jpg)  
 
 Here is the chart showing the following Monday's flow minus the bank holiday flow.  The difference chart is entirely consistent with what would be expected. The next week the morning and evening traffic is increased and the traffic during the day is vastly reduced.  
 
+**Chart for "Monday Data" Minus "Bank Holiday Data" 10-2013 at the test site**
+
 ![alt tag](charts/TrafficSurvey-Triggered-FlowDifferenceBetweenMondays-28.10.2013.jpg)  
 
 This chart shows the "normal" daily traffic and the difference / increase there is on the bank holiday Monday and Tuesday.  
+
+**Chart of Daily Rate over 2 weeks Triggered Data collection at 3x Calibration level**
 
 ![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDayFullCalib3.28.10.2013.jpg)  
 
@@ -341,13 +347,18 @@ This chart shows the "normal" daily traffic and the difference / increase there 
 
 Using Data from the 2013 survey, it was possible to add the hourly traffic together to get a picture of the Traffic over the long term survey. It was obvious that factors such as holidays were effecting the results, so it would be expected to be slightly different for non bank holiday times or other "events".
 
-Here is the "Long Term survey" 10.2013 - Morning Traffic
+Here is the "Long Term survey" 10.2013 - Morning Traffic  
+
+**Chart of Traffic in Mornings over 2 weeks : Triggered Data collection at 3x Calibration level**
 
 ![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDayMorning.28.10.2013.jpg)  
 
-Here is the "Long Term survey" 10.2913 - Afternoon / Evening Traffic
+Here is the "Long Term survey" 10.2913 - Afternoon / Evening Traffic.  
+
+**Chart of Traffic in Afternoon over 2 weeks : Triggered Data collection at 3x Calibration level**
 
 ![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDayAfternoon.28.10.2013.jpg)  
+
 
 **How to estimate the Yearly increase in Traffic**
 
