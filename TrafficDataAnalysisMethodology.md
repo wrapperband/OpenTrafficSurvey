@@ -418,7 +418,8 @@ It is clear that most modern plans are developed by specialist in hiding any inc
     been forced to release an explanatory note, which shows the dubious assumptions that 
     they have made in order to arrive at these figures.
 
-    **Transport For London :** 
+**Transport For London :**  
+
     *  Citing a figure from the Department for Transport’s guidelines, but actually using 
        a different figure.
     *  Extrapolating about what will happen at Blackfriars based on a survey about travel 
