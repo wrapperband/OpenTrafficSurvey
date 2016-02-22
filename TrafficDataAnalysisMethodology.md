@@ -337,7 +337,7 @@ Here is the chart showing the following Monday's flow minus the bank holiday flo
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowDifferenceBetweenMondays-28.10.2013.jpg)  
 
-This chart shows the "normal" daily traffic and the difference / increase there is on the bank holiday Monday and Tuesday.  
+This chart shows the "normal" daily traffic and the difference / increase there is on the bank holiday Monday.  
 
 **Chart of Daily Rate over 2 weeks Triggered Data collection at 3x Calibration level**
 
