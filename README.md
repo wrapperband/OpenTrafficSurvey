@@ -158,7 +158,7 @@ This chart show the conservative calibration factor of 2 used in the original re
 
 **Where can I find further analysis from the test site?**
 
-The data analysis document (TrafficDataAnalysisMethodology.md) shows some further details on additional charts and analysis of the Traffic data sampled at the test site. All the charts used are in the /charts directory.  
+The data analysis document (TrafficDataAnalysisMethodology.md) shows some further details on additional charts and analysis of the Traffic data sampled at the test site. All the charts used are in the /charts directory. The template spreadsheet also contains data and charts from an actual survey at the test site.  
 
 **Possible future developments for Open Traffic survey**
 
