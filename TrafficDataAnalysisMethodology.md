@@ -402,27 +402,35 @@ Over 10 years the traffic would increase from 444 to 585, an cumulative increase
 
 In 2011 a report on how Transport for London manipulated the figures they used, with no come back : From : https://cycleoffutility.wordpress.com/category/blackfriars-bridge   
 
-It is clear that most modern plans are developed by specialist in hiding any inconvenient information, **That is their Job.**
+It is clear that most modern plans are developed by specialist in hiding any inconvenient information, *that is their Job.*
 
-    In September, Transport for London released a copy of a presentation they had submitted to the London Assembly about Blackfriars Bridge.
+    In September, Transport for London released a copy of a presentation they had submitted to the 
+    London Assembly about Blackfriars Bridge.
 
     This contained some rather extraordinary claims, for example this projection (p3):
 
     AM peak 2012 – pedestrians 58%, cyclists 6%, car occupants 14%
 
-    Given that there are currently more cyclists than car occupants, and cycling is increasing while driving is decreasing, the above is quite clearly wrong.
+    Given that there are currently more cyclists than car occupants, and cycling is increasing 
+    while driving is decreasing, the above is quite clearly wrong.
 
-    Thanks to the tenacity of London Assembly Member John Biggs (and his researchers), TfL has been forced to release an explanatory note, 
-    which shows the dubious assumptions that they have made in order to arrive at these figures.
+    Thanks to the tenacity of London Assembly Member John Biggs (and his researchers), TfL has 
+    been forced to release an explanatory note, which shows the dubious assumptions that 
+    they have made in order to arrive at these figures.
 
     **Transport For London :** 
-    *  Citing a figure from the Department for Transport’s guidelines, but actually using a different figure.
-    *  Extrapolating about what will happen at Blackfriars based on a survey about travel in the whole of London – when we have exact figures at Blackfriars going back to 1986.
-    *  Using a dataset from JMP consultancy, rather than TfL’s own screenline counts, where the consultancy’s figures lend more support to TfL’s argument.
-    *  Despite cycling increasing every year at Blackfriars since 1994, assuming that there will be no increase between 2010 and 2012.
-    *  Similarly, despite people driving cars decreasing every year since 1996, assuming that this will not change between 2010 and 2012.
+    *  Citing a figure from the Department for Transport’s guidelines, but actually using 
+       a different figure.
+    *  Extrapolating about what will happen at Blackfriars based on a survey about travel 
+       in the whole of London – when we have exact figures at Blackfriars going back to 1986.
+    *  Using a dataset from JMP consultancy, rather than TfL’s own screenline counts, where 
+       the consultancy’s figures lend more support to TfL’s argument.
+    *  Despite cycling increasing every year at Blackfriars since 1994, assuming that there 
+       will be no increase between 2010 and 2012.
+    *  Similarly, despite people driving cars decreasing every year since 1996, assuming 
+       that this will not change between 2010 and 2012.
 
-    
+  
     
 
 
