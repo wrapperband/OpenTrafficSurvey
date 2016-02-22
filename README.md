@@ -142,13 +142,13 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesBankHoliday28.10.2013.jpg)
 
-**Long term Traffic flows for "Holiday week" October 2013 at sample site, achieved using Triggered Image system**
+**Long term Traffic flows for "Holiday week" October 2013 at sample site, achieved using Triggered Image system, 2x Calibration**
 
 This chart show the conservative calibration factor of 2 used in the original report. 
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesHolidayWeek-28.10.2013.jpg)
 
-**Long term Traffic flows Per Day for "Holiday week" + "Normal week" October 2013 at sample site, Triggered Image system**
+**Long term Traffic flows Per Day for "Holiday week" + "Normal week" October 2013 at sample site, Triggered Image system, 3x Calibration**
 
 ![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDay.28.10.2013.jpg)
 
@@ -156,6 +156,7 @@ This chart show the conservative calibration factor of 2 used in the original re
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.FlowRatesPerHour-00.11.2013.jpg)  
 
+The data analysis document shows some further details on additional charts and analysis of the Traffic data sampled at the test site.
 
 **Possible future developments for Open Traffic survey**
 
