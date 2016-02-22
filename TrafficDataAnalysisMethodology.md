@@ -415,6 +415,14 @@ In 2011 a report on how Transport for London manipulated the figures they used, 
     Thanks to the tenacity of London Assembly Member John Biggs (and his researchers), TfL has been forced to release an explanatory note, 
     which shows the dubious assumptions that they have made in order to arrive at these figures.
 
+    **Transport For London :** 
+    *  Citing a figure from the Department for Transport’s guidelines, but actually using a different figure.
+    *  Extrapolating about what will happen at Blackfriars based on a survey about travel in the whole of London – when we have exact figures at Blackfriars going back to 1986.
+    *  Using a dataset from JMP consultancy, rather than TfL’s own screenline counts, where the consultancy’s figures lend more support to TfL’s argument.
+    *  Despite cycling increasing every year at Blackfriars since 1994, assuming that there will be no increase between 2010 and 2012.
+    *  Similarly, despite people driving cars decreasing every year since 1996, assuming that this will not change between 2010 and 2012.
+
+    
     From : https://cycleoffutility.wordpress.com/category/blackfriars-bridge/
 
 
