@@ -349,3 +349,16 @@ Here is the "Long Term survey" 10.2913 - Afternoon / Evening Traffic
 
 ![alt tag](charts/TrafficSurvey-Triggered-LongTermFlowPerDayAfternoon.28.10.2013.jpg)  
 
+**How to estimate the Yearly increase in Traffic**
+
+In any development there needs to be more information of predicted future development and the effect of using old data to create and audit plans. In particular it is well known that traffic increases on a year by year basis.
+
+From data produced by http://www.transport.gov.scot/report/j8512a-07.htm where figures have been recorded long term for traffic over the Forth Bridge :
+
+**Forth Road Bridge – Indexed Northbound Traffic Flow 1966 – 2005 (1966 = 1.0)&**
+
+![alt tag](charts/ForthRoadBridgeIncreaseInTraffic-1966-2015.gif)  
+
+Being such an out of the way place and not subject to inordinate local development, these figures give a good indication of the overall increase in traffic levels being 2.2 percent per annum. It would be relatively simple to add extra columns to show how the traffic would increase in the next 5 years, that could tip the balance and prove traffic levels would then be at unacceptable levels for the infrastructure.
+
+
