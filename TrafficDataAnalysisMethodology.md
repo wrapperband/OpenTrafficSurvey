@@ -398,11 +398,11 @@ Over 10 years the traffic would increase from 444 to 585, an cumulative increase
 
 ![alt tag](charts/TrafficSurvey-NormalPredictedIncrease.v.Year.PerDay.20.2.2016.jpg)  
 
-**How accurate are the figures being presented to Planning?**
+**How accurate are the Traffic figures being presented to Planning?**
 
-In 2011 a report on how Transport for London manipulated the figures they used, with no come back ...
+In 2011 a report on how Transport for London manipulated the figures they used, with no come back : From : https://cycleoffutility.wordpress.com/category/blackfriars-bridge   
 
-    It is clear that most modern plans are developed by specialist in hiding any inconvenient information, **That is their Job.**
+It is clear that most modern plans are developed by specialist in hiding any inconvenient information, **That is their Job.**
 
     In September, Transport for London released a copy of a presentation they had submitted to the London Assembly about Blackfriars Bridge.
 
@@ -423,6 +423,6 @@ In 2011 a report on how Transport for London manipulated the figures they used, 
     *  Similarly, despite people driving cars decreasing every year since 1996, assuming that this will not change between 2010 and 2012.
 
     
-    From : https://cycleoffutility.wordpress.com/category/blackfriars-bridge/
+    
 
 
