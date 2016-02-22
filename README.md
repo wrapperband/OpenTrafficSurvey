@@ -138,7 +138,7 @@ In order to achieve that trust with "trusted systems"  it will be important that
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-FlowRates-00.11.2013.jpg)
 
-**Traffic flow for "Bank Holiday" October 2013 at sample site, showing Triggered and Calibrated flow levels**
+**Traffic flow for "Bank Holiday" October 2013 at sample site, showing Triggered and Calibrated flow levels set at 2x **
 
 ![alt tag](charts/TrafficSurvey-Triggered-FlowRatesBankHoliday28.10.2013.jpg)
 
