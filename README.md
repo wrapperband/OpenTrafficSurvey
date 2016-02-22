@@ -11,11 +11,11 @@ The Open Traffic Survey is the result of "6 years work" (not contiguous) monitor
 
 The methodology arises from long term notes / study of how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.
 
-*Gathering Objective data*
+**Gathering Objective data**
 
 The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show / visualise the true effect of "average vehicle flows" being experienced by the community. 
 
-*Analysing and Visualising what that data means*
+**Analysing and Visualising what the traffic data means and how accurate it is**
 
 It was also envisaged that the system could be used to confirm or refute the error levels of "official data" collected at the time. In the test case where Traffic readings were taken at a non standard road position which would emphasis the low speed under counting, a known source of inherent error when using the low cost "Traffic Speed Surveys" systems for calculating "Traffic Flow Rates".
 
@@ -27,11 +27,11 @@ This chart is from the first spreadsheet with data taken from Video evidence, th
 
 **Open Traffic Survey : Observations and Results from Test Surveys**
 
-*Is there any ways of easing the manual work in analysing the traffic?*
+**Is there any ways of easing the manual work in analysing the traffic?**
 
-Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. It is possible to set some software to trigger an image when there is movement in part of the frame. By adjsuting the sensitivity it is possible to trigger an event when a car or bigger passes, but not a person.
+Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. It is possible to set some software to trigger an image when there is movement in part of the frame. By adjusting the sensitivity it is possible to trigger an event when a car or bigger passes, but not a person.
 
-*Testing and calibrating the image trigger system*
+**Testing and calibrating the image trigger system**
 
 In the 2015 survey, a triggering mechanism was used to save a single or small number of stills as each vehicle passing, which could be simply counted as the number of files in a folder for that time period. 
 

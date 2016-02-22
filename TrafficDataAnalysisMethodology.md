@@ -390,11 +390,11 @@ The following charts show the predicted hourly and daily traffic levels as they 
 
 Over 10 years the traffic would increase from 444 to 585 vehicles per hour, an cumulative increase of 132%.
 
-**Chart of predicted increase in Normal test site Traffic per Hour**
+**Chart of predicted increase in Normal test site Traffic per Hour over next 13 years**
 
 ![alt tag](charts/TrafficSurvey-NormalPredictedIncrease.v.Year.PerHour.20.2.2016.jpg)  
 
-**Chart of predicted increase in Normal test site Traffic per Day**
+**Chart of predicted increase in Normal test site Traffic per Day for the next 13 years**
 
 ![alt tag](charts/TrafficSurvey-NormalPredictedIncrease.v.Year.PerDay.20.2.2016.jpg)  
 
