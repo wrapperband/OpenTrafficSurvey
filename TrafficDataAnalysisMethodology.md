@@ -355,10 +355,14 @@ In any development there needs to be more information of predicted future develo
 
 From data produced by http://www.transport.gov.scot/report/j8512a-07.htm where figures have been recorded long term for traffic over the Forth Bridge :
 
-**Forth Road Bridge – Indexed Northbound Traffic Flow 1966 – 2005 (1966 = 1.0)&**
+**Forth Road Bridge – Indexed Northbound Traffic Flow 1966 – 2005 (1966 = 1.0)**
 
 ![alt tag](charts/ForthRoadBridgeIncreaseInTraffic-1966-2015.gif)  
 
-Being such an out of the way place and not subject to inordinate local development, these figures give a good indication of the overall increase in traffic levels being 2.2 percent per annum. It would be relatively simple to add extra columns to show how the traffic would increase in the next 5 years, that could tip the balance and prove traffic levels would then be at unacceptable levels for the infrastructure.
+The rpad Bridge being such an out of the way place and not subject to inordinate local development, these figures give a good indication of the overall increase in traffic levels in the UK. 
+
+**On average Traffic is increasing by 2.2 percent per annum in the UK.**  
+
+It would be relatively simple to add extra columns to simulate  how the 2.2% increase effects traffic over the next 5 years. That information could tip the balance and prove traffic levels would then be at unacceptable levels for the infrastructure.
 
 
