@@ -359,10 +359,14 @@ From data produced by http://www.transport.gov.scot/report/j8512a-07.htm where f
 
 ![alt tag](charts/ForthRoadBridgeIncreaseInTraffic-1966-2015.gif)  
 
-The rpad Bridge being such an out of the way place and not subject to inordinate local development, these figures give a good indication of the overall increase in traffic levels in the UK. 
+The road Bridge being such an out of the way place and not subject to inordinate local development, these figures give a good indication of the overall increase in traffic levels in the UK.  As can be seen above the annual rate of traffic growth on the Forth Road Bridge has in general exceeded the annual national rate of traffic growth.  
 
-**On average Traffic is increasing by 2.2 percent per annum in the UK.**  
+The annual average growth rate for Great Britain is 2.8% while the average annual growth rate on the Forth Road Bridge is 4.2% from 1966, while. It is noted that the North bound traffic more closely represents the UK average at 2.2%.
 
-It would be relatively simple to add extra columns to simulate  how the 2.2% increase effects traffic over the next 5 years. That information could tip the balance and prove traffic levels would then be at unacceptable levels for the infrastructure.
+**On average Traffic is increasing by 2.8 percent per annum in the UK.**  
 
+It would be relatively simple to add extra columns to simulate  how the 2.8% increase effects traffic over the next 5 years. That information could tip the balance and prove traffic levels would then be at unacceptable levels for the infrastructure.  
 
+![alt tag](charts/ForthRoadBridgev.NationalTraffic-1966-2015.gif)  
+
+Indexed Traffic Growth 1966 to 2005 – Forth Road Bridge and GB (1966 =1.00)
