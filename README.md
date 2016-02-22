@@ -156,7 +156,9 @@ This chart show the conservative calibration factor of 2 used in the original re
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.FlowRatesPerHour-00.11.2013.jpg)  
 
-The data analysis document shows some further details on additional charts and analysis of the Traffic data sampled at the test site.
+**Where can I find further analysis from the test site?**
+
+The data analysis document (TrafficDataAnalysisMethodology.md) shows some further details on additional charts and analysis of the Traffic data sampled at the test site. All the charts used are in the /charts directory.  
 
 **Possible future developments for Open Traffic survey**
 
