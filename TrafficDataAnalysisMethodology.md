@@ -388,7 +388,7 @@ Simulating future effects also shows that the parties were made aware of the ext
 
 The following charts show the predicted hourly and daily traffic levels as they increase over the next years with no developments, just the increase in national average vehicle use...
 
-Over 10 years the traffic would increase from 444 to 585, an cumulative increase of 132%.
+Over 10 years the traffic would increase from 444 to 585 vehicles per hour, an cumulative increase of 132%.
 
 **Chart of predicted increase in Normal test site Traffic per Hour**
 
