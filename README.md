@@ -76,6 +76,31 @@ The current research shows average traffic flow readings vastly underestimate th
 
 That analysis showed a flow of greater than "3000 Vehicles per hour" (not day) for (15 + 30 + 30 + 30) seconds, or 17.5% of the 10 minute Traffic Survey collection period at the test site.  
   
+  
+**How does UK planning calculate Traffic Flow increases?**
+
+In the case of the test site the prediction figures were calculated with TEMPRO. 
+
+http://laqm.defra.gov.uk/documents/TEMPRO_guidance.pdf
+
+Using the worked example, the test site is close to main Urbanisation and subject to excessive development for the space in restricted valleys. The traffic increase Nationally is 1.0577 or 5.57% per year.
+
+In another example or a rural road with development in Somerset, the adjusted local increase was 1.225 using TEMPRO. That seems impossibly large, and they may have meant 1.025.
+
+http://www.leics.gov.uk/lt09.pdf
+
+In another similar example of high income area commuting similar to the test site the TEMPRO factor was set as 1.072 reflecting fuel cost to reduce the (probable) figure. 
+
+The chart shows the Growth in Traffic at the test site using TEMPRO "calibration" figures.
+
+**Traffic Flow Rates - Predicted increase from 2016 - Flow per Hour**  
+
+![alt tag](charts/TrafficSurvey-TEMPROPredictedIncreasePerHour2016.jpg)  
+
+**Traffic Flow Rates - Predicted increase from 2016 - Flow per Hour**  
+
+![alt tag](charts/TrafficSurvey-TEMPROPredictedIncreasePerDay2016.jpg)  
+
 
 **What are the issues with air / noise pollution and transport trends?**
 
