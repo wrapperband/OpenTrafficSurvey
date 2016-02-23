@@ -95,7 +95,13 @@ Basically, this proves that planners must be to blame for the deteriorating effe
 
 A poor planning decision only has to go through once and then it is established for ever, there seems little comeback for "planning mistakes" such as over building or ignoring distances, often they are just accepted in a future meeting.
 
-These endemic faults indicate action is required to correct those failures.  The knowledge that a small sample can give extensive information about the effects of traffic is one step to monitor the situation. Current CCTV could be upgraded to include traffic flow estimates. Traffic flows could be calibrated to pollution levels.
+These endemic faults indicate action is required to correct those failures.   
+
+The knowledge that a small sample can give extensive information about the effects of traffic is one step to monitor the situation.  
+
+Current CCTV could be upgraded to include traffic flow estimates.  
+
+Traffic flows could be calibrated to pollution levels.   
 
 **There is no improvement in  a system unless it has some feedback on how it is performing.**
 
