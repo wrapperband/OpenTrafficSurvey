@@ -97,7 +97,7 @@ The chart shows the Growth in Traffic at the test site using TEMPRO "calibration
 
 ![alt tag](charts/TrafficSurvey-TEMPROPredictedIncreasePerHour2016.jpg)  
 
-**Traffic Flow Rates - Predicted increase from 2016 - Flow per Hour**  
+**Traffic Flow Rates - Predicted increase from 2016 - Flow per Day**  
 
 ![alt tag](charts/TrafficSurvey-TEMPROPredictedIncreasePerDay2016.jpg)  
 
