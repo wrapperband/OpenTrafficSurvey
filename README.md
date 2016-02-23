@@ -76,7 +76,34 @@ The current research shows average traffic flow readings vastly underestimate th
 
 That analysis showed a flow of greater than "3000 Vehicles per hour" (not day) for (15 + 30 + 30 + 30) seconds, or 17.5% of the 10 minute Traffic Survey collection period at the test site.  
   
+
+**What are the issues with air / noise pollution and transport trends?**
+
+The dysfunctionally of the planning system, particularly with local roads is disturbing, what can we do about it?
  
+The first thing to do is monitor the situation so those with responsibility can't continue to put their head in the sand, pretending what they don't know doesn't heart them...
+
+Currently, the effects of traffic on the population near the roads is not even considered as a factor unless over kill danger is apparent, whilst new developments have every consideration of noise and traffic effect.
+
+Traffic speed surveys, which are know to underestimate slow traffic, are routinely accepted as providing accurate Traffic Flow measurements by planners.
+
+http://www.engineering.ucl.ac.uk/engineering-exchange/files/2015/10/EngEx-LSx-Community-Forum1.pdf
+
+The engineering Exchange conference in 2015 shows the poor state of controlling pollution through traffic flow.
+
+Basically, this proves that planners must be to blame for the deteriorating effects, they have allowed developments to continue far beyond any sensible strain on the infrastructure, health, welfare of residence. 
+
+A poor planning decision only has to go through once and then it is established for ever, there seems little comeback for "planning mistakes" such as over building or ignoring distances, often they are just accepted in a future meeting.
+
+These endemic faults indicate action is required to correct those failures.  The knowledge that a small sample can give extensive information about the effects of traffic is one step to monitor the situation. Current CCTV could be upgraded to include traffic flow estimates. Traffic flows could be calibrated to pollution levels.
+
+**There is no improvement in  a system unless it has some feedback on how it is performing.**
+
+For the planning system, one idea would be to publish statistics from detailed follow up checks on "allowed plans" by the system. As has been shown with manufacture quality control and the study of the accuracy of traffic flow from samples, a small sample of 1 in 10 planning applications studied in detail of what was delivered against the plan.
+
+Longer term condition monitoring of the planning system should concentrate on it's effects, such as quality and availability of parks and play areas, the levels of noise, or amounts of accidents, or such. To be meaningful they need to be broken down into close geographic locations.  
+
+
 **Open Source Systems : Philosophy**
 
 The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tools, which is also conceived as open source tools to enable to enable the public to run easily audit-able "Open Governance Systems" or "Government monitoring systems".
