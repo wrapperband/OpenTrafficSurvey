@@ -168,7 +168,7 @@ As part of such a large development the traffic design should have complied with
 
 http://www.standardsforhighways.co.uk/dmrb/vol7/section2/hd3901.pdf
 
-For the new designation of the "new road system",  all the pavements should have been considered in the standards for a Heavy vehicle Category road. That should also include where there are no current pavements, i.e. test casew.
+For the new designation of the "new road system", all the pavements should have been considered in the standards for a Heavy vehicle Category road. That should also include where there are no current pavements, i.e. test casew.
    
 **Open Source Systems : Philosophy**
 
