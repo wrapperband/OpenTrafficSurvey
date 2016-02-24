@@ -138,7 +138,38 @@ For the planning system, one idea would be to publish statistics from detailed f
 
 Longer term condition monitoring of the planning system should concentrate on it's effects, such as quality and availability of parks and play areas, the levels of noise, or amounts of accidents, or such. To be meaningful they need to be broken down into close geographic locations.  
 
+**Standards for Road Layouts and pavements**
 
+The HSE release the Technical Measures Document deals with design codes relating to roadways, site traffic control and immobilisation of vehicles.
+
+http://www.hse.gov.uk/comah/sragtech/techmeastraffic.htm
+
+Road layout & geometry
+
+The following are important considerations in the design of road layout:
+
+    Consideration should be given to physical characteristics of the road such as the horizontal 
+       and vertical alignment, camber, width, headroom, visibility, drainage, and junction design etc;
+    Road layouts should be designed to normal highway engineering standards;
+    There should be appropriate segregation between pedestrians and road traffic;
+    Parking and loading/unloading areas on site should be separated; and
+    Signing and road marking should be in accordance with public road network standards
+    Hazards, restrictions and directions should be clearly identified and communicated by signs, 
+         signals and instructions.
+
+
+Where it is more difficult to apply then :
+
+"In larger sites, individual access roads should feed to the main distributor road, which should not provide direct access to individual factory units. All two-way industrial roads should have a minimum width of 7.3 metres. Curves should be of sufficiently large radius to permit HGVs to pass without the need for local widening. Only where this is not reasonably practicable should local widening be provided to cater for the swept path of HGV vehicles. Individual premises should have an access of minimum width of 6.1 metres. Standard clearance should be provided under all overhead obstructions. Consideration may have to be given to the provision of specific abnormal vehicle routes."
+
+**Compliance with pavement standards.**
+
+As part of such a large development the traffic design should have complied with standards, for instance "pavements" .....
+
+http://www.standardsforhighways.co.uk/dmrb/vol7/section2/hd3901.pdf
+
+For the new designation of the "new road system",  all the pavements should have been considered in the standards for a Heavy vehicle Category road. That should also include where there are no current pavements, i.e. test casew.
+   
 **Open Source Systems : Philosophy**
 
 The "Open Traffic Survey" is conceived as part of Open Condition Monitoring Tools, which is also conceived as open source tools to enable to enable the public to run easily audit-able "Open Governance Systems" or "Government monitoring systems".
