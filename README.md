@@ -143,17 +143,19 @@ To date, there has been no published guidance as to the definition of what is �
 
 The Lincolnshire County Council say :
 
-*whilst there is no definition of severe within the National Planning Policy Framework, it states that “all developments that generate significant amounts of movement should be supported by a Transport Assessment… plans and decisions should take account of whether: the opportunities for sustainable transport modes have been taken up, depending on the nature and location of the site, to reduce the need for major transport infrastructure and that safe and suitable access to the site can be achieved for all people. And improvements can be undertaken within the transport network that cost-effectively limits the significant impacts of the development. Development should only be prevented or refused on transport grounds where the residual cumulative impact of developments is severe”*
+*Whilst there is no definition of severe within the National Planning Policy Framework, it states that “all developments that generate significant amounts of movement should be supported by a Transport Assessment… plans and decisions should take account of whether: the opportunities for sustainable transport modes have been taken up, depending on the nature and location of the site, to reduce the need for major transport infrastructure and that safe and suitable access to the site can be achieved for all people. And improvements can be undertaken within the transport network that cost-effectively limits the significant impacts of the development. Development should only be prevented or refused on transport grounds where the residual cumulative impact of developments is severe”*
 
 **Currently we base severity on Inspector’s decisions in the past which have been published and we consider the following to be significant considerations:**
 
-  Safe and suitable access is a requirement for all proposals. If a proposed development is not safe and suitable, then irrespective of volumes of traffic or queuing, the development can be considered unacceptable. This means that small developments which generate little traffic can still be unacceptable in highway terms if not safe or not suitable, e.g. poor visibility at access.
-  If traffic queues are likely to cause unsafe scenarios e.g. blocking access to a hospital or creating ‘rat-runs’ which are dangerous.
-  If Inspectors’ have deemed the traffic impact on the network to be severe.
-  If the junction is a key one on the network or a less critical junction.
-  The period when the junction exceeds capacity and the length of queues. Junctions may only have lengthy queues for 15 minutes in the peak hour and this can then be considered acceptable since the development will be accommodated, but it will be considered if the peak time will increase in the future.
-  If existing congestion is already severe.
-
+  Safe and suitable access is a requirement for all proposals.  
+  If a proposed development is not safe and suitable, then irrespective of volumes of traffic or queuing, the development can be considered unacceptable.  
+  This means that small developments which generate little traffic can still be unacceptable in highway terms if not safe or not suitable, e.g. poor visibility at access.  
+  If traffic queues are likely to cause unsafe scenarios e.g. blocking access to a hospital or creating ‘rat-runs’ which are dangerous.  
+  If Inspectors’ have deemed the traffic impact on the network to be severe.  
+  If the junction is a key one on the network or a less critical junction.  
+  The period when the junction exceeds capacity and the length of queues.  
+  Junctions may only have lengthy queues for 15 minutes in the peak hour and this can then be considered acceptable since the development will be accommodated, but it will be considered if the peak time will increase in the future.  
+  If existing congestion is already severe.  
 
 **There is no improvement in  a system unless it has some feedback on how it is performing.**
 
