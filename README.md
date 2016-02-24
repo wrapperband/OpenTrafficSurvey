@@ -127,6 +127,34 @@ These endemic faults indicate action is required to correct those failures.
     Current CCTV could be upgraded to include traffic flow estimates.  
     Traffic flows could be calibrated to pollution levels.   
 
+**What is considered a traffic problem in the UK?**
+
+Nothing is considered a traffic problem in the UK, planning will try to mitigate or make the best of any increase in traffic. However, planners must now fall in line with National Policy or NPPF.
+
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/6077/2116950.pdf
+
+"In line with the National Planning Policy Framework, highway authorities are now asked to consider whether new developments have a ‘severe’ impact on the network, taking account of mitigation measures, before considering recommending refusal to the Local Planning Authority. 
+
+To date, there has been no published guidance as to the definition of what is ‘severe’."
+
+(From : http://www.lincolnshire.gov.uk/transport-and-roads/strategy-policy-and-licences/control-of-new-development-affecting-the-highway/growth-and-planning-for-highways/128325.article)
+
+**Considerations of severity**
+
+The Lincolnshire County Council say :
+
+*whilst there is no definition of severe within the National Planning Policy Framework, it states that “all developments that generate significant amounts of movement should be supported by a Transport Assessment… plans and decisions should take account of whether: the opportunities for sustainable transport modes have been taken up, depending on the nature and location of the site, to reduce the need for major transport infrastructure and that safe and suitable access to the site can be achieved for all people. And improvements can be undertaken within the transport network that cost-effectively limits the significant impacts of the development. Development should only be prevented or refused on transport grounds where the residual cumulative impact of developments is severe”*
+
+**Currently we base severity on Inspector’s decisions in the past which have been published and we consider the following to be significant considerations:**
+
+  Safe and suitable access is a requirement for all proposals. If a proposed development is not safe and suitable, then irrespective of volumes of traffic or queuing, the development can be considered unacceptable. This means that small developments which generate little traffic can still be unacceptable in highway terms if not safe or not suitable, e.g. poor visibility at access.
+  If traffic queues are likely to cause unsafe scenarios e.g. blocking access to a hospital or creating ‘rat-runs’ which are dangerous.
+  If Inspectors’ have deemed the traffic impact on the network to be severe.
+  If the junction is a key one on the network or a less critical junction.
+  The period when the junction exceeds capacity and the length of queues. Junctions may only have lengthy queues for 15 minutes in the peak hour and this can then be considered acceptable since the development will be accommodated, but it will be considered if the peak time will increase in the future.
+  If existing congestion is already severe.
+
+
 **There is no improvement in  a system unless it has some feedback on how it is performing.**
 
 For the planning system, one idea would be to publish statistics from detailed follow up checks on "allowed plans" by the system. As has been shown with manufacture quality control and the study of the accuracy of traffic flow from samples, a small sample of 1 in 10 planning applications studied in detail of what was delivered against the plan.
