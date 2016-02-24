@@ -398,6 +398,32 @@ Over 10 years the traffic would increase from 444 to 585 vehicles per hour, an c
 
 ![alt tag](charts/TrafficSurvey-NormalPredictedIncrease.v.Year.PerDay.20.2.2016.jpg)  
 
+**How does UK planning calculate Traffic Flow increases?**
+
+In the case of the test site the prediction figures were calculated with TEMPRO. 
+
+http://laqm.defra.gov.uk/documents/TEMPRO_guidance.pdf
+
+Using the worked example, the test site is close to main Urbanisation and subject to excessive development for the space in restricted valleys. The traffic increase Nationally is 1.0577 or 5.57% per year.
+
+In another example or a rural road with development in Somerset, the adjusted local increase was 1.225 using TEMPRO. That seems impossibly large, and they may have meant 1.025.
+
+http://www.leics.gov.uk/lt09.pdf
+
+In another similar example of high income area commuting similar to the test site the TEMPRO factor was set as 1.072 reflecting fuel cost to reduce the (probable) figure. 
+
+The chart shows the Growth in Traffic at the test site using TEMPRO "calibration" figures.
+
+**Traffic Flow Rates - Predicted increase from 2016 - Flow per Hour**  
+
+![alt tag](charts/TrafficSurvey-TEMPROPredictedIncreasePerHour2016.jpg)  
+
+**Traffic Flow Rates - Predicted increase from 2016 - Flow per Day**  
+
+![alt tag](charts/TrafficSurvey-TEMPROPredictedIncreasePerDay2016.jpg)  
+
+
+
 **How accurate are the Traffic figures being presented to Planning?**
 
 In 2011 a report on how Transport for London manipulated the figures they used, with no come back : From : https://cycleoffutility.wordpress.com/category/blackfriars-bridge   
