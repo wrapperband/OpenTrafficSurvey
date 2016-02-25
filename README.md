@@ -33,15 +33,31 @@ Various techniques and common equipment were tested for potential use as sensors
 
 **Testing and calibrating the image trigger system**
 
-In the 2015 survey, a triggering mechanism was used to save a single or small number of stills as each vehicle passing, which could be simply counted as the number of files in a folder for that time period. 
+In the 2010 Traffic survey, a triggering mechanism was used to save a single or small number of stills as each vehicle passing, which could be simply counted as the number of files in a folder for that time period. 
 
-This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. The drawback with the video image triggering method it had to be subject a significant calibration. Although it was consistent it under estimated the traffic by 1/3. (With a traffic flow of one car every 12 seconds) The calibration may be lower for lower flows, but meant the values need to be multiplied by 3 to get the actual figure. 
+This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. 
 
-When the original results of the 2013 "Trigger Data" Traffic survey at the test site the flow calibrated with a lower multiplying factor of 2.  
+When the original results of the 2013 "Trigger Data" Traffic survey were compared with some manual readings, at the test site, the flow had to be calibrated with st least a multiplying factor of 2.  
 
-However, the video trigger method was surprisingly accurate,  for a method which required such a large calibration factor, when sample tested with a manual count of traffic from a video ..
+It was therefore decided to complete a second 2013 study, using 2 hours of manual counts of traffic  into from 5 minute sample pots. 
 
-Examination of the video evidence, compared to the triggered photo method showed the reasons :  
+Quite a lot of analysis was done of the manual data, to show deviation and normal variation of flow and accuracy of predicting hourly readings from different sample lengths.
+
+The 2010 survey was also performed by a slightly different trigger method, where short videos were triggered and each was analysed manually. Whereas with the 2013 survey there were no false positives, the 2010 survey did have some. As this was a preliminary study different methods were assesed for accuracy and the most likely sttings were tested. 
+A manual inspection of the videos were recorded into a spreadsheet and split in to catagories and direction.
+
+The video sample method takes up more time and resources than the 3 image 2013 method so is cirtain to require calibration by at least 1.5x.
+
+**Recalibrated 2010 Traffic Survey Data 1.5x Trigger**
+
+![alt tag](charts/TrafficSurvey-Flowrates.Recalibrated.1x-4-6-2010-02.jpg)  
+
+
+The drawback with any triggering method it had to be subject a significant calibration. Although the calibrated values obtained were consistent and showed the "variation of levels" clearly, it under estimated the traffic by 1/3. (For the test site with a traffic flow of one car every 12 seconds) The calibration may be lower for lower flows, but meant the values need to be multiplied by 3 to get close to the actual figure. 
+
+However, the video trigger method was surprisingly accurate for a method which required such a large calibration factor when sample tested with a manual count of traffic from a video ..
+
+Examination of the video evidence, compared to the triggered photo method showed the reasons why the trigger missed some vehicles :  
 
 **Why the trigger system underestimates the flow ...** 
 
