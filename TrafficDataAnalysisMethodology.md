@@ -265,7 +265,7 @@ This information can then be used to assess the accuracy of other samples. The t
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-10minSample-00.11.2013.jpg)  
 
-The following chart shows just how conservative the 2 times Multiplier used when presenting the 2013 test results initially probably was :
+The following chart shows just how conservative the 2 times Multiplier used when presenting the 2013 test results initially probably was. It shows the multiplying factor each trigger sample would need to used to get the correct reading of traffic.... :
 
 ![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-CalibrationRates-00.11.2013.jpg)  
 
