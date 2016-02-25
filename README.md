@@ -55,11 +55,11 @@ The video sample method takes up more time and resources than the 3 image 2013 m
 
 The drawback with any triggering method it had to be subject a significant calibration. Although the calibrated values obtained were consistent and showed the "variation of levels" clearly, it under estimated the traffic by 1/3. (For the test site with a traffic flow of one car every 12 seconds) The calibration may be lower for lower flows, but meant the values need to be multiplied by 3 to get close to the actual figure. 
 
-However, the video trigger method was surprisingly accurate for a method which required such a large calibration factor when sample tested with a manual count of traffic from a video ..
+However, the video trigger method was surprisingly accurate for a method which required such a large calibration factor when sample tested with a manual count of traffic from a video.
+
+**Why the trigger system underestimates the Traffic flow ...** 
 
 Examination of the video evidence, compared to the triggered photo method showed the reasons why the trigger missed some vehicles :  
-
-**Why the trigger system underestimates the flow ...** 
 
 1. At the traffic levels on the road, traffic was often bunched <  less than the re-trigger time for the system.
 2. Vehicles often passed in opposite directions at that point in the road (between parked cars on one side) only triggering one event.
