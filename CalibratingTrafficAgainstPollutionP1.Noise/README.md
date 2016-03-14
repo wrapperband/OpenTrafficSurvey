@@ -77,6 +77,10 @@ This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the levels of noi
 
 ![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.PercentageBands.12.15..2016-03-01.jpg)
 
+This chart shows from  12:15 02-03-2016 shows the noise levels measured as vehicles entered and exited the measurement box. This shows that the effect of the noise of the vehicle is extended over the 25 yards of measurement. It can be seen that the noise increases as vehicles aproach and can increase further from exhaust noise, when individual vehicles passing were studied.  
+
+![alt tag](charts/TrafficSurveyNoiseLevelsIn.Out.dBC.per.vehicle.v.Speed.12.15..2016-03-01.jpg)
+
 **Further work :**
 
 Leq meter (cumulative noise) and other noise calibrator required. Frequency analysis system,
