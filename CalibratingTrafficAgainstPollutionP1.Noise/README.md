@@ -69,6 +69,10 @@ Noise levels remained high for significant periods of time / distance as vehicle
 
 ![alt tag](charts/TrafficSurvey-NoiseLevels.dBA.v.TrafficFlow-17.45-2016-03-07-01.jpg) 
 
+This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the level of Noise dBC against traffic flow. It can be clearly seen the effect of traffic noise and how that becomes continuously high as flow rates increase.
+
+![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.VehicleFlow.12.15..2016-03-01.jpg) 
+
 **Further work :**
 
 Leq meter (cumulative noise) and other noise calibrator required. Frequency analysis system,
