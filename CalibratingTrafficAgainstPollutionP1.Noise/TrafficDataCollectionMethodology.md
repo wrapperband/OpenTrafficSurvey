@@ -31,9 +31,9 @@ Position the camera at a suitable place to video record the traffic, preferably 
 
 Care needs to be taken with USB cameras, the length of cable is restricted in most cameras. One way to get over this problem is to use a cheep camera with a Laptop.  This means the camera can be placed higher up, to look down on the traffic.  
 
-The other way over this problem is to use the Logitech C920, which compress the video to MPEG on-board in the camera, so can transmit HD over a slightly longer USB cable. In this case the powered USB was used to ensure enough power to the Camera.
+The other way over this problem is to use the Logitech C920, which compresses the video to MPEG on-board in the camera, so can transmit HD over a slightly longer USB cable. In this case the powered USB was used to ensure enough power to the Camera.
   
-In this case, no extra wide angle lens was used. It was possible to measure 25 yards along the pavement. The camera was position at an angle so Out traffic travelling Left to Right, enter the box adjacent to the camera and leave 25 yards later. 
+In this case a suitable angle was available so an extra wide angle lens wasn't need. It was possible to measure 25 yards along the pavement. The camera was position at an angle so Out traffic travelling Left to Right, enter the box adjacent to the camera and leave 25 yards later. 
 
 The reverse happens with incoming traffic, right to left, it enters 25 yards away and exits close to the camera.
 

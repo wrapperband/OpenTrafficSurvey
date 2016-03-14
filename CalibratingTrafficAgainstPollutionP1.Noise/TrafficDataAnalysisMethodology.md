@@ -1,13 +1,17 @@
 #Open Traffic Survey
 **Methodology for analysing the Traffic data with the citizen traffic survey spreadsheet**
 
+**Calibrating road Traffic to Pollution : Part 1  Noise : Data Analysis** 
+
 The data analysis methodology describes the fields in the template spreadsheet using real data from a number of Traffic audits to explain what they mean and how they are calculated.
 
 The analysis and observations reported at the time have been included, along with some updates to the spreadsheet, to provide more documented charts and guides to show how it can be used and errors and limitations. 
 
 The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible. Where it is not there are tips and explanations of such as what problems occured and how situations might differ and how that could be dealt with.
 
-A number of other side studies are also noted, such as direction of vehicle or various methods of simulating the effect of proposed changes.
+This document contains explaination of the Test site Traffic surveys analysis. The third survey covered calibrating dBC to dBA levels and has been added as a 5 minute survey Template sheet. The 5 minute survey has been proved to show reasonable accuracy when predicting VPH figures.
+
+TrafficAnalysisSpreadsheet.Noise.5MinuteSurvey.Template.-17.40-07.03.2016-01.ods
 
 **Fields of the spreadsheet**
 
