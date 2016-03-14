@@ -3,7 +3,7 @@
 
 The aim of Open Traffic Survey is to outline a procedure which retains un-tamperable (video) evidence of Traffic characteristics and provide an open source spreadsheet into which data can be input and visualised with charts.  This survey is the result of a number of weeks work recording traffic and noise levels at the Oldham test site. These results were analysed in depth and a resulting updated Traffic Survey template spreadsheet was produced for 5 minute surveys. 
 
-Previous results had shown better than 25% error when predicting vehicles per hour (VPH) from vehicles per 5 minutes of flow readings. It was already shown from the 2013 test site survey traffic surveys that the site has reasonably consistent flow of traffic from  07:00 till 19:00. Other sites might have more "lumpy" traffic flows and require longer surveys. It is recommended to uses 2 * 5 minute surveys, it has been found that these are time consuming, but more managable than a full 10 minute or longer survey. 
+The choice of a 5 minute survey arrives from previous survey results showning better than 25% error when predicting vehicles per hour (VPH) from vehicles per 5 minutes of flow readings. It was already shown from the 2013 test site survey traffic surveys, that the site has reasonably consistent flow of traffic from  07:00 till 19:00. Other sites might have more "lumpy" traffic flows and require longer surveys. It is recommended to uses 2 * 5 minute surveys, it has been found that these are time consuming, but more managable than a full 10 minute or longer survey. 
 
 If you are using the Template to investigate a new Traffic flow test site, it is good practice to get a set of baseline readings at various times of the day. For instance, say 4 * 5 minute surveys would give a good indication of the variability. This would show how the new site differs from the template site, in order to understand which measurements need to be taken to describe the new site. i.e to capture the peak or lowest flow / congestion / speed times from observation. 
 
@@ -69,9 +69,13 @@ Noise levels remained high for significant periods of time / distance as vehicle
 
 ![alt tag](charts/TrafficSurvey-NoiseLevels.dBA.v.TrafficFlow-17.45-2016-03-07-01.jpg) 
 
-This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the level of Noise dBC against traffic flow. It can be clearly seen the effect of traffic noise and how that becomes continuously high as flow rates increase.
+This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the level of Noise in dBC against traffic flow. It can be clearly seen the effect of traffic on noise and how that becomes noise continuously high as flow rates increase.
 
-![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.VehicleFlow.12.15..2016-03-01.jpg) 
+![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.VehicleFlow.12.15..2016-03-01.jpg)
+
+This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the levels of noise from the full survey. The levels were manually allocated for each sample of the noise levels, then devided as a Percentage of the number of samples.  
+
+![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.PercentageBands.12.15..2016-03-01.jpg)
 
 **Further work :**
 
