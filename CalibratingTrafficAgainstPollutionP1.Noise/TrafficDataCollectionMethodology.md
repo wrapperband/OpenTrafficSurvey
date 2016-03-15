@@ -1,7 +1,7 @@
 #Open Traffic Survey
 **Data collection Methodology for automating a citizen traffic survey : Test site example survey**
 
-**Calibrating road Traffic to Pollution : Part 1  Noise** 
+**Calibrating road Traffic to Pollution : Part 1  Noise : Data Collection** 
 
 **Equipment :**
 
@@ -49,6 +49,8 @@ A number of extra 5 min samples were taken around the time, in case further hist
 In addition to recording the traffic at 5 frames per second, in this case additional information was recorded at the same time. A second video camera recorded pollution levels, in this case Noise at 30 fps. These were then synchronized to start at the same point as the Traffic analysis video. 
 
 In survey 01 the extra Noise data was recorded In and Out of the measurement box and a more detailed chart was produced with readings every couple of seconds to show the variation over time. In survey 03 the comparable noise levels were recorded with the traffic at the position closest to the camera for calibration purposes. 
+
+The sound level meters were placed at a hight of 0.5 meters, adjacent to the level of vehicles or the the level one might sit in the garden, in this test case
 
 ![alt tag](charts/TrafficSurveyRecordingTheNoiseLevels.dBA.dBC.2016-03-07.jpg) 
 

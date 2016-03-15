@@ -81,6 +81,15 @@ This chart shows from  12:15 02-03-2016 shows the noise levels measured as vehic
 
 ![alt tag](charts/TrafficSurveyNoiseLevelsIn.Out.dBC.per.vehicle.v.Speed.12.15..2016-03-01.jpg)
 
+This chart shows the manual analysis of the dBC readings taken at noon on 02-03-2016. The noise levels of each of the noise bands were allocated for the 410 readings of dBC taken during the 5 minute sample time. If the dBC was above a value that reading was allocated with number 1, zero if bellow. The percentage in each range was then totalled as a percentage of all the readings.
+
+As can be seen during the detailed test on Saturday 02-03-2016 at 12:15 with a relatively low VPH of 360, the noise levels were above 80 dBC for 50% of the time. Calibration of the dBC meter for traffic noise against dBA shows that would indicate noise levels of 75 dB for 50% of the time.
+
+The minimum sound level recorded on 02-03-2016 shows another disturbing aspect of the noise. It is well known that impulsive or changing noises are found more disturbing, and that noises above a low threshold are also more disturbing. In the test case the noise level varied from it's low of 43.7 dBC through to a peak of 93.1 dBC through an average of 74 dBC.
+
+![alt tag](charts/TrafficSurveyPercentageTime.v.NoiseLevelsBands.12.15..2016-03-01.jpg)
+
+
 **Further work :**
 
 Leq meter (cumulative noise) and other noise calibrator required. Frequency analysis system,
