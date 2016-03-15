@@ -1,4 +1,7 @@
-#Open Traffic Survey#
+**Open Traffic Survey**
+
+#Calibrating Road Traffic to Pollution : Part 1 : Noise#
+
 **Introduction to a citizen Traffic Survey Methodology**
 
 The aim of Open Traffic Survey is to outline a procedure which retains un-tamperable (video) evidence of Traffic characteristics and provide an open source spreadsheet into which data can be input and visualised with charts.  This survey is the result of a number of weeks work recording traffic and noise levels at the Oldham test site. These results were analysed in depth and a resulting updated Traffic Survey template spreadsheet was produced for 5 minute surveys. 
@@ -9,8 +12,7 @@ If you are using the Template to investigate a new Traffic flow test site, it is
 
 Whilst the spreadsheets help set up a comprehensive survey, each survey is different. It is important to double check all charts are correctly ranged and that all calculations refer to the correct fields 
 
-
-#Calibrating Road Traffic to Pollution : Part 1 : Noise#
+**Data collection methodology**
 
 Three traffic surveys were completed to gather data for an analysis of road traffic noise characteristics. The aim being to produce a template spreadsheet that can facilitate others to analyse the effects of traffic.
 
