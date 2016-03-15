@@ -60,14 +60,14 @@ In other circumstances, where vehicles are starting and stopping or struggling u
 
 It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.
 
-	In Traffic	
-	In	Out
-Base dBC	35	35
-Calibration	1.4	1.48
+                Traffic	
+                In	Out
+  Base dBC	35	35
+  Calibration	1.4	1.48
 
-**Calibrating Noise against vehicle speed**
+**Calibrating dBC noise readings against dBA**
 
-![alt tag](charts/TrafficSurvey.CalibrateNoise.v.VehicleSpeed.BothWays.12.15..2016-03-01.jpg) 
+![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBA.v.dBC.InFlow-17.45-2016-03-07-01.jpg) 
 
 
 It was noted that the readings from dBC and dBA were not that dissimilar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  
