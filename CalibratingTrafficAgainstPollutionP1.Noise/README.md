@@ -67,10 +67,13 @@ It was possible to use the data collected in Survey 01 to test various relations
 
 **Calibrating dBC noise readings against dBA**
 
+It was noted that the readings from dBC and dBA were not that dissimilar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  The Survey 03 contains some detailed comparison of dBC to dBA levels.
+
+**Detailed comparison of dBA to dBC readings at the test site**
+
 ![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBA.v.dBC.InFlow-17.45-2016-03-07-01.jpg) 
 
-
-It was noted that the readings from dBC and dBA were not that dissimilar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  
+Various ways were tested to estimate the overall level of noise. In this case the dBC is averaged for each of the minutes of the survey. This can be calibrated later against the noise LEq meter, so that vehicles can be calibrated directly against health damage.
 
 **Test site traffic noise levels (dBC) overall and averaged per minute**
 
