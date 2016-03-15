@@ -21,7 +21,7 @@ Three traffic surveys were completed to gather data for an analysis of road traf
 
 02-03-2016  12:15 Weekend :  
 
-Continuous noise survey using dBC, noise of vehicles at 1m and 25m distance, Estimate time above noise level bands, show minimal noise levels, speed, flow, seperation and time traffic analysis.  
+Continuous noise survey using dBC, noise of vehicles at 1m and 25m distance, Estimate time above noise level bands, show minimal noise levels, speed, flow, separation and time traffic analysis.  
 
 **Traffic against Noise : Survey 2**  
 
@@ -58,7 +58,7 @@ The secondary noise in this case appears to be from vehicle exhaust noise. This 
 
 In other circumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
 
-It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speed and types of traffic.
+It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.
 
 	In Traffic	
 	In	Out
