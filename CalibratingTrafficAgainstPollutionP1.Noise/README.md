@@ -47,47 +47,45 @@ The README.md document records the main conclusions and observations and pertena
 
 #Conclusions and Observations  
 
-Manual observation of the noise indicates the major source of traffic noise is due to wheel noise in this case. The traffic is mainly free flowing and is not generally deccelerating or accelerating where the readings are taken.
+Manual observation of the noise indicates the major source of traffic noise is due to wheel noise in this case. The traffic is mainly free flowing and is not generally deccelerating or accelerating where the readings are taken.  
 
-The secondary noise in this case appears to be from exhaust noise, indicated by the tendency for noise to be greater measured behind the vehicles.
+The secondary noise in this case appears to be from exhaust noise, indicated by the tendency for noise to be greater measured behind the vehicles.  
 
-In other cercumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.
+In other cercumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
 
-The calibration survey 01 showed that is a relation ship between speed and noise.
+The calibration survey 01 showed that is a relation ship between speed and noise.  
 
-It was noted that the readings from dBC and dBA were not that disimillar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.
+It was noted that the readings from dBC and dBA were not that disimillar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  
 
 ![alt tag](charts/TrafficSurveyRecordingTheNoiseLevels.dBC.AvgPerMin.2016-03-02.jpg) 
 
-The base noise level at the test site is extremely low, less than 40 dBA. It is well known that noise is more intrusive when compared against low background levels.
+The base noise level at the test site is extremely low, less than 40 dBA. It is well known that noise is more intrusive when compared against low background levels.  
 
-The highest levels of noise observered were for noisy vehicles, such as tractors and busses. Peak Noise levels for these vehicles often exceeded 85 dBA.
+The highest levels of noise observered were for noisy vehicles, such as tractors and busses. Peak Noise levels for these vehicles often exceeded 85 dBA.  
 
-Noise levels when buses passed each other (a not too unlikely event) noise levels exceeded 90 dBA.
+Noise levels when buses passed each other (a not too unlikely event) noise levels exceeded 90 dBA.  
 
-Noise levels remained high for significant periods of time / distance as vehicles passed. A number of estimation methos were tested whcih showed levels of noise 30 to 40 dB over backgroung for significant periods of the day. The test also showed peak levels above 75 dBA for significant portions of the sample times. 
+Noise levels remained high for significant periods of time / distance as vehicles passed. A number of estimation methos were tested whcih showed levels of noise 30 to 40 dB over backgroung for significant periods of the day. The test also showed peak levels above 75 dBA for significant portions of the sample times.  
 
 ![alt tag](charts/TrafficSurvey-NoiseLevels.dBA.v.TrafficFlow-17.45-2016-03-07-01.jpg) 
 
-This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the level of Noise in dBC against traffic flow. It can be clearly seen the effect of traffic on noise and how that becomes noise continuously high as flow rates increase.
+This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the level of Noise in dBC against traffic flow. It can be clearly seen the effect of traffic on noise and how that becomes noise continuously high as flow rates increase.  
 
 ![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.VehicleFlow.12.15..2016-03-01.jpg)
 
-This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the levels of noise from the full survey. The levels were manually allocated for each sample of the noise levels, then devided as a Percentage of the number of samples.  
+This chart from Survey 01 on the 2nd March 2016 at 12:15 shows the levels of noise from the full survey. 
+
+The noise levels of each of the noise bands were allocated for the 410 readings of dBC taken during the 5 minute sample time. If the dBC was above a value that reading was allocated with number 1, zero if bellow. The percentage in each range was then totalled as a percentage of all the readings.  
+
+As can be seen during the detailed test on Saturday 02-03-2016 at 12:15 with a relatively low VPH of 360, the noise levels were above 80 dBC for 50% of the time. Calibration of the dBC meter for traffic noise against dBA shows that would indicate noise levels of 75 dB for 50% of the time.  
+
+The minimum sound level recorded on 02-03-2016 shows another disturbing aspect of the noise. It is well known that impulsive or changing noises are found more disturbing, and that noises above a low threshold are also more disturbing. In the test case the noise level varied from it's low of 43.7 dBC through to a peak of 93.1 dBC through an average of 74 dBC.  
 
 ![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.PercentageBands.12.15..2016-03-01.jpg)
 
 This chart shows from  12:15 02-03-2016 shows the noise levels measured as vehicles entered and exited the measurement box. This shows that the effect of the noise of the vehicle is extended over the 25 yards of measurement. It can be seen that the noise increases as vehicles aproach and can increase further from exhaust noise, when individual vehicles passing were studied.  
 
 ![alt tag](charts/TrafficSurveyNoiseLevelsIn.Out.dBC.per.vehicle.v.Speed.12.15..2016-03-01.jpg)
-
-This chart shows the manual analysis of the dBC readings taken at noon on 02-03-2016. The noise levels of each of the noise bands were allocated for the 410 readings of dBC taken during the 5 minute sample time. If the dBC was above a value that reading was allocated with number 1, zero if bellow. The percentage in each range was then totalled as a percentage of all the readings.
-
-As can be seen during the detailed test on Saturday 02-03-2016 at 12:15 with a relatively low VPH of 360, the noise levels were above 80 dBC for 50% of the time. Calibration of the dBC meter for traffic noise against dBA shows that would indicate noise levels of 75 dB for 50% of the time.
-
-The minimum sound level recorded on 02-03-2016 shows another disturbing aspect of the noise. It is well known that impulsive or changing noises are found more disturbing, and that noises above a low threshold are also more disturbing. In the test case the noise level varied from it's low of 43.7 dBC through to a peak of 93.1 dBC through an average of 74 dBC.
-
-![alt tag](charts/TrafficSurveyPercentageTime.v.NoiseLevelsBands.12.15..2016-03-01.jpg)
 
 
 **Further work :**
