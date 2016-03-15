@@ -52,9 +52,9 @@ The README.md document records the main conclusions and observations and pertine
 
 #Conclusions and Observations#
 
-Preliminary analysis at the test site indicates the major source of traffic noise is due to wheel noise. The traffic is mainly free flowing and is not generally decelerating or accelerating where the readings are taken.  
+Preliminary analysis at the test site indicates the major component of traffic noise is due to wheel / road surface interaction. The traffic is mainly free flowing and is not generally decelerating or accelerating where the readings are taken.    
 
-The secondary noise in this case appears to be from exhaust noise. This is indicated by the tendency for noise to be greater measured behind the vehicles.  
+The secondary noise in this case appears to be from vehicle exhaust noise. This is indicated by the tendency for noise to be greater when measured behind the vehicles than in front, for both directions.  
 
 In other circumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
 
