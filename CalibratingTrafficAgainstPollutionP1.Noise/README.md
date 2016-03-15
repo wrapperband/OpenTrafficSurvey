@@ -58,7 +58,17 @@ The secondary noise in this case appears to be from vehicle exhaust noise. This 
 
 In other circumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
 
-The calibration survey 01 showed that is a relation ship between speed and noise.  
+It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speed and types of traffic.
+
+	In Traffic	
+	In	Out
+Base dBC	35	35
+Calibration	1.4	1.48
+
+**Calibrating Noise against vehicle speed**
+
+![alt tag](charts/TrafficSurvey.CalibrateNoise.v.VehicleSpeed.BothWays.12.15..2016-03-01.jpg) 
+
 
 It was noted that the readings from dBC and dBA were not that dissimilar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  
 
