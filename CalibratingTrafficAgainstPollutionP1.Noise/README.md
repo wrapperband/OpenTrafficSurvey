@@ -62,11 +62,11 @@ In other circumstances, where vehicles are starting and stopping or struggling u
 
 It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.
 
-Traffic  
-|   In	|    Out  
+  
+Traffic |   In	|    Out |  
 -------------- |    ----    |   ----    |  
-Base dBC    |	35	| 35  
-Calibration   |	1.4	| 1.48  
+Base dBC    |	35	| 35   |  
+Calibration   |	1.4	| 1.48  |  
 
 **Calibrating dBC noise readings against dBA**
 
