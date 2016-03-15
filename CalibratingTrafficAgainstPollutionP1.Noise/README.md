@@ -60,13 +60,7 @@ The secondary noise in this case appears to be from vehicle exhaust noise. This 
 
 In other circumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
 
-It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.
-
-  
-Traffic |   In	|    Out |  
--------------- |    ----    |   ----    |  
-Base dBC    |	35	| 35   |  
-Calibration   |	1.4	| 1.48  |  
+It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.  
 
 **Calibrating dBC noise readings against dBA**
 
@@ -122,6 +116,17 @@ The minimum sound level recorded on 02-03-2016 shows another disturbing aspect o
 ![alt tag](charts/TrafficSurveyNoiseLevels.dBC.v.PercentageBands.12.15..2016-03-01.jpg)
 
 This chart shows from  12:15 02-03-2016 shows the noise levels measured as vehicles entered and exited the measurement box. This shows that the effect of the noise of the vehicle is extended over the 25 yards of measurement. It can be seen that the noise increases as vehicles approach and can increase further from exhaust noise, when individual vehicles passing were studied.  
+
+Traffic |   In	|    Out |  
+-------------- |    ----    |   ----    |  
+Base dBC    |	35	| 35   |  
+Calibration   |	1.4	| 1.48  |  
+
+In the Survey 1 the equation  noise level = speed * Multiplication factor + base noise level. Various values were calculated and plotted on the calibration chart, the value chosen for the lowest error. Where the error is the "natural" variability in noise from each vehicle, not the equipment.
+
+**Calibrating speed against noise**
+
+![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBC.v.speed-12.15-2016-03-02-01.jpg)
 
 **Noise level against speed  of In and Out direction traffic showed separately**
 
