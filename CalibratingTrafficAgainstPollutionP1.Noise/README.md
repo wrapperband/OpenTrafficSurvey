@@ -87,6 +87,24 @@ This chart shows from  12:15 02-03-2016 shows the noise levels measured as vehic
 
 ![alt tag](charts/TrafficSurveyNoiseLevelsIn.Out.dBC.per.vehicle.v.Speed.12.15..2016-03-01.jpg)
 
+The analysis of vehicle seperation against safe stopping distance for the 12:15 02-03-2016 survey showed the most dangerous times for vehicles were when they were being slowed in congestion.  That is the time when vehicles are travelling at or above the safe stopping distance for their speed. 
+
+The danger of congestion had been noted in previous surveys but flow rates were only being estimated from an average of each way traffic, so the new surveys included a methodology to split the in and out traffic by sorting and coping the frames and other data into a new section of the spreadsheet for In and Out traffic. A lot of work was also done to update all the charts with relevent In Out data where applicable. 
+
+![alt tag](charts/TrafficSurvey.Seperation.OutVehicles.v.Stopping distance.12.15..2016-03-01.jpg)
+
+Time between vehicles has been added to the new template spreadsheet.
+
+In the Noise test case, it had already established that large vehicles need special measures, like turning circles, to be able to operate. It is established in planning that new developments reduce danger entering the road by improving line of site. 
+
+Yet at the same time the planning process has allowed accelerated development of the area and left some residents to feel the brunt of the over use of limited infrastrucure, such as narrow roads with no pavment or off road parking.
+
+Clearly the Planning process needs a review as it is not acting in the best interest of all parties when alloating infrastrucure access. In particular, the test case shows the planning process is either un-aware of the danger of increasing traffic to current residence or ignoring that for the benefit of developers.
+
+The new charts of exact time between vehicles is now possible with the new spreadsheet. This one is from 12:15 02-03-2016. The time between vehicles was further reduced when the evening of 07-03-2016 was surveyed the average time between vehicles dropped to a 7 second average. It was also noted further information was available on wait times to exit, for instance there were extended periods in all surveys where time between vihicles is less than 7 seconds....
+
+![alt tag](charts/TrafficSurvey.Seperation.OutVehicles.v.Stopping distance.12.15..2016-03-01.jpg)
+
 
 **Further work :**
 
