@@ -103,7 +103,7 @@ Clearly the Planning process needs a review as it is not acting in the best inte
 
 The new charts of exact time between vehicles is now possible with the new spreadsheet. This one is from 12:15 02-03-2016. The time between vehicles was further reduced when the evening of 07-03-2016 was surveyed the average time between vehicles dropped to a 7 second average. It was also noted further information was available on wait times to exit, for instance there were extended periods in all surveys where time between vihicles is less than 7 seconds....
 
-![alt tag](charts/TrafficSurvey.Seperation.OutVehicles.v.Stopping distance.12.15..2016-03-01.jpg)
+![alt tag](charts/TrafficSurvey.Time.OutVehicles.v.AverageTimeBetweenVehiclesOut.12.15..2016-03-01.jpg)
 
 
 **Further work :**
