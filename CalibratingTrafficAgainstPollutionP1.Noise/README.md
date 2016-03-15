@@ -118,7 +118,7 @@ The danger of congestion had been noted in previous surveys but flow rates were 
 
 **Separation of Outward Vehicles against stopping distance for each vehicles speed**
 
-![alt tag](charts/TrafficSurvey.Seperation.OutVehicles.v.Stopping distance.12.15..2016-03-01.jpg)
+![alt tag](charts/TrafficSurvey.Seperation.OutVehicles.v.Stopping distance.12.15.2016-03-01.jpg)
 
 Time between vehicles has been added to the new template spreadsheet.
 
