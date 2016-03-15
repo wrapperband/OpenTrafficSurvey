@@ -65,7 +65,7 @@ It was possible to use the data collected in Survey 01 to test various relations
               |  Traffic	
               |   In	|    Out
 -------------- |    ----    |   ----    |
-              Base dBC  |	35	| 35
+Base dBC  |	35	| 35
 Calibration   |	1.4	| 1.48
 
 **Calibrating dBC noise readings against dBA**
