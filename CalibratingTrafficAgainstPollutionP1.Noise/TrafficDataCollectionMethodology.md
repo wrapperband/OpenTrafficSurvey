@@ -1,7 +1,7 @@
 #Open Traffic Survey
 **Data collection Methodology for automating a citizen traffic survey : Test site example survey**
 
-**Calibrating road Traffic to Pollution : Part 1  Noise : Data Collection** 
+#Calibrating Road Traffic to Pollution : Part 1 : Noise : Data Collection# 
 
 **Equipment :**
 
@@ -25,7 +25,7 @@ chalk or charcoal temporary marker
 
 **Hardware Set-up**
 
-*Where to place the camera*  
+**Where to place the camera**  
 
 Position the camera at a suitable place to video record the traffic, preferably side on.  
 
@@ -44,7 +44,7 @@ In this case the traffic samples were 5 minutes, taken in 3 surveys scheduled at
 
 Recorded to a PC with Kubuntu and used open source Guvcview software to save the video. 800 x 448 resolution gave the best wide screen accuracy of vehicle position but small file size. However, 640 x 480 would also have surfaced if storage space is tight.
 
-A number of extra 5 min samples were taken around the time, in case further historical analysis is needed.
+A number of extra 5 minute Video samples were taken around the same time, in case further historical analysis is needed.
 
 In addition to recording the traffic at 5 frames per second, in this case additional information was recorded at the same time. A second video camera recorded pollution levels, in this case Noise at 30 fps. These were then synchronized to start at the same point as the Traffic analysis video. 
 

@@ -3,12 +3,17 @@
 
 The aim of Open Traffic Survey is to outline a procedure which retains un-tamperable (video) evidence of Traffic characteristics and provide an open source spreadsheet into which data can be input and visualised with charts.  This survey is the result of a number of weeks work recording traffic and noise levels at the Oldham test site. These results were analysed in depth and a resulting updated Traffic Survey template spreadsheet was produced for 5 minute surveys. 
 
-The choice of a 5 minute survey arrives from previous survey results showning better than 25% error when predicting vehicles per hour (VPH) from vehicles per 5 minutes of flow readings. It was already shown from the 2013 test site survey traffic surveys, that the site has reasonably consistent flow of traffic from  07:00 till 19:00. Other sites might have more "lumpy" traffic flows and require longer surveys. It is recommended to uses 2 * 5 minute surveys, it has been found that these are time consuming, but more managable than a full 10 minute or longer survey. 
+The choice of a 5 minute survey arrives from previous survey results showing better than 25% error when predicting vehicles per hour (VPH) from vehicles per 5 minutes of flow readings. It was already shown from the 2013 test site survey traffic surveys, that the site has reasonably consistent flow of traffic from  07:00 till 19:00. Other sites might have more "lumpy" traffic flows and require longer surveys. It is recommended to uses 2 * 5 minute surveys, it has been found that these are time consuming, but more manageable than a full 10 minute or longer survey. 
 
 If you are using the Template to investigate a new Traffic flow test site, it is good practice to get a set of baseline readings at various times of the day. For instance, say 4 * 5 minute surveys would give a good indication of the variability. This would show how the new site differs from the template site, in order to understand which measurements need to be taken to describe the new site. i.e to capture the peak or lowest flow / congestion / speed times from observation. 
 
+Whilst the spreadsheets help set up a comprehensive survey, each survey is different. It is important to double check all charts are correctly ranged and that all calculations refer to the correct fields 
 
-**Calibrating road Traffic to pollution : Part 1  Noise** 
+
+#Calibrating Road Traffic to Pollution : Part 1 : Noise#
+
+Three traffic surveys were completed to gather data for an analysis of road traffic noise characteristics. The aim being to produce a template spreadsheet that can facilitate others to analyse the effects of traffic.
+
 
 **Traffic against Noise : Survey 1**
 
@@ -32,7 +37,7 @@ Testing Noise Calibration (per speed of vehicle), normal traffic survey
 
 07-03-2016 17:45 Weekday 
 
-Noise levels recorded a 1m, dBA (BS 5969) against/Calibrate dBC meter. Further tweeked all charts and added Time between vehicles, Both ways, In and Out traffic.  
+Noise levels recorded a 1m, dBA (BS 5969) against/Calibrate dBC meter. Further tweaked all charts and added Time between vehicles, Both ways, In and Out traffic.  
 
 **Summery :**  
 
@@ -42,30 +47,30 @@ TrafficDataCollectionMethodology.md  explains how the data was collected and the
 
 TrafficDataAnalysisMethodology.md shows how the data was analysed in the spreadsheet.  
 
-The README.md document records the main conclusions and observations and pertenant charts taken from the three traffic surveys.  
+The README.md document records the main conclusions and observations and pertinent charts taken from the three traffic surveys.  
 
 
 #Conclusions and Observations  
 
-Manual observation of the noise indicates the major source of traffic noise is due to wheel noise in this case. The traffic is mainly free flowing and is not generally deccelerating or accelerating where the readings are taken.  
+Manual observation of the noise indicates the major source of traffic noise is due to wheel noise in this case. The traffic is mainly free flowing and is not generally decelerating or accelerating where the readings are taken.  
 
 The secondary noise in this case appears to be from exhaust noise, indicated by the tendency for noise to be greater measured behind the vehicles.  
 
-In other cercumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
+In other circumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
 
 The calibration survey 01 showed that is a relation ship between speed and noise.  
 
-It was noted that the readings from dBC and dBA were not that disimillar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  
+It was noted that the readings from dBC and dBA were not that dissimilar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  
 
 ![alt tag](charts/TrafficSurveyRecordingTheNoiseLevels.dBC.AvgPerMin.2016-03-02.jpg) 
 
 The base noise level at the test site is extremely low, less than 40 dBA. It is well known that noise is more intrusive when compared against low background levels.  
 
-The highest levels of noise observered were for noisy vehicles, such as tractors and busses. Peak Noise levels for these vehicles often exceeded 85 dBA.  
+The highest levels of noise observed were for noisy vehicles, such as tractors and buses. Peak Noise levels for these vehicles often exceeded 85 dBA.  
 
 Noise levels when buses passed each other (a not too unlikely event) noise levels exceeded 90 dBA.  
 
-Noise levels remained high for significant periods of time / distance as vehicles passed. A number of estimation methos were tested whcih showed levels of noise 30 to 40 dB over backgroung for significant periods of the day. The test also showed peak levels above 75 dBA for significant portions of the sample times.  
+Noise levels remained high for significant periods of time / distance as vehicles passed. A number of estimation methos were tested whcih showed levels of noise 30 to 40 dB over background for significant periods of the day. The test also showed peak levels above 75 dBA for significant portions of the sample times.  
 
 ![alt tag](charts/TrafficSurvey-NoiseLevels.dBA.v.TrafficFlow-17.45-2016-03-07-01.jpg) 
 
@@ -97,11 +102,11 @@ Time between vehicles has been added to the new template spreadsheet.
 
 In the Noise test case, it had already established that large vehicles need special measures, like turning circles, to be able to operate. It is established in planning that new developments reduce danger entering the road by improving line of site. 
 
-Yet at the same time the planning process has allowed accelerated development of the area and left some residents to feel the brunt of the over use of limited infrastrucure, such as narrow roads with no pavment or off road parking.
+Yet at the same time the planning process has allowed accelerated development of the area and left some residents to feel the brunt of the over use of limited infrastructure, such as the narrow road with no pavement or off road parking at the test case.
 
-Clearly the Planning process needs a review as it is not acting in the best interest of all parties when alloating infrastrucure access. In particular, the test case shows the planning process is either un-aware of the danger of increasing traffic to current residence or ignoring that for the benefit of developers.
+Clearly the Planning process needs a review as it is not acting in the best interest of all parties when allocating infrastructure access. In particular, the test case shows the planning process is either unaware of the danger of increasing traffic to current residence or ignoring that for the benefit of developers.
 
-The new charts of exact time between vehicles is now possible with the new spreadsheet. This one is from 12:15 02-03-2016. The time between vehicles was further reduced when the evening of 07-03-2016 was surveyed the average time between vehicles dropped to a 7 second average. It was also noted further information was available on wait times to exit, for instance there were extended periods in all surveys where time between vihicles is less than 7 seconds....
+The new charts of exact time between vehicles is now possible with the new spreadsheet. This one is from 12:15 02-03-2016. The time between vehicles was further reduced when the evening of 07-03-2016 was surveyed the average time between vehicles dropped to a 7 second average. It was also noted further information was available on wait times to exit, for instance there were extended periods in all surveys where time between vehicles is less than 7 seconds....
 
 ![alt tag](charts/TrafficSurvey.Time.OutVehicles.v.AverageTimeBetweenVehiclesOut.12.15..2016-03-01.jpg)
 
