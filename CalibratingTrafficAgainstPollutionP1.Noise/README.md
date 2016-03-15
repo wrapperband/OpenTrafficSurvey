@@ -62,11 +62,11 @@ In other circumstances, where vehicles are starting and stopping or struggling u
 
 It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.
 
-Traffic	
-|   In	|    Out
--------------- |    ----    |   ----    |
-Base dBC    |	35	| 35
-Calibration   |	1.4	| 1.48
+Traffic  
+|   In	|    Out  
+-------------- |    ----    |   ----    |  
+Base dBC    |	35	| 35  
+Calibration   |	1.4	| 1.48  
 
 **Calibrating dBC noise readings against dBA**
 
@@ -76,9 +76,9 @@ The calibration factor for traffic noise was calculated in survey 3. The highest
 
 For traffic going both ways Average CalibrationFactor dBC to dBA was calculated as 0.97 with Standard Deviation 0.03
 
-For traffic In – Average CalibrationFactor dBC to dBA  was 0.98 with Standard Deviation 0.03
+For Traffic travelling In – Average CalibrationFactor dBC to dBA  was 0.98 with Standard Deviation 0.03
 
-For Traffic travelling Out – Average CalibrationFactor dBC to dBA  was 0.97 Std Deviation 0.03
+For Traffic travelling Out – Average CalibrationFactor dBC to dBA  was 0.97 with Standard Deviation 0.03
 
 
 **Detailed comparison of dBA to dBC readings at the test site**
