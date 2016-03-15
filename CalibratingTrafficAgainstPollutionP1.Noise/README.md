@@ -62,15 +62,24 @@ In other circumstances, where vehicles are starting and stopping or struggling u
 
 It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.
 
-              |  Traffic	
-              |   In	|    Out
+Traffic	
+|   In	|    Out
 -------------- |    ----    |   ----    |
-Base dBC  |	35	| 35
+Base dBC    |	35	| 35
 Calibration   |	1.4	| 1.48
 
 **Calibrating dBC noise readings against dBA**
 
 It was noted that the readings from dBC and dBA were not that dissimilar for traffic noise. For traffic noise a simple dBC meter can give a genuine indication liable effect.  The Survey 03 contains some detailed comparison of dBC to dBA levels.
+
+The calibration factor for traffic noise was calculated in survey 3. The highest levels being recorded as each vehicle passed which compensated for the phase difference between the two meters. This phase difference may be due the DAWE dBA instrument being solid state was able to operate faster, whereas the dBC Sound Level Meter was digital. Or the phase may simply be due differing sampling periods on each instrument.
+
+For traffic going both ways Average CalibrationFactor dBC to dBA was calculated as 0.97 with Standard Deviation 0.03
+
+For traffic In – Average CalibrationFactor dBC to dBA  was 0.98 with Standard Deviation 0.03
+
+For Traffic travelling Out – Average CalibrationFactor dBC to dBA  was 0.97 Std Deviation 0.03
+
 
 **Detailed comparison of dBA to dBC readings at the test site**
 
