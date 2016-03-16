@@ -54,7 +54,7 @@ The README.md document records the main conclusions and observations and pertine
 
 #Conclusions and Observations#
 
-**What are the level and effects of Noise at the Traffic survey Test Site**
+**What are the level and effects of Noise at the Traffic survey Test Site?**
 
 The level and effect of continuous traffic noise is obvious to any person adjacent to it.
 
@@ -64,14 +64,21 @@ Many shop workers, street cleaners, bin collectors and such really should be wea
 
 Many extremely dangerous sounds such as impacts and not even measured for in many cases. Similar research on the danger of impulsive noise from guns resulted in ear defender regulation. Yet, massive impulsive noise from dropped man hole covers, or banging chains on skip lorries are common dangerous noises exposed to the public.
 
+**Are the noise levels from traffic at the test site significant?**
+
 The noise levels from vehicles are very significant. Any further increase in traffic would further degrade the time bellow dangerous level of noise, even with vehicle wheel noise being the major noise source.
+
+**Why are the levels of noise increasing at the test site?**
 
 The data collected over the years at the test site shows a very significant decrease on time where noise is at its base line level and a significant increase in time over dangerous levels.
 
 When the test site occupant moved to the test site, it was recognised to be a restricted area, where development was difficult and intrusive. It was designated mixed rural, light industry and residential.
+
 It seemed to be recognised by planners at the time that, such as,  a small number of lorries that didn't inconvenience the residence if a turning circle and other deteriorative aspects were recognised and accounted for.
 
 However, it was then advantageous to "over develop" the residential component, allow large vehicles like double decker buses and possibly plan a new school, possibly doubling the hourly traffic during school rush hour. i.e ignoring the special circumstances of a high, narrow valley with one access road.
+
+**What effect can the noise levels at the test site cause?**
 
 The levels of noise due to traffic at the test site are very significant. It is likely that someone working in the garden would already be exposed to noise levels that cause physical and mental stress, contribute to hearing damage.
 
@@ -80,6 +87,8 @@ The level of noise above the very low ambient level further amplifies the distur
 On a contrary note, it was noted that the trains cause a high level of noise to both sides of the valley and that low flying planes and helicopters also produce a disproportional level of disturbance due to the same effects.
 
 For the disabled, the noise is at such a level to make the partially deaf or old have difficulty hearing other conversations.
+
+**What are the recommendations for further work?**
 
 It is recommended that a further dB LEq noise survey be conducted to exactly prove the current noise dose overall compared to work place regulation. Calibrate the Nose LEq level per vehicle.
 
