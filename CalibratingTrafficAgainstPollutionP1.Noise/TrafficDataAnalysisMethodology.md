@@ -62,7 +62,7 @@ That data is then repeated for traffic flowing in and out at rows 66 and 94. It 
 
 Rows 166 onwards of the spreadsheet have been used to input the detailed information for dBA against dBC. Two vehicles were chosen going wither way and data recorded every time the noise varied, typically every couple of seconds. 
 
-Column  W X Y Z AA AB were used to show how you can calculate the increase in traffic over subsequent years. The actual increase in traffic is usually larger than the TEMPRo estimate, which is spread over all location types.
+Column  W X Y Z AA AB were used to show how you can calculate the increase in traffic over subsequent years. The actual increase in traffic is usually larger than the TEMPRo estimate, which is calculated from data spread over all location traffic flow types.
 
 #Charts available in the spreadsheet#
 
@@ -98,6 +98,12 @@ The next 2 charts show a detailed calibration curve for two traffic events, in d
 The dBA meter has a quicker response and appears to be averaged over a slightly shorter time period. Otherwise the instruments were surprisingly similar in calibration. 
 
 It is concluded that, for the frequencies involved in the traffic noise at the test site and the limitations on the dBC meter and microphone, the multiplication factor to convert a "peak" dBC to dBA of 0.97 +/- 0.03 would give a reasonably accurate estimate of the dBA noise level.
+
+The next chart is shown bellow. It shows detailed analysis of the dBA noise level figures above 75 dBA. One of the disadvantages of the DAWE instrument is it has no auto Band switching, so had to be set at 80dB, which gives readings between 70 and 90 dBA. Some sample tests were also done to confirm sound levels were compatible at lower and higher ranges, the Maplin instrument was calibrated to the DAWE 70 - 90 dB range, as the majority of the noise range produced by traffic, this seems sensible.
+
+**Traffic noise levels in dBA shown against traffic flow both ways**
+
+![alt tag](charts/TrafficSurvey-NoiseLevels.dBA.v.TrafficFlow-17.45-2016-03-07-01.jpg) 
 
 
 
