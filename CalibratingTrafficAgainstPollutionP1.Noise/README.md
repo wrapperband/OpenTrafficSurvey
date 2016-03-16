@@ -71,7 +71,7 @@ The data collected over the years at the test site shows a very significant decr
 When the test site occupant moved to the test site, it was recognised to be a restricted area, where development was difficult and intrusive. It was designated mixed rural, light industry and residential.
 It seemed to be recognised by planners at the time that, such as,  a small number of lorries that didn't inconvenience the residence if a turning circle and other deteriorative aspects were recognised and accounted for.
 
-However, it was then advantageous to "over develop residential", remove land from the farm making it un-viable and develop the low traffic industrial site as a school, possibly doubling the hourly traffic during school rush hour. i.e ignoring the special circumstances of a high, narrow valley with one access road.
+However, it was then advantageous to "over develop" the residential component, allow large vehicles like double decker buses and possibly plan a new school, possibly doubling the hourly traffic during school rush hour. i.e ignoring the special circumstances of a high, narrow valley with one access road.
 
 The levels of noise due to traffic at the test site are very significant. It is likely that someone working in the garden would already be exposed to noise levels that cause physical and mental stress, contribute to hearing damage.
 
