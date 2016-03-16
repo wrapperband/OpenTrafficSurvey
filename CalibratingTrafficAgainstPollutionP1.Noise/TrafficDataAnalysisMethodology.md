@@ -9,9 +9,9 @@ The data analysis methodology describes the fields in the template spreadsheet u
 
 The analysis and observations reported at the time have been included, along with some updates to the spreadsheet, to provide more documented charts and guides to show how it can be used and errors and limitations. 
 
-The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible. Where it is not there are tips and explanations of such as what problems occured and how situations might differ and how that could be dealt with.
+The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible. Where it is not there are tips and explanations of such as what problems occurred and how situations might differ and how that could be dealt with.
 
-This document contains explaination of the Test site Traffic surveys analysis. The third survey covered calibrating dBC to dBA levels and has been added as a 5 minute survey Template sheet. The 5 minute survey has been proved to show reasonable accuracy when predicting VPH figures.
+This document contains explanation of the Test site Traffic surveys analysis. The third survey covered calibrating dBC to dBA levels and has been added as a 5 minute survey Template sheet. The 5 minute survey has been proved to show reasonable accuracy when predicting VPH figures.
 
 TrafficAnalysisSpreadsheet.Noise.5MinuteSurvey.Template.-17.40-07.03.2016-01.ods
 
@@ -42,19 +42,19 @@ Name of the Traffic Flow Evidence video that is being analysed
 Description of Calculation | Example Value
 -------------------------- | -------------
 Vehicles Per Hour   |	492.00   
-Average Speed MPH   |	33.20  
-MaxSpeed MPH   |	51.14  
-MinSpeed MPH   |	23.24  
+Average Speed (MPH)   |	33.20  
+MaxSpeed (MPH)   |	51.14  
+MinSpeed (MPH)   |	23.24  
 Traffic Flow VPH Max   |	1500.00  
 Traffic Flow VPH Min   |	225.00  
-MaxDistanceBetweenVehicles   |	129.09  
-MinDistanceBetweenVehicles   |	12.76  
+MaxDistanceBetweenVehicles (Yds)  |	129.09  
+MinDistanceBetweenVehicles (Yds)  |	12.76  
 Traffic Flow VPH Avg   |	614.13  
-AvgStoppingDistance   |	30.32  
-MaxStoppingDistance   |	60.63  
-MinStoppingDistance   |	16.75  
-AvgDistanceBetweenVehicles Yds   |	58.12  
-AvgTimeBetweenVehicles Yds   |	7.23
+AvgStoppingDistance (Yds)  |	30.32  
+MaxStoppingDistance (Yds)  |	60.63  
+MinStoppingDistance (Yds)  |	16.75  
+AvgDistanceBetweenVehicles (Yds)   |	58.12  
+AvgTimeBetweenVehicles (Yds)   |	7.23
   
 
 
@@ -83,8 +83,21 @@ The same data is then shown for the left and right moving traffic in the next tw
 
 The final flow chart shows using the simulation field to see what 2 x Traffic would be.
 
-**Vehicle Separation & Danger of accidents**  
+**Vehicle Separation & Danger**  
 
-The spreadsheet calculates the separation of vehicles, bot as an estimate combining both ways traffic and the more accurate calculation for traffic in each direction.
+The spreadsheet calculates the separation of vehicles as an estimate, combining both ways traffic. The calculations for  traffic in each direction is more accurate as the distances can be more exactly calculated from the speeds of the vehicles.
+
+**Noise Levels**
+
+These charts show the noise against speed, flow and separation. The first chart, Noise against speed, shows how similar the dBC and dBA readings were once phase had been taken into account.
+
+The second chart for flow rates shows how the traffic noise is kept high, as traffic bunches The vehicles are shown at time of arrival.
+
+The next 2 charts show a detailed calibration curve for two traffic events, in detail. Each shows the effect of traffic in different directions, the second also showing two events. The phase difference between the videos (noise and flow), was made adjustable on the spreadsheet and aligned. The phase difference between the two instruments can then be seen.
+
+The dBA meter has a quicker response and appears to be averaged over a slightly shorter time period. Otherwise the instruments were surprisingly similar in calibration. 
+
+It is concluded that, for the frequencies involved in the traffic noise at the test site and the limitations on the dBC meter and microphone, the multiplication factor to convert a "peak" dBC to dBA of 0.97 +/- 0.03 would give a reasonably accurate estimate of the dBA noise level.
+
 
 
