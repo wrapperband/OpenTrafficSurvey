@@ -39,7 +39,7 @@ Testing Noise Calibration (per speed of vehicle), speed, flow, separation and ti
 
 07-03-2016 17:45 Weekday 
 
-Noise levels recorded a 1m, dBA (BS 5969) against/Calibrate dBC meter. Further tweaked all charts and added Time between vehicles, Both ways, In and Out traffic.  
+Noise levels recorded at > 1m, 0.5m height dBA (BS 5969) against/Calibrate dBC meter. Further tweaked all charts and added Time between vehicles, Both ways, In and Out traffic.  
 
 **Summery :**  
 
@@ -75,7 +75,7 @@ However, it was then advantageous to "over develop residential", remove land fro
 
 The levels of noise due to traffic at the test site are very significant. It is likely that someone working in the garden would already be exposed to noise levels that cause physical and mental stress, contribute to hearing damage.
 
-The level of noise above the very low ambient level further amplifies the deterious disturbing effect of the "random" loud noise  above "incredibly" quiet background noise levels. The tight vally also means noises are carried directly to the other side, where a canal and park / farm land. 
+The level of noise above the very low ambient level further amplifies the disturbing effect of the "random" loud noise  above "incredibly" quiet background noise levels. The tight, steep sided valley also means noises are carried directly to the other side, where a canal and park / farm land. 
 
 On a contrary note, it was noted that the trains cause a high level of noise to both sides of the valley and that low flying planes and helicopters also produce a disproportional level of disturbance due to the same effects.
 
@@ -115,11 +115,11 @@ It was noted that the readings from dBC and dBA were not that dissimilar for tra
 
 The calibration factor for traffic noise was calculated in survey 3. The highest levels being recorded as each vehicle passed which compensated for the phase difference between the two meters. This phase difference may be due the DAWE dBA instrument being solid state was able to operate faster, whereas the dBC Sound Level Meter was digital. Or the phase may simply be due differing sampling periods on each instrument.
 
-For traffic going both ways Average CalibrationFactor dBC to dBA was calculated as 0.97 with Standard Deviation 0.03
+For traffic going both ways Average Calibration Factor dBC to dBA was calculated as 0.97 with Standard Deviation 0.03
 
-For Traffic travelling In – Average CalibrationFactor dBC to dBA  was 0.98 with Standard Deviation 0.03
+For Traffic travelling In – Average Calibration Factor dBC to dBA  was 0.98 with Standard Deviation 0.03
 
-For Traffic travelling Out – Average CalibrationFactor dBC to dBA  was 0.97 with Standard Deviation 0.03
+For Traffic travelling Out – Average Calibration Factor dBC to dBA  was 0.97 with Standard Deviation 0.03
 
 
 **Detailed comparison of dBA to dBC readings at the test site**
