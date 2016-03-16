@@ -68,14 +68,18 @@ The noise levels from vehicles are very significant. Any further increase in tra
 
 The data collected over the years at the test site shows a very significant decrease on time where noise is at its base line level and a significant increase in time over dangerous levels.
 
-When the test site occupant moved to the test site, it was recognised to be a restricted are. It was designated mixed rural, light industry and residential.
-It was recognised in various actions that a small number of lorries that didn't inconvenience the residence if a turning circle and other aspects were recognised.
+When the test site occupant moved to the test site, it was recognised to be a restricted area, where development was difficult and intrusive. It was designated mixed rural, light industry and residential.
+It seemed to be recognised by planners at the time that, such as,  a small number of lorries that didn't inconvenience the residence if a turning circle and other deteriorative aspects were recognised and accounted for.
 
-However, it was then advantageous to "over develop residential", remove land from the farm making it un-viable and develop the low traffic industrial site as a school doubling the hourly traffic during school rush hour, if developed.
+However, it was then advantageous to "over develop residential", remove land from the farm making it un-viable and develop the low traffic industrial site as a school, possibly doubling the hourly traffic during school rush hour. i.e ignoring the special circumstances of a high, narrow valley with one access road.
 
-The levels of noise due to traffic at the test site are very significant. It is likely that someone working in the garden would already be exposed to noise levels that cause physical and mental stress, contribute to hearing damage
+The levels of noise due to traffic at the test site are very significant. It is likely that someone working in the garden would already be exposed to noise levels that cause physical and mental stress, contribute to hearing damage.
 
-For the disabled it is such a level to make the partially deaf or old have difficulty hearing other conversations.
+The level of noise above the very low ambient level further amplifies the deterious disturbing effect of the "random" loud noise  above "incredibly" quiet background noise levels. The tight vally also means noises are carried directly to the other side, where a canal and park / farm land. 
+
+On a contrary note, it was noted that the trains cause a high level of noise to both sides of the valley and that low flying planes and helicopters also produce a disproportional level of disturbance due to the same effects.
+
+For the disabled, the noise is at such a level to make the partially deaf or old have difficulty hearing other conversations.
 
 It is recommended that a further dB LEq noise survey be conducted to exactly prove the current noise dose overall compared to work place regulation. Calibrate the Nose LEq level per vehicle.
 
@@ -84,13 +88,13 @@ Noting :
  There is only one main way into the test site road.
  It is not possible to widen the road because it is in a tight valley.
 
-It is recommended,  In order to prevent overt damage and discomfort to those residence who live "adjacent to" and "pedestrians walking on", Huddersfield Rd :
+It is recommended,  In order to prevent overt damage and discomfort to those residence who live "adjacent to" and "pedestrians walking on", the test site road :
 
 1. It is recommended that action be taken to decrease the levels of traffic.
 
 2. Action be taken to alleviate the traffic noise danger of residual traffic at the test site e.g quieter tarmac, no pot holes fix all "dropped man hole covers".
 
-3. Action be assessed for other areas with same problems i.e Valley with close buildings reflective to noise and one road through for traffic..
+3. Action be assessed for other areas with same problems i.e Valley with close buildings reflective to noise and one road through for traffic.
 
 
 **What are the sources of Noise from Traffic?**
