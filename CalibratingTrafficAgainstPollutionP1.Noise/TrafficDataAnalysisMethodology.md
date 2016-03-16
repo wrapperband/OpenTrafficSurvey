@@ -99,11 +99,21 @@ The dBA meter has a quicker response and appears to be averaged over a slightly 
 
 It is concluded that, for the frequencies involved in the traffic noise at the test site and the limitations on the dBC meter and microphone, the multiplication factor to convert a "peak" dBC to dBA of 0.97 +/- 0.03 would give a reasonably accurate estimate of the dBA noise level.
 
-The next chart is shown bellow. It shows detailed analysis of the dBA noise level figures above 75 dBA. One of the disadvantages of the DAWE instrument is it has no auto Band switching, so had to be set at 80dB, which gives readings between 70 and 90 dBA. Some sample tests were also done to confirm sound levels were compatible at lower and higher ranges, the Maplin instrument was calibrated to the DAWE 70 - 90 dB range, as the majority of the noise range produced by traffic, this seems sensible.
+The next chart is shown bellow. It shows detailed analysis of the dBA noise level figures above 75 dBA. One of the disadvantages of the DAWE instrument is it has no auto Band switching, so had to be set at 80dB, which gives readings between 70 and 90 dBA. Some sample tests were also done to confirm sound levels were compatible at lower and higher ranges, the Maplin instrument was calibrated to the DAWE 70 - 90 dB range. As the majority of the noise range produced by traffic is in this range, this seems sensible.
 
 **Traffic noise levels in dBA shown against traffic flow both ways**
 
 ![alt tag](charts/TrafficSurvey-NoiseLevels.dBA.v.TrafficFlow-17.45-2016-03-07-01.jpg) 
+
+The next few charts are quite complex as they show In and out traffic data against noise and average levels. However they detailed aspects of noise production.
+
+
+The first shows Noise (over 75 dBA) against vehicle speed, the next two show Separation of vehicles against noise, both ways then each way.
+
+![alt tag](charts/TrafficSurvey.Seperation.In.OutVehicles.v.NoiseOver75dBA.17.45.2016-03-07-01.jpg) 
+
+
+
 
 
 
