@@ -1,9 +1,11 @@
 #Open Traffic Survey
 **Methodology for analysing the Traffic data with the citizen traffic survey spreadsheet**
 
-#Calibrating road Traffic to Pollution : Part 1  Noise : Data Analysis# 
+#Calibrating road Traffic to Pollution : Part 1  Noise  
 
-The data analysis methodology describes the fields in the template spreadsheet using real data from a number of Traffic audits to explain what they mean and how they are calculated.
+#Data Analysis   
+
+The data analysis methodology describes the fields in the template spreadsheet using real data from a number of Traffic audits to explain what they mean and how they are calculated. The template spreadsheet contains real data from the test site.
 
 The analysis and observations reported at the time have been included, along with some updates to the spreadsheet, to provide more documented charts and guides to show how it can be used and errors and limitations. 
 
@@ -56,9 +58,9 @@ AvgTimeBetweenVehicles Yds   |	7.23
   
 
 
-That data is then repeated for traffic flowing in and out at rows 66 and 94. It is the same information from the overal analysis, but the 0 and 1 direction marker field  and the frame field can be used to sort the rows into just the left or right components. Then cleaning up the calculations. Spliting the data makes much more accurate time and separation calculations for the vehicles over the each way estimates.
+That data is then repeated for traffic flowing in and out at rows 66 and 94. It is the same information from the overall analysis, but the 0 and 1 direction marker field  and the frame field can be used to sort the rows into just the left or right components. Then cleaning up the calculations. Splitting the data makes much more accurate time and separation calculations for the vehicles over the each way estimates.
 
-Rows 166 onwards of the spreadsheet have been used to input the detailed information for dBA against dBC. Two vehicles were chosen going wither way and data recorded every time the noise vried, typically every couple of seconds. 
+Rows 166 onwards of the spreadsheet have been used to input the detailed information for dBA against dBC. Two vehicles were chosen going wither way and data recorded every time the noise varied, typically every couple of seconds. 
 
 Column  W X Y Z AA AB were used to show how you can calculate the increase in traffic over subsequent years. The actual increase in traffic is usually larger than the TEMPRo estimate, which is spread over all location types.
 
