@@ -108,12 +108,20 @@ The next chart is shown bellow. It shows detailed analysis of the dBA noise leve
 The next few charts are quite complex as they show In and out traffic data against noise and average levels. However they detailed aspects of noise production.
 
 
-The first shows Noise (over 75 dBA) against vehicle speed, the next two show Separation of vehicles against noise, both ways then each way.
+The first shows Noise (over 75 dBA) against vehicle speed, the next two show Separation of vehicles against noise, both ways then each way. The separation is relatively correct, showing the variation. The next chart whilst more complicated, shows the more accurate readings available for separated IN and Out traffic. The separtion scale is logerithmic to show the current wide dynamic range of flow, free to congested.
+
+**Traffic noise levels dBA against separation of both ways traffic**
 
 ![alt tag](charts/TrafficSurvey.Seperation.In.OutVehicles.v.NoiseOver75dBA.17.45.2016-03-07-01.jpg) 
 
+The next two charts are unused in this survey, they attach to the manual analysis fields for a dBC (or other auto ranging) survey. The current dBA meter, whilst accurate for calibration is limited by manual ranging, otherwise these charts would have been included.
 
+**Predicted Normal Increase in Traffic Charts**
 
+This sheet has charts showing the various methods of calculating the likely increase in traffic. It is not known the exact TEMPRo version used on the test site, so the standard ones are shown.
 
+**Increase in traffic per day for next 15 years as predicted by TEMPRo** 
+
+![alt tag](charts/TrafficSurvey.TEMPRo.IncreaseInTraffic15years.17.45.2016-03-07-01.jpg)
 
 
