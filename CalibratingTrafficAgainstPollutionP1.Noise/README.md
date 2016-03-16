@@ -19,11 +19,11 @@ Three traffic surveys were completed to gather data for an analysis of road traf
 
 **Traffic against Noise : Survey 1**
 
-**01 - Traffic Survey with detailed noise analysis using (fast averaging) dBC meter. Analysis of calibration noise per vehicle**
+**01 - Traffic Survey with detailed noise analysis using (fast averaging) dBC Sound Level Meter. Analysis of calibration noise per vehicle**
 
 02-03-2016  12:15 Weekend :  
 
-Continuous noise survey using dBC, noise of vehicles at 1m and 25m distance, Estimate time above noise level bands, show minimal noise levels, speed, flow, separation and time traffic analysis.  
+Continuous noise survey using dBC, noise of vehicles at 1m and 25m distance, Estimate time above noise level bands, calibrating noise against vehicle speed, investigate minimal noise levels at test, speed, flow, separation and time traffic analysis.  
 
 **Traffic against Noise : Survey 2**  
 
@@ -31,11 +31,11 @@ Continuous noise survey using dBC, noise of vehicles at 1m and 25m distance, Est
 
 02-03-2016 18:00 Weekend :  
 
-Testing Noise Calibration (per speed of vehicle), normal traffic survey  
+Testing Noise Calibration (per speed of vehicle), speed, flow, separation and time traffic analysis.  
 
 **Traffic against Noise : Survey 3**  
 
-**03 - Traffic Survey taken after 5 o'clock, calibration dBC to dBA, calibration, estimating the length of time per vehicle above 75dBA**
+**03 - Traffic Survey taken after 5 o'clock, calibration dBC to dBA, detailed noise band analysis of the length of time per vehicle above 75dBA**
 
 07-03-2016 17:45 Weekday 
 
@@ -54,11 +54,54 @@ The README.md document records the main conclusions and observations and pertine
 
 #Conclusions and Observations#
 
+**What are the level and effects of Noise at the Traffic survey Test Site**
+
+The level and effect of continuous traffic noise is obvious to any person adjacent to it.
+
+Because it has been a difficult economic and technological move to reduce pollution from vehicles, the public does not understand that vehicles still generate noise levels that would require ear protection in a work environment.
+
+Many shop workers, street cleaners, bin collectors and such really should be wearing ear defenders, if they don't want to go deaf early.
+
+Many extremely dangerous sounds such as impacts and not even measured for in many cases. Similar research on the danger of impulsive noise from guns resulted in ear defender regulation. Yet, massive impulsive noise from dropped man hole covers, or banging chains on skip lorries are common dangerous noises exposed to the public.
+
+The noise levels from vehicles are very significant. Any further increase in traffic would further degrade the time bellow dangerous level of noise, even with vehicle wheel noise being the major noise source.
+
+The data collected over the years at the test site shows a very significant decrease on time where noise is at its base line level and a significant increase in time over dangerous levels.
+
+When the test site occupant moved to the test site, it was recognised to be a restricted are. It was designated mixed rural, light industry and residential.
+It was recognised in various actions that a small number of lorries that didn't inconvenience the residence if a turning circle and other aspects were recognised.
+
+However, it was then advantageous to "over develop residential", remove land from the farm making it un-viable and develop the low traffic industrial site as a school doubling the hourly traffic during school rush hour, if developed.
+
+The levels of noise due to traffic at the test site are very significant. It is likely that someone working in the garden would already be exposed to noise levels that cause physical and mental stress, contribute to hearing damage
+
+For the disabled it is such a level to make the partially deaf or old have difficulty hearing other conversations.
+
+It is recommended that a further dB LEq noise survey be conducted to exactly prove the current noise dose overall compared to work place regulation. Calibrate the Nose LEq level per vehicle.
+
+Noting :
+
+ There is only one main way into the test site road.
+ It is not possible to widen the road because it is in a tight valley.
+
+It is recommended,  In order to prevent overt damage and discomfort to those residence who live "adjacent to" and "pedestrians walking on", Huddersfield Rd :
+
+1. It is recommended that action be taken to decrease the levels of traffic.
+
+2. Action be taken to alleviate the traffic noise danger of residual traffic at the test site e.g quieter tarmac, no pot holes fix all "dropped man hole covers".
+
+3. Action be assessed for other areas with same problems i.e Valley with close buildings reflective to noise and one road through for traffic..
+
+
+**What are the sources of Noise from Traffic?**
+
 Preliminary analysis at the test site indicates the major component of traffic noise is due to wheel / road surface interaction. The traffic is mainly free flowing and is not generally decelerating or accelerating where the readings are taken.    
 
 The secondary noise in this case appears to be from vehicle exhaust noise. This is indicated by the tendency for noise to be greater when measured behind the vehicles than in front, for both directions.  
 
 In other circumstances, where vehicles are starting and stopping or struggling up hill then engine and exhaust noise would probably dominate.  
+
+**Is there a relationship between Noise and Vehicle speed?**
 
 It was possible to use the data collected in Survey 01 to test various relationships, it can be clearly seen there is a relationship between speed and noise.  That relationship also held despite the wide variety of speeds and types of traffic at the test site, such as slow moving noisy tractors and fast but quiet cars "rolling" past.  
 
