@@ -41,6 +41,10 @@ Testing Noise Calibration (per speed of vehicle), speed, flow, separation and ti
 
 Noise levels recorded at > 1m, 0.5m height dBA (BS 5969) against/Calibrate dBC meter. Further tweaked all charts and added Time between vehicles, Both ways, In and Out traffic.  
 
+**Detailed Chart of dBA Traffic Noise over low ambient noise level at Test site at low (day) flow rates**
+
+![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBA.v.Flow-12.15-2016-03-02-01.jpg) 
+
 **Summery :**  
 
 The spreadsheet TrafficAnalysisSpreadsheet.Noise.5MinuteSurvey.Template.-17.40-07.03.2016-01.ods shows real data from the Oldham Test site and can also be used as an 5 minute traffic survey Template.  
