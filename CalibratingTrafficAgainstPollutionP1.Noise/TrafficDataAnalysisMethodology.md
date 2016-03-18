@@ -54,7 +54,7 @@ AvgStoppingDistance (Yds)  |	30.32
 MaxStoppingDistance (Yds)  |	60.63  
 MinStoppingDistance (Yds)  |	16.75  
 AvgDistanceBetweenVehicles (Yds)   |	58.12  
-AvgTimeBetweenVehicles (Yds)   |	7.23
+AvgTimeBetweenVehicles (Secs)   |	7.23
   
 
 
@@ -133,6 +133,8 @@ Shows the charts of the Noise to speed calibration taken from the dBC readings i
 
 ![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBC.v.speed-12.15-2016-03-02-01.jpg)
 
+**Calibrating dBA Traffic Noise from dBC noise readings x 0.975 at Test site at low (day) flow rates**
 
+![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBA.v.Flow-12.15-2016-03-02-01.jpg) 
 
 
