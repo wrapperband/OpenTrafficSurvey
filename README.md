@@ -5,6 +5,9 @@ The aim of Open Traffic Survey is to outline a procedure which retains un-tamper
 
 The Template spreadsheet contains data from a real world test case and the documentation compares various data collection measurements, calculates errors and variability and  observations from the test data collected.  
 
+The system has been developed and tested at test site, all data, analysis and estimates from real data at the test site. The document is published publicly for use by all parties.
+
+
 **Open Traffic Survey : History of development**
 
 The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
@@ -82,15 +85,17 @@ http://www.howpollutedismyroad.org.uk/ : shows some research information to help
      cases in adults 65 years of age and older."  
   
 
-**Traffic flows at the test site**
+**Traffic flows and pollution at the test site**
   
 For the Traffic survey test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further increases in development / Traffic . The proposed development threatening to increase the levels above 5200 per day.  
 
-In a more recent 5 minute survey of the test site showed flow levels of 490 Vehicles per hour, or 5870 Vehicles per day, which would mean mean traffic levels of 7300 Vehicles a day, when the conservative estimate of extra traffic from the development is included. 
+In the weekday traffic survey of the test site showed flow levels of 490 Vehicles per hour, or 5870 Vehicles per day, which would mean mean traffic levels of 7300 Vehicles a day, when the conservative estimate of extra traffic from proposed developments developments are included. 
 
-At the test site a one way system is proposed to handle extra traffic, this  would spread out the high noise levels, so they are virtually contiguous and increase noise from stationary and accelerating vehicles.
+At the test site a one way system is proposed to handle extra traffic from developments, this  would spread out the high noise levels, so they are virtually contiguous and increase noise from stationary and accelerating vehicles.
 
-**Pollution from peak traffic levels**
+Currently moving traffic at the test site is "free wheeling" or low acceleration and taking  a short time to pass. A proposed one way sytem with traffic lights, will increase stationary traffic and will therefore increase the level of exhaust pollutants at the test site.
+
+**Assessing Pollution from traffic levels**
 
 The current research shows average traffic flow readings vastly underestimate the peak levels. The simulated traffic for the period the development would use, showed peak levels of 10,000 Vehicles per hour for one congestion event in the 10 minute sample and for over 3000 vehicles per hour for 3 events over 30 seconds long.
 

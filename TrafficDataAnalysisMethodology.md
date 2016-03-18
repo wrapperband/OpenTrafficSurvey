@@ -414,6 +414,15 @@ In another similar example of high income area commuting similar to the test sit
 
 The chart shows the Growth in Traffic at the test site using TEMPRO "calibration" figures.
 
+**How to confirm or find traffic trends in your area?**
+
+One way to get more figures for your are (if avaialable) is "Roadside survey of vehicle observations" released under OpenGovernmentLicence.
+
+The roadside survey is a survey of vehicles passing observation points on the UK road network. It uses automatic numberplate recognition (ANPR) cameras to capture registration marks at 256 sites during June each year (or every other from 2011 onwards). 
+
+https://data.gov.uk/dataset/roadside-survey-of-vehicles
+
+
 **Traffic Flow Rates - Predicted increase from 2016 - Flow per Hour**  
 
 ![alt tag](charts/TrafficSurvey-TEMPROPredictedIncreasePerHour2016.jpg)  
