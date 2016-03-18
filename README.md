@@ -15,11 +15,11 @@ The system has then been used to start calibrating the historical and test data,
 
 The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
 
-The methodology arises from long term notes / study of how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.
+The methodology arises from long term notes / study of how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.  
 
 **Gathering Objective data**
 
-The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show / visualise the true effect of "average vehicle flows" being experienced by the community. 
+The necessity to start manual analysis and record keeping arose out of the requirement of a local planning action group to have some source of "provable in court" information on the environment and how it was changing. That investigation resulted in various charts and calculations to show / visualise the true effect of "average vehicle flows" being experienced by the community.  
 
 **Analysing and Visualising what the traffic data means and how accurate it is**
 
@@ -35,7 +35,7 @@ This chart is from the first spreadsheet with data taken from Video evidence, th
 
 **Is there any ways of easing the manual work in analysing and collecting the traffic data?**
 
-Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. It is possible to set some software to trigger an image when there is movement in part of the frame. By adjusting the sensitivity it is possible to trigger an event when a car or bigger passes, but not a person.
+Various techniques and common equipment were tested for potential use as sensors and analysis to speed up the time consuming parts of the process of auditing traffic levels. It is possible to set some software to trigger an image when there is movement in part of the frame. By adjusting the sensitivity it is possible to trigger an event when a car or bigger passes, but not a person.  
 
 **Testing and calibrating the image trigger system**
 
@@ -49,7 +49,7 @@ It was therefore decided to complete a second 2013 study, using 2 hours of manua
 
 Quite a lot of analysis was done of the manual data, to show deviation and normal variation of flow and accuracy of predicting hourly readings from different sample lengths.
 
-The 2010 survey was also performed by a slightly different trigger method, where short videos were triggered and each was analysed manually. Whereas with the 2013 survey there were no false positives, the 2010 survey did have some. As this was a preliminary study different methods were assesed for accuracy and the most likely setings were tested. 
+The 2010 survey was also performed by a slightly different trigger method, where short videos were triggered and each was analysed manually. Whereas with the 2013 survey there were no false positives, the 2010 survey did have some. As this was a preliminary study different methods were assess for accuracy and the most likely settings were tested. 
 A manual inspection of the videos were recorded into a spreadsheet and split in to categories and direction.
 
 The video sample method takes up more time and resources than the 3 image 2013 method so is certain to require calibration by at least 1.5x.
@@ -96,7 +96,7 @@ In the weekday traffic survey of the test site showed flow levels of 490 Vehicle
 
 At the test site a one way system is proposed to handle extra traffic from developments, this  would spread out the high noise levels, so they are virtually contiguous and increase noise from stationary and accelerating vehicles.
 
-Currently moving traffic at the test site is "free wheeling" or low acceleration and taking  a short time to pass. A proposed one way sytem with traffic lights, will increase stationary traffic and will therefore increase the level of exhaust pollutants at the test site.
+Currently moving traffic at the test site is "free wheeling" or low acceleration and taking  a short time to pass. A proposed one way system with traffic lights, will increase stationary traffic and will therefore increase the level of exhaust pollutants at the test site.
 
 **Assessing Pollution from traffic levels**
 
