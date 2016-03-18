@@ -37,16 +37,16 @@ In the 2010 Traffic survey, a triggering mechanism was used to save a single or 
 
 This proved effective for long term monitoring, it was used to prove there was no early morning or  early evening peak in traffic in our case. 
 
-When the original results of the 2013 "Trigger Data" Traffic survey were compared with some manual readings, at the test site, the flow had to be calibrated with st least a multiplying factor of 2.  
+When the original results of the 2013 "Trigger Data" Traffic survey were compared with some manual readings, at the test site, the flow had to be calibrated with at least a multiplying factor of 2.  
 
 It was therefore decided to complete a second 2013 study, using 2 hours of manual counts of traffic  into from 5 minute sample pots. 
 
 Quite a lot of analysis was done of the manual data, to show deviation and normal variation of flow and accuracy of predicting hourly readings from different sample lengths.
 
-The 2010 survey was also performed by a slightly different trigger method, where short videos were triggered and each was analysed manually. Whereas with the 2013 survey there were no false positives, the 2010 survey did have some. As this was a preliminary study different methods were assesed for accuracy and the most likely sttings were tested. 
-A manual inspection of the videos were recorded into a spreadsheet and split in to catagories and direction.
+The 2010 survey was also performed by a slightly different trigger method, where short videos were triggered and each was analysed manually. Whereas with the 2013 survey there were no false positives, the 2010 survey did have some. As this was a preliminary study different methods were assesed for accuracy and the most likely setings were tested. 
+A manual inspection of the videos were recorded into a spreadsheet and split in to categories and direction.
 
-The video sample method takes up more time and resources than the 3 image 2013 method so is cirtain to require calibration by at least 1.5x.
+The video sample method takes up more time and resources than the 3 image 2013 method so is certain to require calibration by at least 1.5x.
 
 **Recalibrated 2010 Traffic Survey Data 1.5x Trigger**
 
@@ -82,9 +82,13 @@ http://www.howpollutedismyroad.org.uk/ : shows some research information to help
      cases in adults 65 years of age and older."  
   
 
+**Traffic flows at the test site**
+  
 For the Traffic survey test site there were 310 vehicles per hour for 12 hours, that is over 3,700 vehicles a day. It is therefore clear adjacency of the road and the steep sided valley means the residence are already being exposed to dangerous levels of pollution, without further increases in development / Traffic . The proposed development threatening to increase the levels above 5200 per day.  
 
-In a more recent 5 minute survey of the test site showed flow levels of 444 Vehicles per hour, or 5300 Vehicles per day, which could mean traffic levels of 6800 Vehicles a day, with extra traffic from the development.
+In a more recent 5 minute survey of the test site showed flow levels of 490 Vehicles per hour, or 5870 Vehicles per day, which would mean mean traffic levels of 7300 Vehicles a day, when the conservative estimate of extra traffic from the development is included. 
+
+At the test site a one way system is proposed to handle extra traffic, this  would spread out the high noise levels, so they are virtually contiguous and increase noise from stationary and accelerating vehicles.
 
 **Pollution from peak traffic levels**
 
@@ -217,7 +221,7 @@ http://phys.org/news/2016-02-sleepy-falsely-crime-commit.html
 In order to achieve that trust with "trusted systems"  it will be important that the general citizen can reproduce the work of the "Public Servant", in order that the effect  of work can be monitored. Currently the political systems in most countries have evolved to better serve those at the top, mainly by obscuring any cause and effect or over complicating regulation as there is no feedback or normal quality control or improvement.
 
       
-**Example Traffic flow charts from the spreadsheet**
+**Example Traffic flow charts from the Traffic data analysis spreadsheets**
 
 **Traffic Flow Rates May 2015**  
 
