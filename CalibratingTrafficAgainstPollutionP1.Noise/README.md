@@ -134,6 +134,21 @@ For Traffic travelling In – Average Calibration Factor dBC to dBA  was 0.98 wi
 
 For Traffic travelling Out – Average Calibration Factor dBC to dBA  was 0.97 with Standard Deviation 0.03
 
+**Could noise levels be used to Monitor Traffic?**
+
+This chart shows the Noise Time signature taken from the camera used to record video of the sound level meter readings. 
+
+Each of the vehicles on the survey can be seen as a significant localised peak of noise. This means a vido of the noise could be used as proof of traffic levels.
+
+It was noted that the camera did not seem to auto range the audio, so the differance in the spectra readings with and without traffic would give a reasonable approximation to the actual contribution.
+
+![alt tag](charts/TrafficNoise.TimeSeries-17.45-2016-03-07-01.jpg) 
+
+**What are the Frequency components of Traffic Noise?**
+
+The chart shows the differance between noie with and without traffic at the site, taken over a long average >> 1 sec. It can be clearly seen that the vehicle noise covers a very wide range of frequencies and covering most of the Human Audio Spectral band. ie the most damaging and intrusive frequencies to humans and thosemost liable to deteriously effect the hearing of the old or  disabled (deaf).
+
+![alt tag](charts/TrafficNoise.FourierAnalysis.DifferanceWithTraffic.0-15kHz-17.45-2016-03-07-01.jpg) 
 
 **Detailed comparison of dBA to dBC readings at the test site**
 

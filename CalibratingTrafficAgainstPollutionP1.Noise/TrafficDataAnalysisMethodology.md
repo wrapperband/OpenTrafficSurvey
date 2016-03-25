@@ -124,7 +124,6 @@ This sheet has charts showing the various methods of calculating the likely incr
 
 ![alt tag](charts/TrafficSurvey.TEMPRo.IncreaseInTraffic15years.17.45.2016-03-07-01.jpg)
 
-
 **Noise Calibration Per MPH**
 
 Shows the charts of the Noise to speed calibration taken from the dBC readings in survey 1.
@@ -133,7 +132,7 @@ Shows the charts of the Noise to speed calibration taken from the dBC readings i
 
 ![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBC.v.speed-12.15-2016-03-02-01.jpg)
 
-**Calibrating dBA Traffic Noise from dBC noise readings x 0.975 at Test site at low (day) flow rates**
+**Calibrating dBA Traffic Noise from dBC noise at Test site at low (day) flow rates**
 
 ![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBA.v.Flow-12.15-2016-03-02-01.jpg) 
 
