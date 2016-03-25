@@ -158,7 +158,7 @@ This chart shows the Frequency spectra from Vehicle noise from an time without o
 
 This chart shows the Frequency spectra from the Fourier analysis of Vehicle noise from a time with out clipping, for comparison.
 
-![alt tag](charts/TrafficNoise.FourierAnalysis.Vehicle.Clipping.HighNoiseLevel.LogFreq.HiRes-17.45-2016-03-07-04.jpg)  
+![alt tag](charts/TrafficNoise.FourierAnalysis.Vehicle.Clipping.HighNoiseLevel.LogFreq-17.45-2016-03-07-02.jpg)  
 
 **What noise frequencies does Traffic add to he environment?**
 
