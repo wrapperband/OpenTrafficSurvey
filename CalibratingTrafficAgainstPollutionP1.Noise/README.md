@@ -148,7 +148,7 @@ It was noted that the camera did not seem to auto range the audio, so the differ
 
 The chart shows the difference between noise with and without traffic at the site, taken over a long average >> 1 sec. It can be clearly seen that the vehicle noise covers a very wide range of frequencies and covering most of the Human Audio Spectral band. i.e. the most damaging and intrusive frequencies to humans and those most liable to deleteriously effect the hearing of the old or  disabled (deaf).  
 
-It is assumed that the preliminary noise recording was not autoraged, if it had been the dB noise difference will be greater, but consistent over the frequency range.
+It is assumed that the preliminary noise recording was not autoranged, if it had been the dB noise difference will be greater, but consistent over the frequency range.
 
 ![alt tag](charts/TrafficNoise.FourierAnalysis.DifferanceWithTraffic.0-15kHz-17.45-2016-03-07-01.jpg) 
 
