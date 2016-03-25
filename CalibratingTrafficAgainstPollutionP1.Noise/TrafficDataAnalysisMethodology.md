@@ -136,4 +136,54 @@ Shows the charts of the Noise to speed calibration taken from the dBC readings i
 
 ![alt tag](charts/TrafficSurveyCalibrating.NoiseLevels.dBA.v.Flow-12.15-2016-03-02-01.jpg) 
 
+**Analysing Spectral components of Traffic noise**
+
+Preliminary analysis was performed on spectral analysis of the audio track from the video of Noise measurements. Although in some ways poor quality, it was interesting to find if useful information could be extracted. In future noise recordings a hi quality recorder that can be set to not auto range. This can be fed directly from some of the Sound Level meters available. 
+
+However, it is well known that the small condenser microphones used in modern equipment have very good / flat frequency response characteristics, so again it would be interesting to find how "bad" results really are with lower price equipment. This is particular point when when assessing such as traffic noise, where normal variations in the system are massively more significant than the errors in noise or other pollution measurements.  
+
+**What is the effect of the clipping on any spectral analysis?**
+
+The chart shows the time series of the sound generated at the test site, recorded by the camera filming the sound meters, 17-45pm 07-03-2016 survey at the Oldham test site.  
+
+It can be seen there are periods where the absolute level is underestimated, because of the clipping. Probably because that is the loudest the camera can record.
+
+![alt tag](charts/TrafficNoise.TimeSeries.Clipping-17.45-2016-03-07-01.jpg)  
+
+In order to find the effect of the clipping and get some information on just the traffic noise spectra it was possible to select various periods without clipping and still have seconds of time data to produce high resolution audio specta.
+
+This chart shows the Frequency spectra from Vehicle noise from an time without out clipping (i.e approach)
+
+![alt tag](charts/TrafficNoise.FourierAnalysis.Vehicle.noClip.HighNoiseLevel.LogFreq-17.45-2016-03-07-02.jpg)  
+
+This chart shows the Frequency spectra from the Fourier analysis of Vehicle noise from a time with out clipping, for comparison.
+
+![alt tag](charts/TrafficNoise.FourierAnalysis.Vehicle.Clipping.HighNoiseLevel.LogFreq.HiRes-17.45-2016-03-07-04.jpg)  
+
+**What noise frequencies does Traffic add to he environment?**
+
+It was possible to find a period of low traffic noise and take this away from a period of an extended period of traffic noise. Whilst preliminary at this stage it would give a realistic estimation of the contributing frequencies from traffic noise. This shows the close up chart of the difference between traffic and low noise spectra, 0 - 2000Hz. Although the noise is generally wide band a few frequency peaks can be identified.
+
+wheel speed, tyre frequencies, pebble density in tarmac, reving engine, exhaust resonance / notes, environmental resonances / echoes + any clipping
+
+The frequency peaks are smoothed out and Averaged over about 6 vehicles passing in the preliminary case.  
+
+The traffic is contributing a very significant wide band noise covering all frequencies 0-1000Hz of 20dB above background levels.
+
+In noise terms 20dB + 20 dB = 23dB - showing the significance of wide band noise when calculating the noise exposure and it's deterious effect on hearing.
+
+From the chart it can be seen that the main Low frequency peaks, measured above background : are
+
+Freq    |   Level
+------  |    -----
+75Hz    |   35dB 
+175Hz   |   32dB 
+275Hz   |   28dB
+340Hz   |   23dB
+460Hz   |   24dB
+850Hz   |   23dB
+1250Hz  |   22dB
+
+
+![alt tag](charts/TrafficNoise.FourierAnalysis.DifferanceWithTraffic.0-2kHz-17.45-2016-03-07-02.jpg) 
 
