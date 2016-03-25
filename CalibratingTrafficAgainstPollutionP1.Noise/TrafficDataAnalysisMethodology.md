@@ -185,5 +185,11 @@ Freq    |   Level
 1250Hz  |   22dB
 
 
-![alt tag](charts/TrafficNoise.FourierAnalysis.DifferanceWithTraffic.0-2kHz-17.45-2016-03-07-02.jpg) 
+![alt tag](charts/TrafficNoise.FourierAnalysis.DifferanceWithTraffic.0-2kHz-17.45-2016-03-07-02.jpg)  
+
+This charts shows the full  range of spectra over 0-15Kz.
+
+![alt tag](charts/TrafficNoise.FourierAnalysis.DifferanceWithTraffic.0-15kHz-17.45-2016-03-07-01.jpg) 
+
+
 
