@@ -1,8 +1,10 @@
-Results of Survey Diggle 9/2/2019 13:00
+Results of 1 Hour Vehicle Survey - Diggle 11/2/2019 18:00
 
-375 Vehicles Per Hour
+455 Vehicles Per Hour Survey
 
-This is up from 270 in the last survey March 2017
+The traffic level is up from 375 on 09/2/2019 and  270 in the previous survey in  March 2017
+
+On oneoccasion there was 1600 vehicles per minute, and 3 other occasions when traffic was above 1000 vehicles per hour. From the video this level of traffic is already causing sevear congestion, pollution and noise in the narrow road.
 
 
 #Open Traffic Survey
