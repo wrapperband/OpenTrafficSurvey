@@ -12,13 +12,12 @@ There were 2 other occasions when traffic was above 1200 vehicles per hour. From
 #### Vehicles per hour against time measured  
 
 
-![Vehicles /hour - Oldham 13.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-13%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-13-vph-02.png)
-
+![Vehicles /hour - Oldham 14.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-14%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-14-vph-01.png)
 
 
 #### Vehicles per hour for each 10 car sample  
 
-![Vehicles /hour - Oldham 13.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-13%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-13-vph-01.png)
+![Vehicles /hour - Oldham 13.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-14%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-14-vph-02.png)
 
 
 
