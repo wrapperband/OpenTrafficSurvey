@@ -3,6 +3,7 @@ Results of Survey Diggle 9/2/2019 13:00
 375 Vehicles Per Hour
 
 This is up from 270 in the last survey March 2017
+
 ### Results of 1 Hour Vehicle Survey - Diggle 9/2/2019 18:00  
 
 375  - Vehicles Per Hour Survey  
