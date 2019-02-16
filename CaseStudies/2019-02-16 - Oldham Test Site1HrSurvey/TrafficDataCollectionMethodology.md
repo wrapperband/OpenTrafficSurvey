@@ -1,23 +1,30 @@
-### Results of 1 Hour Vehicle Survey - Diggle 14/2/2019 17:15
+### Results of 1 Hour 20 mins Vehicle Survey - Diggle 16/2/2019 12:15
 
-532    - Average Vehicles Per Hour Survey  
+445    - Average Vehicles Per Hour Survey  
 
-The traffic level is up from 520 on  13/2/2019  and shows the high level of traffic is consistent over days. 
+The charts show a continuing average based on the 1st hour count, for an extra 20mins.
 
-There were 5 occasions of over 1000 vehicles per hour. The road was observably congested.
 
-There were 2 other occasions when traffic was above 1200 vehicles per hour. From observing the traffic video this level of traffic is already causing sever congestion, pollution and noise in the narrow road.  
+The traffic level was down the 500's, but is still close to "rush hour traffic" levels, noise and congestion.
+
+
+There were 4 occasions of over 1300 vehicles per hour. The road was observably congested, as can be seen from the chart, large increase in traffic is due to batch queuing.
+
+There were 2 of those occasions when traffic was above 1700 vehicles per hour. From observing the traffic video this level of traffic is already causing sever congestion, pollution and noise in the narrow road.  
+
+The average after the 1hour count survey was completed shows continuing sever levels of traffic.
+
 
 
 #### Vehicles per hour against time measured  
 
 
-![Vehicles /hour - Oldham 14.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-14%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-14-vph-01.png)
+![Vehicles /hour - Oldham 14.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-16-vph-01.png)
 
 
 #### Vehicles per hour for each 10 car sample  
 
-![Vehicles /hour - Oldham 13.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-14%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-14-vph-02.png)
+![Vehicles /hour - Oldham 13.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-16-vph-02.png)
 
 
 
