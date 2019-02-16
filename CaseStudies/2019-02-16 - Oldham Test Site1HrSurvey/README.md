@@ -19,11 +19,28 @@ The average after the 1hour count survey was completed shows continuing sever le
 #### Vehicles per hour against time measured  
 
 
-![Vehicles /hour - Oldham 14.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-16-vph-01.png)
+![Vehicles /hour - Oldham 16.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-16-vph-01.png)
 
 
 #### Vehicles per hour for each 10 car sample  
 
-![Vehicles /hour - Oldham 13.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-16-vph-02.png)
+![Vehicles /hour - Oldham 16.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-2-16-vph-02.png)
+
+
+
+#### Example of danger - pedestrains forced to walk on road, few regulation pavements  
+
+
+![Vehicles /hour - Oldham 16.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-feb-1-4.png)
+
+
+![Vehicles /hour - Oldham 16.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-feb-1-4b.png)
+
+
+![Vehicles /hour - Oldham 16.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-feb-1-4c.png)
+
+
+![Vehicles /hour - Oldham 16.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-16%20-%20Oldham%20Test%20Site1HrSurvey/Images/2019-feb-1-4d.png)
+
 
 
