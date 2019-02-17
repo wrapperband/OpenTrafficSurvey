@@ -162,16 +162,16 @@ In which case the error was calculated for 5 frames was in fact the same as one 
 
 **Vehicles flow rate per hour and per last 5 vehicles**
 
-Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample)  
--------------------------------------   |   -------------------------------------  
-        |                                306.00  
-        |                                306.00  
-        |                                306.00  
-        |                                306.00  
-        |                                306.00  
-165.14  |                                306.00  
-166.36  |                                306.00  
-260.12  |                                306.00  
+Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample)  |  
+-------------------------------------   |   -------------------------------------  |
+        |                                306.00  |
+        |                                306.00  |
+        |                                306.00  |
+        |                                306.00  |
+        |                                306.00  |
+165.14  |                                306.00  |
+166.36  |                                306.00  |
+260.12  |                                306.00  |
 
 
 Vehicles per hour is calculated by totalling the vehicles for the sample period in this case 10 mins. This is then multiplied by how many times the sampling period fits into one hour. In the example case there are 6 10minutes in One Hour.  
