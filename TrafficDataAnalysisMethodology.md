@@ -1,11 +1,11 @@
-#Open Traffic Survey
+## Open Traffic Survey
 **Methodology for analysing the Traffic data with the citizen traffic survey spreadsheet**
 
 The data analysis methodology describes the fields in the template spreadsheet using real data from a number of Traffic audits to explain what they mean and how they are calculated.
 
 The analysis and observations reported at the time have been included, along with some updates to the spreadsheet, to provide more documented charts and guides to show how it can be used and errors and limitations. 
 
-The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible. Where it is not there are tips and explanations of such as what problems occured and how situations might differ and how that could be dealt with.
+The aim is to make a difficult task of analysing data easier for anyone to do, and provide more detail automatically, if possible. Where it is not there are tips and explanations of such as what problems occurred and how situations might differ and how that could be dealt with.
 
 A number of other side studies are also noted, such as direction of vehicle or various methods of simulating the effect of proposed changes.
 
@@ -59,11 +59,11 @@ AvgDistanceBetweenVehicles Yds   |	88.83
 
 The Vehicles per hour is calculated from the sample length in minutes Cell F8   :  =(COUNT($I$10:$I$60)*(60/F8))  
 
-It is important to check the calculation ranges and the ranges of the charts after imputing new data. In particular the Vehicles per hour which relies on knowing the sample length as well as which columns the data is in.
+It is important to check the calculation ranges and the ranges of the charts after imputing new data. In particular the Vehicles per hour which relies on knowing the sample length as well as which columns the data is in.  
 
-**Columns of the spreadsheet**
+**Columns of the spreadsheet**  
 
-**Input the video frame number for each vehicle entering and leaving the measurement "box"**
+**Input the video frame number for each vehicle entering and leaving the measurement "box"**  
 
 Start Frame |   End frame
 ----------- |   ---------
@@ -75,9 +75,11 @@ At Cell C8 is where you input data into the spreadsheet. The template is set up 
 
 *Note : It important to mark each vehicle "as it enters the Box".*   
 
+*Note : Avidemux no linger shows frames for compressed video files. The test cases shows a simplified spreadsheet based on time vehicles pass. The old spreadsheet has been modified to work with frame time for a full analysis. Because there are now various formats depending on the type of survey, and appropriate spreadsheet should be used as the template for a new survey.*  
+
 Care needs to be taken when vehicles are arriving in the box, to input them in order into the spreadsheet. On the video, one vehicle arrives from left, you must input the arrival frame and exit frame of that vehicle, whilst noting to go back, because another vehicle was behind it or arriving from the other direction....
 
-**Calculating the time to Traverse the measurement "Box"**
+**Calculating the time to Traverse the measurement "Box"**  
 
 Frames	|    Accurate Time (secs)
 ------  |   ---------------------
@@ -160,17 +162,16 @@ In which case the error was calculated for 5 frames was in fact the same as one 
 
 **Vehicles flow rate per hour and per last 5 vehicles**  
   
-Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample) 
--------------------------------------   |   -------------------------------------
-        |                                306.00  
-        |                                306.00  
-        |                                306.00  
-        |                                306.00  
-        |                                306.00  
-165.14	|                                306.00  
-166.36	|                                306.00  
-260.12	|                                306.00  
-  
+Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample)  
+-------------------------------------   |   -------------------------------------  
+        |                                306.00   
+        |                                306.00   
+        |                                306.00   
+        |                                306.00   
+        |                                306.00   
+165.14	|                                306.00   
+166.36	|                                306.00   
+260.12	|                                306.00   
 
 Vehicles per hour is calculated by totalling the vehicles for the sample period in this case 10 mins. This is then multiplied by how many times the sampling period fits into one hour. In the example case there are 6 10minutes in One Hour.  
 
@@ -182,12 +183,12 @@ Note : the calculation cannot start till five vehicles have passed, which is why
 
 It is noted that it would be possible to calibrate pollution levels to the instantaneous or "5 car average" flow rates, these being much higher when vehicles are "bunched".  
 
-**Calculating the distance between vehicles**
+**Calculating the distance between vehicles**  
 
-Distance between Vehicles Error – 1 frames  |   Distance between vehicles (yds) avg last 5 Vehicles |   Distance between Vehicles Error + 1 frames
-------------------------------------------  |   --------------------------------------------------- |   ------------------------------------------
- 	| |
-60.12   |   57.62   |   55.31
+Distance between Vehicles Error – 1 frames  |   Distance between vehicles (yds) avg last 5 Vehicles |   Distance between Vehicles Error + 1 frames  
+------------------------------------------  |   --------------------------------------------------- |   ------------------------------------------  
+  |  |  
+60.12   |   57.62   |   55.31  
 
 
 Distance between the vehicles is estimated from speed of the vehicles, and how far that would have travelled in the time for the 5 vehicles to pass. There is an add complication of averaging left and right hand traffic in the example sheet. However, the average is re-calculated for every vehicle which shows the assumptions are reasonable in the test case where traffic was evenly balanced left to right.  
@@ -197,7 +198,7 @@ It is noted that a method of splitting the left and right sheets for some result
 **Safe stopping distance calculations**
 
 Safe Stop Distance For Speed -Yds   |   Safe Stop Distance For Speed – F    |   Distance between vehicles (yds) min last 5 Vehicles  
----------------------------------   |   --------------------------------    |   ---------------------------------------------------
+---------------------------------   |   --------------------------------    |   ---------------------------------------------------  
 34.41   |   103.23  |   
 6.99    |   20.96   |   
 27.68   |  83.03   |  
@@ -212,7 +213,7 @@ After 5 vehicles pass it is then possible calculate or extract the min, max or a
 
 **Example of a simple simulation 2 x traffic level**
 
-Vehicles per Hour – with Twice / X times  the Trafiic   |   Vehicles Per Hour (Each last 5 cars) – With Simulated Traffic  
+Vehicles per Hour – with Twice / X times  the Traffic   |   Vehicles Per Hour (Each last 5 cars) – With Simulated Traffic  
 -----------------------------------------------------   |   -------------------------------------------------------------
 612.00  |	 
 612.00  |	 
@@ -225,15 +226,15 @@ For the test case it was calculated that extra traffic between 8:15 and 9:00 wou
 The simulation isn't included as it will be site specific.
 
 
-Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Vehicles	|    Start Frame |   End frame
------------------------------------------   |   -----------------------------------  |  -----------    |   ---------
-	|  |	| 0.00	
-0.0467	|    |   14.00	|    21.00
-0.2967	|    75.00	| 89.00   |   96.00
-0.5467	|    75.00	| 164.00	|    171.00
-0.7967	|    |	239.00    |	259.00
-0.8089	|    3.67    |	242.67    |	262.67
-0.8211	|    3.67    |	246.33    |	266.33
+Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Vehicles	|    Start Frame |   End frame  
+-----------------------------------------   |   -----------------------------------  |  -----------    |   ---------  
+	|  |	| 0.00	 
+0.0467	|    |   14.00	|    21.00  
+0.2967	|    75.00	| 89.00   |   96.00  
+0.5467	|    75.00	| 164.00	|    171.00  
+0.7967	|    |	239.00    |	259.00  
+0.8089	|    3.67    |	242.67    |	262.67  
+0.8211	|    3.67    |	246.33    |	266.33  
 
 
 The new arrival times are calculated with =(C13-C10)/3 in Cell B11  and =(C13-C10)/3 in B12.  
@@ -270,16 +271,16 @@ The following chart shows just how conservative the 2 times Multiplier used when
 ![alt tag](charts/TrafficSurvey-CalibrationManual.v.Triggered-CalibrationRates-00.11.2013.jpg)  
 
 
-**Spreadsheet calibration results for 5 minute samples**
-
-	|	| Sample Variation %
+**Spreadsheet calibration results for 5 minute samples**  
+  
+    |   | Sample Variation %   
 --------------------------------------  |   ------ |    ------    
-	|	|    	
-Average Calibration	|   4.31	|  29.06 |
-Maximum Calibration	|   6.67	|  |
-Minimum Calibration	|   1.92	|  |
-Average Vehicles Per Hour (Manual)	|    403.83	|    22.68
-Average Vehicles Per Hour (Triggered)	| 99.13	| 27.85
+    |    	  
+Average Calibration	|   4.31	|  29.06 |  
+Maximum Calibration	|   6.67	|  |  
+Minimum Calibration	|   1.92	|  |  
+Average Vehicles Per Hour (Manual)	|    403.83	|    22.68  
+Average Vehicles Per Hour (Triggered)	| 99.13	| 27.85  
 
 
 Manual Count 5mins	|    Measured with Trigger	| Manually Counted Per Hour	| Measured with automatic count Per Hour	|    Calibration Multiplier

@@ -7,7 +7,7 @@ The Template spreadsheet contains data from a real world test case and the docum
 
 The system has been developed and tested at test site, all data, analysis and estimates from real data at the test site. The document is published publicly for use by all parties.
 
-The previous open traffic survey spreadsheets have been updated to include the latest data at the test site compared to noise levels. It gas the development work in the open traffic survey at this point and to demonstrates how the template was modified to a test case. 
+The previous open traffic survey spreadsheets have been updated to include the latest data at the test site compared to noise levels. It gives the development work in the open traffic survey at this point and to demonstrates how the template was modified to a test case. 
 
 
 [Oldham Test Case recent results 2019](https://github.com/wrapperband/OpenTrafficSurvey/tree/master/CaseStudies "Latest Survey results for Test Case")
@@ -18,7 +18,7 @@ The previous open traffic survey spreadsheets have been updated to include the l
 
 **Open Traffic Survey : History of development**
 
-The Open Traffic Survey is the result of "6 years work" (not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
+The Open Traffic Survey is the result of "6 years work" (as of 2016  and not contiguous) monitoring and analysing the traffic on a minor road in Oldham.  
 
 The methodology arises from long term notes / study of how A.I. or Machine Learning techniques could assist in continuous environmental surveys such as traffic levels. i.e. it is an open source project to enable Environmental monitoring, contributions welcome.  
 
@@ -114,7 +114,7 @@ That analysis showed a flow of greater than "3000 Vehicles per hour" (not day) f
 
 The dysfunctionally of the planning system, particularly with local roads is disturbing, what can we do about it?
  
-The first thing to do is monitor the situation so those with responsibility can't continue to put their head in the sand, pretending what they don't know doesn't heart them...
+The first thing to do is monitor the situation so those with responsibility can't continue to put their head in the sand, pretending what they don't know doesn't hert them...
 
 Currently, the effects of traffic on the population near the roads is not even considered as a factor unless over kill danger is apparent, whilst new developments have every consideration of noise and traffic effect.
 
@@ -201,7 +201,7 @@ As part of such a large development the traffic design should have complied with
 
 http://www.standardsforhighways.co.uk/dmrb/vol7/section2/hd3901.pdf
 
-For the new designation of the "new road system", all the pavements should have been considered in the standards for a Heavy vehicle Category road. That should also include where there are no current pavements, i.e. test casew.
+For the new designation of the "new road system", all the pavements should have been considered in the standards for a Heavy vehicle Category road. That should also include where there are no current pavements, for example at the traffic survey test case in Oldham.
    
 **Open Source Systems : Philosophy**
 
