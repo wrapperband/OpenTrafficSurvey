@@ -228,15 +228,15 @@ For the test case it was calculated that extra traffic between 8:15 and 9:00 wou
 The simulation isn't included as it will be site specific.
 
 
-Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Vehicles	|    Start Frame |   End frame  
------------------------------------------   |   -----------------------------------  |  -----------    |   ---------  
-	|  |	| 0.00	 
-0.0467	|    |   14.00	|    21.00  
-0.2967	|    75.00	| 89.00   |   96.00  
-0.5467	|    75.00	| 164.00	|    171.00  
-0.7967	|    |	239.00    |	259.00  
-0.8089	|    3.67    |	242.67    |	262.67  
-0.8211	|    3.67    |	246.33    |	266.33  
+| Time between Simulated Vehicles – Minutes   |   Calculated Frames  Between Vehicles	|    Start Frame |   End frame  
+| -----------------------------------------   |   -----------------------------------  |  -----------    |   ---------  
+|	|  |	| 0.00	 
+| 0.0467	|    |   14.00	|    21.00  
+| 0.2967	|    75.00	| 89.00   |   96.00  
+| 0.5467	|    75.00	| 164.00	|    171.00  
+| 0.7967	|    |	239.00    |	259.00  
+| 0.8089	|    3.67    |	242.67    |	262.67  
+| 0.8211	|    3.67    |	246.33    |	266.33  
 
 
 The new arrival times are calculated with =(C13-C10)/3 in Cell B11  and =(C13-C10)/3 in B12.  
