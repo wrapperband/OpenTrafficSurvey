@@ -160,7 +160,7 @@ The vehicle speed is calculated from the exact time, calculated from the number 
 In which case the error was calculated for 5 frames was in fact the same as one frame at 5 frames/sec. if the additional accuracy and storage space no object the error can by reduced by a fifth by using 25 frames a second or greater video frame rates.  
   
 
-**Vehicles flow rate per hour and per last 5 vehicles**  
+**Vehicles flow rate per hour and per last 5 vehicles**
 
 Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample)  
 -------------------------------------   |   -------------------------------------  
@@ -169,9 +169,9 @@ Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample
         |                                306.00  
         |                                306.00  
         |                                306.00  
-165.14	|                                306.00  
-166.36	|                                306.00  
-260.12	|                                306.00  
+165.14  |                                306.00  
+166.36  |                                306.00  
+260.12  |                                306.00  
 
 
 Vehicles per hour is calculated by totalling the vehicles for the sample period in this case 10 mins. This is then multiplied by how many times the sampling period fits into one hour. In the example case there are 6 10minutes in One Hour.  
@@ -184,7 +184,7 @@ Note : the calculation cannot start till five vehicles have passed, which is why
 
 It is noted that it would be possible to calibrate pollution levels to the instantaneous or "5 car average" flow rates, these being much higher when vehicles are "bunched".  
 
-**Calculating the distance between vehicles**  
+**Calculating the distance between vehicles**
 
 Distance between Vehicles Error – 1 frames  |   Distance between vehicles (Yds) avg last 5 Vehicles |   Distance between Vehicles Error + 1 frames  
 ------------------------------------------  |   --------------------------------------------------- |   ------------------------------------------  
@@ -198,7 +198,7 @@ It is noted that a method of splitting the left and right sheets for some result
 
 **Safe stopping distance calculations**
 
-Safe Stop Distance For Speed -Yds   |   Safe Stop Distance For Speed – F    |   Distance between vehicles (yds) min last 5 Vehicles  
+Safe Stop Distance For Speed -Yds   |   Safe Stop Distance For Speed – F    |   Distance between vehicles (Yds) min last 5 Vehicles  
 ---------------------------------   |   --------------------------------    |   ---------------------------------------------------  
 34.41   |   103.23  |   
 6.99    |   20.96   |   
