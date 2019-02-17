@@ -283,8 +283,8 @@ The following chart shows just how conservative the 2 times Multiplier used when
 | Minimum Calibration	|   1.92	|  |  
 | Average Vehicles Per Hour (Manual)	|    403.83	|    22.68  |
 | Average Vehicles Per Hour (Triggered)	| 99.13	| 27.85  |
-
-
+  
+  
 
 Manual Count 5mins	|    Measured with Trigger	| Manually Counted Per Hour	| Measured with automatic count Per Hour	|    Calibration Multiplier
 ------------------  |   ---------------------   |   -------------------------   |   --------------------------------------   |    ----------------------

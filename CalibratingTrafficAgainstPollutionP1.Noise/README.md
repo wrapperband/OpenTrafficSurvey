@@ -1,6 +1,6 @@
-**Open Traffic Survey**
+## Open Traffic Survey
 
-#Calibrating Road Traffic to Pollution : Part 1 : Noise#
+### Calibrating Road Traffic to Pollution : Part 1 : Noise
 
 **Introduction to a citizen Traffic Survey Methodology**
 
@@ -56,7 +56,7 @@ TrafficDataAnalysisMethodology.md shows how the data was analysed in the spreads
 The README.md document records the main conclusions and observations and pertinent charts taken from the three traffic surveys.  
 
 
-#Conclusions and Observations#
+### Conclusions and Observations
 
 **What are the level and effects of Noise at the Traffic survey Test Site?**
 
