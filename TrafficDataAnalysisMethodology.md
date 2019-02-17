@@ -165,11 +165,11 @@ In which case the error was calculated for 5 frames was in fact the same as one 
 
 Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample)  |  
 -------------------------------------   |   -------------------------------------  |  
-|   306.00  |  
-|   306.00  |  
-|   306.00  |  
-|   306.00  |  
-|   306.00  |  
+  |   306.00  |  
+  |   306.00  |  
+  |   306.00  |  
+  |   306.00  |  
+  |   306.00  |  
 165.14  |   306.00  |  
 166.36  |   306.00  |  
 260.12  |   306.00  |  
