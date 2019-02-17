@@ -160,18 +160,19 @@ The vehicle speed is calculated from the exact time, calculated from the number 
 In which case the error was calculated for 5 frames was in fact the same as one frame at 5 frames/sec. if the additional accuracy and storage space no object the error can by reduced by a fifth by using 25 frames a second or greater video frame rates.  
   
 
+ 
 **Vehicles flow rate per hour and per last 5 vehicles**
 
 Vehicles Per Hour (Each  last 5 cars)   |   Vehicles Per Hour (10 minutes Sample)  |  
--------------------------------------   |   -------------------------------------  |
-        |                                306.00  |
-        |                                306.00  |
-        |                                306.00  |
-        |                                306.00  |
-        |                                306.00  |
-165.14  |                                306.00  |
-166.36  |                                306.00  |
-260.12  |                                306.00  |
+-------------------------------------   |   -------------------------------------  |  
+        |   306.00  |  
+        |   306.00  |  
+        |   306.00  |  
+        |   306.00  |  
+        |   306.00  |
+        165.14  |   306.00  |
+        166.36  |   306.00  |  
+        260.12  |   306.00  |  
 
 
 Vehicles per hour is calculated by totalling the vehicles for the sample period in this case 10 mins. This is then multiplied by how many times the sampling period fits into one hour. In the example case there are 6 10minutes in One Hour.  
