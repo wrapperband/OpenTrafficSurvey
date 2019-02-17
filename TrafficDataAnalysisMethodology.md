@@ -311,14 +311,14 @@ This shows that a 5 minute traffic flow sample gives reasonable indications of t
 
 **Spreadsheet calibration results for 5 minute samples**
 
-| 	|	| Sample Variation %   |  
+|  	| 	| Sample Variation %   |
 | --------------------------------------  |   ------ |    ------    |
-| 	|	|    	|  
-| Average Calibration	|   4.21	|  27.37 |   
-| Maximum Calibration	|   6.00	|  |  
-| Minimum Calibration	|   2.482	|  |  
-| Average Vehicles Per Hour (Manual)	|    399.00	|    15.99 |  
-| Average Vehicles Per Hour (Triggered)	| 99.50	| 22.19 |  
+| 	|	|    	|
+| Average Calibration	|   4.21	|  27.37 |
+| Maximum Calibration	|   6.00	|  |
+| Minimum Calibration	|   2.482	|  |
+| Average Vehicles Per Hour (Manual)	|    399.00	|    15.99 |
+| Average Vehicles Per Hour (Triggered)	| 99.50	| 22.19 |
 
 *Note that the last cell had to be doubled because there was an odd number of 5 minute sample. The doubled sample which was a less than average value.*
 
