@@ -3,12 +3,6 @@
 270 Vehicles Per Hour
 
 
-### Results of 1 Hour Vehicle Survey - Diggle 9/2/2019 13:00  
-
-375  - Vehicles Per Hour Survey  
-
-The traffic level is up from  270 in the previous survey in  March 2017  
-
 On 1 occasions there were ~600  vehicles per minute, and 4 other occasions when traffic was above ~400 vehicles per hour. 
 
 
