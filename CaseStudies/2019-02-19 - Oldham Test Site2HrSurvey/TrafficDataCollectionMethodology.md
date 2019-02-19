@@ -15,7 +15,7 @@ The average after the 1hour count survey was completed shows continuing sever le
 #### Vehicles per hour against time measured  
 
 
-![Vehicles /hour - Oldham 19.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-19%20-%20Oldham%20Test%20Site2HrSurvey/Images/2019-2-19-vph-01.pngg)
+![Vehicles /hour - Oldham 19.2.2019](https://raw.githubusercontent.com/wrapperband/OpenTrafficSurvey/master/CaseStudies/2019-02-19%20-%20Oldham%20Test%20Site2HrSurvey/Images/2019-2-19-vph-01.png)
 
 
 #### Vehicles per hour for each 10 car sample  
